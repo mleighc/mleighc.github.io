@@ -1,0 +1,10 @@
+---
+title: "A Survey of Collaborative Filtering Methodologies and Real-World Applications"
+description: ""
+categories: 
+   - automation
+   - coding
+   - python
+   - r
+---
+

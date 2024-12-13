@@ -1,0 +1,10 @@
+---
+title: "Referral List Automation"
+description: ""
+categories: 
+   - automation
+   - coding
+   - python
+   - r
+---
+

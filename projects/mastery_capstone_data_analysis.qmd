@@ -1,0 +1,10 @@
+---
+title: "Mastery Capstone Project - Is Education the Key to Success?"
+description: ""
+categories: 
+   - automation
+   - coding
+   - python
+   - r
+---
+

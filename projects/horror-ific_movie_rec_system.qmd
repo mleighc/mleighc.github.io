@@ -1,0 +1,12 @@
+---
+title: "A Horror-ific Movie Recommender System"
+description: ""
+categories: 
+   - automation
+   - coding
+   - python
+   - r
+---
+
+SI 650
+Experiments in Collaborative Filtering with Keras and Surprise

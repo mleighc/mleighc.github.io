@@ -1,0 +1,10 @@
+---
+title: "PEARL Participant Management System"
+description: "A modular system for managing study participants and workflows."
+categories:
+   - automation
+   - coding
+   - python
+   - r
+---
+This project is a streamlined participant management system designed to improve efficiency across studies.

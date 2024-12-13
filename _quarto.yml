@@ -2,16 +2,37 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "portfolio"
+  title: "Miranda L. Cooper"
+  site-url: https://mleighc.github.io/
+  favicon: assets/images/favicon_io/favicon.ico
+  back-to-top-navigation: true
+  bread-crumbs: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/mleighc
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mirandaleigh
+        aria-label: LinkedIn
+  page-footer:
+    center:
+      - '©2024 Miranda L. Cooper'
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: LICENSE
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: assets/css/styles.css
     toc: true
 

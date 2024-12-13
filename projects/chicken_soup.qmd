@@ -1,0 +1,10 @@
+---
+title: "Chicken Soup Data Visualization"
+description: ""
+categories: 
+   - automation
+   - coding
+   - python
+   - r
+---
+

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing:
+   contents: projects
+   categories: true
+   type: table
+   id: projects
+---
+
+::: {#projects}
+:::

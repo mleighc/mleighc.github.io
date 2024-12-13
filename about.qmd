@@ -1,5 +1,54 @@
 ---
-title: "About"
+title: ""
+about:
+    template: trestles
+    image: assets/images/headshot.jpeg
+    image-alt: 'A headshot of Miranda Cooper'
+    image-title: 'Miranda Leigh Cooper'
+    image-shape: round
+    links:
+      - icon: github
+        text: github
+        href: https://github.com/mleighc
+      - icon: linkedin
+        text: linkedin
+        href: https://www.linkedin.com/in/mirandaleigh
 ---
 
-About this site
+Lorem ipsum odor amet, consectetuer adipiscing elit. Venenatis molestie convallis dignissim curabitur ut diam tempor. Auctor augue vivamus ad erat suspendisse quis ac montes. Porta rhoncus vel ornare ut fringilla mollis orci augue. Auctor phasellus himenaeos aliquam egestas senectus accumsan elementum libero ac. Accumsan et interdum lacus orci cras aptent.
+
+## Education
+
+University of Michigan | Ann Arbor, MI    
+M.S. in Information | August 2021 - May 2023    
+
+## Experience
+
+**Michigan Alzheimer's Disease Center**    
+*Data Analyst/Programmer*    
+June 2023 - present    
+
+**University of Michigan School of Information**    
+*Instructional Aide*    
+August 2022 - April 2023    
+
+*Data Curator*    
+December 2021 - August 2022
+
+**EnterpriseDB (EDB)**    
+*Professional Services Intern*    
+May 2022 - April 2023
+
+**World Central Kitchen**    
+*Development (Fundraising) Operations Manager*    
+July 2019 - June 2021    
+
+**City Year Washington, DC**    
+*Development (Fundraising) Operations Director*    
+August 2018 - June 2019    
+
+*Development & Communications Manager*    
+August 2017 - August 2018    
+
+*Development (Fundraising) Operations Associate*    
+July 2015 - July 2017    
