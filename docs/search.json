@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Miranda L. Cooper",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Venenatis molestie convallis dignissim curabitur ut diam tempor. Auctor augue vivamus ad erat suspendisse quis ac montes. Porta rhoncus vel ornare ut fringilla mollis orci augue. Auctor phasellus himenaeos aliquam egestas senectus accumsan elementum libero ac. Accumsan et interdum lacus orci cras aptent."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Miranda L. Cooper",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 - May 2023"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Miranda L. Cooper",
+    "section": "Experience",
+    "text": "Experience\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer\nJune 2023 - present\nUniversity of Michigan School of Information\nInstructional Aide\nAugust 2022 - April 2023\nData Curator\nDecember 2021 - August 2022\nEnterpriseDB (EDB)\nProfessional Services Intern\nMay 2022 - April 2023\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager\nJuly 2019 - June 2021\nCity Year Washington, DC\nDevelopment (Fundraising) Operations Director\nAugust 2018 - June 2019\nDevelopment & Communications Manager\nAugust 2017 - August 2018\nDevelopment (Fundraising) Operations Associate\nJuly 2015 - July 2017"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n \n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n \n\n\n\n\nHorror-ific Movie Recommender System\n\n\n \n\n\n\n\nMADC Resource Library\n\n\n \n\n\n\n\nMADC Study Suggester\n\n\n \n\n\n\n\nMastery Capstone Project - Is Education the Key to Success?\n\n\n \n\n\n\n\nPEARL Participant Management System\n\n\n \n\n\n\n\nReferral List Automation\n\n\n \n\n\n\n\nSurvey of Collaborative Filtering Methodologies and Real-World Applications\n\n\n \n\n\n\n\nWomen’s Web Project\n\n\n \n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/PEARL.html",
+    "href": "projects/PEARL.html",
+    "title": "PEARL Participant Management System",
+    "section": "",
+    "text": "This project is a streamlined participant management system designed to improve efficiency across studies.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/madc_study_suggester.html",
+    "href": "projects/madc_study_suggester.html",
+    "title": "MADC Study Suggester",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/horror-ific_movie_rec_system.html",
+    "href": "projects/horror-ific_movie_rec_system.html",
+    "title": "Horror-ific Movie Recommender System",
+    "section": "",
+    "text": "SI 650 Experiments in Collaborative Filtering with Keras and Surprise\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/mastery_capstone_data_analysis.html",
+    "href": "projects/mastery_capstone_data_analysis.html",
+    "title": "Mastery Capstone Project - Is Education the Key to Success?",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/chicken_soup.html",
+    "href": "projects/chicken_soup.html",
+    "title": "Chicken Soup Data Visualization",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/referral_list_automate.html",
+    "href": "projects/referral_list_automate.html",
+    "title": "Referral List Automation",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/womens_web.html",
+    "href": "projects/womens_web.html",
+    "title": "Women’s Web Project",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/collab_filtering_survey.html",
+    "href": "projects/collab_filtering_survey.html",
+    "title": "Survey of Collaborative Filtering Methodologies and Real-World Applications",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/dmsc_madc_site.html",
+    "href": "projects/dmsc_madc_site.html",
+    "title": "Data Management and Statistical Core Sharing Hub",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "projects/madc_resource_library.html",
+    "href": "projects/madc_resource_library.html",
+    "title": "MADC Resource Library",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Portfolio",
+    "section": "",
+    "text": "Welcome to my Portfolio\nI’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.\nThe site is still in development, but feel free to explore my projects and check back soon for more updates!\n\n\n\n\n Back to top"
+  }
+]

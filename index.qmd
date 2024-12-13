@@ -2,6 +2,8 @@
 title: ""
 ---
 
-This is a Quarto website.
+# Welcome to my Portfolio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.
+
+The site is still in development, but feel free to explore my projects and check back soon for more updates!

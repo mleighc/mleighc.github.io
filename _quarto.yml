@@ -3,6 +3,12 @@ project:
   output-dir: docs
 website:
   title: "Miranda L. Cooper"
+  announcement:
+    content: "Thank you for visiting my portfolio! I’m currently in the process of developing and refining the site to showcase my latest projects, skills, and achievements. While it’s still a work in progress, I’m excited to share more with you soon. Please check back for updates, and feel free to explore the current content as it evolves."
+    dismissable: true
+    icon: cone-striped
+    type: info
+    position: below-navbar 
   site-url: https://mleighc.github.io/
   favicon: assets/images/favicon_io/favicon.ico
   back-to-top-navigation: true

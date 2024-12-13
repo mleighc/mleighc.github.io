@@ -1,5 +1,5 @@
 ---
-title: "A Survey of Collaborative Filtering Methodologies and Real-World Applications"
+title: "Survey of Collaborative Filtering Methodologies and Real-World Applications"
 description: ""
 categories: 
    - automation

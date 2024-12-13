@@ -1,5 +1,5 @@
 ---
-title: "A Horror-ific Movie Recommender System"
+title: "Horror-ific Movie Recommender System"
 description: ""
 categories: 
    - automation
