@@ -1,10 +1,9 @@
 ---
-title: "MADC Resource Library"
+title: "Michigan Alzheimer's Disease Center Resource Library"
 description: ""
 categories: 
-   - automation
-   - coding
-   - python
+   - quarto
    - r
+   - markdown
 ---
 

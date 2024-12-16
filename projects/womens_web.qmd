@@ -1,10 +1,11 @@
 ---
-title: "Women's Web Project"
+title: "Women's Web Design Project"
 description: ""
 categories: 
-   - automation
-   - coding
-   - python
-   - r
+   - javascript
+   - html5
+   - css
+   - web accessibility
+   - web design
 ---
 

@@ -4,7 +4,7 @@ project:
 website:
   title: "Miranda L. Cooper"
   announcement:
-    content: "Thank you for visiting my portfolio! I’m currently in the process of developing and refining the site to showcase my latest projects, skills, and achievements. While it’s still a work in progress, I’m excited to share more with you soon. Please check back for updates, and feel free to explore the current content as it evolves."
+    content: "Thanks for visiting my portfolio! I’m refining the site to showcase my latest projects, skills, and achievements. It’s a work in progress, but check back soon for updates and feel free to explore the evolving content."
     dismissable: true
     icon: cone-striped
     type: info

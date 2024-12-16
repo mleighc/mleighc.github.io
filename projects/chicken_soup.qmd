@@ -1,10 +1,11 @@
 ---
 title: "Chicken Soup Data Visualization"
 description: ""
-categories: 
-   - automation
-   - coding
+categories:
+   - visualization
+   - streamlit
    - python
-   - r
+   - altair
+image: assets/images/chicken_soup.png
 ---
 

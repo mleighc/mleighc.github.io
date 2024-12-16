@@ -1,0 +1,9 @@
+---
+title: "Web Scraping for SMPL Sheets, LLC"
+description: ""
+categories:
+   - web scraping
+   - python
+   - requests
+   - beautiful soup
+---

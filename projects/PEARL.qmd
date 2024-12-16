@@ -1,15 +1,16 @@
 ---
 title: "Participant Engagement and Research Lifecycle (PEARL)"
-description: "Designed a Microsoft Lists-based system for participant tracking at Michigan Alzheimer's Disease Center."
-date: 2024-12-16
-categories: ["Microsoft 365", "Microsoft Power Automate", "Workflow Automation"]
-# image: "images/project-1-thumbnail.png"
-# link: github.com/mirandacodes/participant-dashboard
-project-link: true
+description: "Designed a Microsoft Lists-based system for participant tracking and study collaboration at University of Michigan's Alzheimer's Disease Center."
+categories:
+    - microsoft 365
+    - microsoft power automate
+    - automation
+    - ux
+    - technical documentation
 ---
 ## Project Overview
 
-In this project, I developed a workflow management tool leveraging Microsoft Lists to improve participant tracking across 10+ research studies.
+In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies.
 
 ## Key achievements
 
@@ -22,4 +23,4 @@ In this project, I developed a workflow management tool leveraging Microsoft Lis
 - Power Automate
 - SharePoint
 
-[View on GitHub](https://github.com/mirandacodes/participant-dashboard)
+Due to HIPAA regulations, I am only able to share a sandbox copy of the original system.

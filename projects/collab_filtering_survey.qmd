@@ -1,10 +1,12 @@
 ---
-title: "Survey of Collaborative Filtering Methodologies and Real-World Applications"
+title: "Collaborative Filtering Methodologies"
 description: ""
 categories: 
-   - automation
-   - coding
+   - big data
+   - collaborative filtering
    - python
-   - r
+   - surprise
+   - recmetrics
+   - pandas
 ---
 

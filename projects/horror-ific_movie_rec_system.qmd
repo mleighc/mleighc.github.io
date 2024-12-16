@@ -2,10 +2,12 @@
 title: "Horror-ific Movie Recommender System"
 description: ""
 categories: 
-   - automation
-   - coding
    - python
-   - r
+   - keras
+   - surprise
+   - information retrieval
+   - collaborative filtering
+   - svd
 ---
 
 SI 650

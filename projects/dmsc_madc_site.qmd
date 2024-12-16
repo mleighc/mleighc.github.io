@@ -1,10 +1,11 @@
 ---
 title: "Data Management and Statistical Core Sharing Hub"
 description: ""
-categories: 
-   - automation
-   - coding
-   - python
-   - r
+categories:
+   - quarto
+   - markdown
+   - css
+   - visualization
+   - documentation
 ---
 

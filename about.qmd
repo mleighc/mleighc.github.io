@@ -27,7 +27,7 @@ about:
 
 ---
 
-**Inquisitive | Analytical | Solution-focused | Collaborative | Continuous learner**
+Hi, I'm Miranda!
 
 I’m a data analyst and programmer with a passion for creating solutions that simplify complex problems. With a Master’s in Data Analytics from the University of Michigan, I work at the intersection of data, process automation, and creative problem-solving. My experience ranges from streamlining workflows and automating business processes at the University of Michigan Alzheimer's Disease Center to designing simple, user-friendly tools that improve efficiency.
 

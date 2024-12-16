@@ -2,10 +2,13 @@
 title: "Projects"
 listing:
    contents: projects
-   categories: true
-   type: table
-   id: projects
+   sort: date
+   type: grid
+   field-display-names: 
+     title: Project
+   categories: numbered
+   table-hover: true
+   fields: ['title', 'date', 'categories']
 ---
 
-::: {#projects}
-:::
+This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.

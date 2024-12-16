@@ -1,10 +1,10 @@
 ---
-title: "Mastery Capstone Project - Is Education the Key to Success?"
+title: "Data Analysis: Is Education the Key to Success?"
 description: ""
-categories: 
-   - automation
-   - coding
+categories:
+   - streamlit
+   - visualization
    - python
-   - r
+   - altair
 ---
 
