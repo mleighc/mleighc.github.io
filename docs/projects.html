@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -189,7 +189,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="YXV0b21hdGlvbg==">automation <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Y29kaW5n">coding <span class="quarto-category-count">(10)</span></div><div class="category" data-category="cHl0aG9u">python <span class="quarto-category-count">(10)</span></div><div class="category" data-category="cg==">r <span class="quarto-category-count">(10)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="TWljcm9zb2Z0JTIwMzY1">Microsoft 365 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWljcm9zb2Z0JTIwUG93ZXIlMjBBdXRvbWF0ZQ==">Microsoft Power Automate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29ya2Zsb3clMjBBdXRvbWF0aW9u">Workflow Automation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXV0b21hdGlvbg==">automation <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Y29kaW5n">coding <span class="quarto-category-count">(9)</span></div><div class="category" data-category="cHl0aG9u">python <span class="quarto-category-count">(9)</span></div><div class="category" data-category="cg==">r <span class="quarto-category-count">(9)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -219,6 +219,12 @@ window.Quarto = {
      <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
          <option value="listing-title-sort" data-direction="asc">
           Title
         </option>
@@ -236,6 +242,9 @@ window.Quarto = {
 <thead>
 <tr>
 <th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
@@ -246,6 +255,9 @@ window.Quarto = {
 <tbody class="list">
 <tr data-index="0" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126587184" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Chicken Soup Data Visualization" data-listing-filename-sort="chicken_soup.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/chicken_soup.html" class="title listing-title">Chicken Soup Data Visualization</a>
 </td>
 <td>
@@ -253,6 +265,9 @@ window.Quarto = {
 </td>
 </tr>
 <tr data-index="1" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126395802" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Data Management and Statistical Core Sharing Hub" data-listing-filename-sort="dmsc_madc_site.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
 <td>
 <a href="./projects/dmsc_madc_site.html" class="title listing-title">Data Management and Statistical Core Sharing Hub</a>
 </td>
@@ -262,6 +277,9 @@ window.Quarto = {
 </tr>
 <tr data-index="2" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734127699453" data-listing-reading-time-sort="1" data-listing-word-count-sort="9" data-listing-title-sort="Horror-ific Movie Recommender System" data-listing-filename-sort="horror-ific_movie_rec_system.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/horror-ific_movie_rec_system.html" class="title listing-title">Horror-ific Movie Recommender System</a>
 </td>
 <td>
@@ -269,6 +287,9 @@ window.Quarto = {
 </td>
 </tr>
 <tr data-index="3" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126277870" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="MADC Resource Library" data-listing-filename-sort="madc_resource_library.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
 <td>
 <a href="./projects/madc_resource_library.html" class="title listing-title">MADC Resource Library</a>
 </td>
@@ -278,6 +299,9 @@ window.Quarto = {
 </tr>
 <tr data-index="4" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126397051" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="MADC Study Suggester" data-listing-filename-sort="madc_study_suggester.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/madc_study_suggester.html" class="title listing-title">MADC Study Suggester</a>
 </td>
 <td>
@@ -286,21 +310,30 @@ window.Quarto = {
 </tr>
 <tr data-index="5" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126274833" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Mastery Capstone Project - Is Education the Key to Success?" data-listing-filename-sort="mastery_capstone_data_analysis.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/mastery_capstone_data_analysis.html" class="title listing-title">Mastery Capstone Project - Is Education the Key to Success?</a>
 </td>
 <td>
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734125883992" data-listing-reading-time-sort="1" data-listing-word-count-sort="14" data-listing-title-sort="PEARL Participant Management System" data-listing-filename-sort="PEARL.qmd">
+<tr data-index="6" data-categories="TWljcm9zb2Z0JTIwMzY1JTJDTWljcm9zb2Z0JTIwUG93ZXIlMjBBdXRvbWF0ZSUyQ1dvcmtmbG93JTIwQXV0b21hdGlvbg==" data-listing-date-sort="1734325200000" data-listing-file-modified-sort="1734380301174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49" data-listing-title-sort="Participant Engagement and Research Lifecycle (PEARL)" data-listing-filename-sort="PEARL.qmd">
 <td>
-<a href="./projects/PEARL.html" class="title listing-title">PEARL Participant Management System</a>
+<span class="listing-date">Dec 16, 2024</span>
+</td>
+<td>
+<a href="./projects/PEARL.html" class="title listing-title">Participant Engagement and Research Lifecycle (PEARL)</a>
 </td>
 <td>
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
 <tr data-index="7" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126131061" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Referral List Automation" data-listing-filename-sort="referral_list_automate.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
 <td>
 <a href="./projects/referral_list_automate.html" class="title listing-title">Referral List Automation</a>
 </td>
@@ -310,6 +343,9 @@ window.Quarto = {
 </tr>
 <tr data-index="8" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734127700164" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Survey of Collaborative Filtering Methodologies and Real-World Applications" data-listing-filename-sort="collab_filtering_survey.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/collab_filtering_survey.html" class="title listing-title">Survey of Collaborative Filtering Methodologies and Real-World Applications</a>
 </td>
 <td>
@@ -318,7 +354,32 @@ window.Quarto = {
 </tr>
 <tr data-index="9" data-categories="YXV0b21hdGlvbiUyQ2NvZGluZyUyQ3B5dGhvbiUyQ3I=" data-listing-file-modified-sort="1734126394716" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Women's Web Project" data-listing-filename-sort="womens_web.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="./projects/womens_web.html" class="title listing-title">Women’s Web Project</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1734380473619" data-listing-filename-sort="smpl_sheets.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./projects/smpl_sheets.html" class="title listing-title">&nbsp;</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="11" data-listing-file-modified-sort="1734380484642" data-listing-filename-sort="fluffyfeelingco.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./projects/fluffyfeelingco.html" class="title listing-title">&nbsp;</a>
 </td>
 <td>
 <span class="listing-author">&nbsp;</span>

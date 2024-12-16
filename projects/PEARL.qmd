@@ -1,10 +1,25 @@
 ---
-title: "PEARL Participant Management System"
-description: "A modular system for managing study participants and workflows."
-categories:
-   - automation
-   - coding
-   - python
-   - r
+title: "Participant Engagement and Research Lifecycle (PEARL)"
+description: "Designed a Microsoft Lists-based system for participant tracking at Michigan Alzheimer's Disease Center."
+date: 2024-12-16
+categories: ["Microsoft 365", "Microsoft Power Automate", "Workflow Automation"]
+# image: "images/project-1-thumbnail.png"
+# link: github.com/mirandacodes/participant-dashboard
+project-link: true
 ---
-This project is a streamlined participant management system designed to improve efficiency across studies.
+## Project Overview
+
+In this project, I developed a workflow management tool leveraging Microsoft Lists to improve participant tracking across 10+ research studies.
+
+## Key achievements
+
+- Creating modular workflows for study customization.
+- Integrating Power Automate for data flow and notifications.
+- Improving participant engagement metrics.
+
+## Key Technologies
+- Microsoft Lists
+- Power Automate
+- SharePoint
+
+[View on GitHub](https://github.com/mirandacodes/participant-dashboard)

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mleighc.github.io/about.html</loc>
-    <lastmod>2024-12-13T21:22:47.694Z</lastmod>
+    <lastmod>2024-12-16T21:25:12.247Z</lastmod>
   </url>
   <url>
     <loc>https://mleighc.github.io/projects.html</loc>
@@ -10,11 +10,15 @@
   </url>
   <url>
     <loc>https://mleighc.github.io/projects/PEARL.html</loc>
-    <lastmod>2024-12-13T21:38:03.992Z</lastmod>
+    <lastmod>2024-12-16T20:18:21.174Z</lastmod>
   </url>
   <url>
     <loc>https://mleighc.github.io/projects/madc_study_suggester.html</loc>
     <lastmod>2024-12-13T21:46:37.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/fluffyfeelingco.html</loc>
+    <lastmod>2024-12-16T20:21:24.642Z</lastmod>
   </url>
   <url>
     <loc>https://mleighc.github.io/projects/horror-ific_movie_rec_system.html</loc>
@@ -35,6 +39,10 @@
   <url>
     <loc>https://mleighc.github.io/projects/womens_web.html</loc>
     <lastmod>2024-12-13T21:46:34.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/smpl_sheets.html</loc>
+    <lastmod>2024-12-16T20:21:13.619Z</lastmod>
   </url>
   <url>
     <loc>https://mleighc.github.io/projects/collab_filtering_survey.html</loc>
