@@ -25,32 +25,32 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\ncoding\n\n\npython\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\nmicrosoft 365\n\n\nmicrosoft power automate\n\n\nautomation\n\n\nmichigan medicine\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nautomation\n\n\ncoding\n\n\npython\n\n\nr\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\nvisualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\nvisualization\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\njavascript\n\n\nhtml5\n\n\ncss\n\n\nweb accessibility\n\n\nweb design\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\nbig data\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\nvisualization\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\nmicrosoft 365\n\n\nmicrosoft power automate\n\n\nautomation\n\n\nux\n\n\ntechnical documentation\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nr\n\n\nmarkdown\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "projects/PEARL.html",
-    "href": "projects/PEARL.html",
+    "objectID": "projects/pearl.html",
+    "href": "projects/pearl.html",
     "title": "Participant Engagement and Research Lifecycle (PEARL)",
     "section": "",
     "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
   },
   {
-    "objectID": "projects/PEARL.html#project-overview",
-    "href": "projects/PEARL.html#project-overview",
+    "objectID": "projects/pearl.html#project-overview",
+    "href": "projects/pearl.html#project-overview",
     "title": "Participant Engagement and Research Lifecycle (PEARL)",
     "section": "",
     "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
   },
   {
-    "objectID": "projects/PEARL.html#key-achievements",
-    "href": "projects/PEARL.html#key-achievements",
+    "objectID": "projects/pearl.html#key-achievements",
+    "href": "projects/pearl.html#key-achievements",
     "title": "Participant Engagement and Research Lifecycle (PEARL)",
     "section": "Key achievements",
     "text": "Key achievements\n\nCreating modular workflows for study customization.\nIntegrating Power Automate for data flow and notifications.\nImproving participant engagement metrics."
   },
   {
-    "objectID": "projects/PEARL.html#key-technologies",
-    "href": "projects/PEARL.html#key-technologies",
+    "objectID": "projects/pearl.html#key-technologies",
+    "href": "projects/pearl.html#key-technologies",
     "title": "Participant Engagement and Research Lifecycle (PEARL)",
     "section": "Key Technologies",
     "text": "Key Technologies\n\nMicrosoft Lists\nPower Automate\nSharePoint\n\nDue to HIPAA regulations, I am only able to share a sandbox copy of the original system."
@@ -87,13 +87,6 @@
     "objectID": "projects/chicken_soup.html",
     "href": "projects/chicken_soup.html",
     "title": "Chicken Soup Data Visualization",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/referral_list_automate.html",
-    "href": "projects/referral_list_automate.html",
-    "title": "Referral List Automation",
     "section": "",
     "text": "Back to top"
   },
@@ -138,33 +131,5 @@
     "title": "Welcome to my Portfolio",
     "section": "",
     "text": "Welcome to my Portfolio\nI’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.\nThe site is still in development, but feel free to explore my projects and check back soon for more updates!\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects/pearl.html",
-    "href": "projects/pearl.html",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "",
-    "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
-  },
-  {
-    "objectID": "projects/pearl.html#project-overview",
-    "href": "projects/pearl.html#project-overview",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "",
-    "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
-  },
-  {
-    "objectID": "projects/pearl.html#key-achievements",
-    "href": "projects/pearl.html#key-achievements",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "Key achievements",
-    "text": "Key achievements\n\nCreating modular workflows for study customization.\nIntegrating Power Automate for data flow and notifications.\nImproving participant engagement metrics."
-  },
-  {
-    "objectID": "projects/pearl.html#key-technologies",
-    "href": "projects/pearl.html#key-technologies",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "Key Technologies",
-    "text": "Key Technologies\n\nMicrosoft Lists\nPower Automate\nSharePoint\n\nDue to HIPAA regulations, I am only able to share a sandbox copy of the original system."
   }
 ]
