@@ -36,7 +36,7 @@ I’m a **data analyst, programmer, and entrepreneur** with a **Master’s in Da
 #### **Data Enthusiast & Problem Solver**
 - Passionate about working with data and enthusiastically seeking to learn new tools and technologies.  
 - Skilled in **R**, **Python**, **SQL**, and **Microsoft Power Automate** for building user-friendly systems.  
-- Led projects at the University of **Michigan Alzheimer’s Disease Center** to:  
+- Led projects at the University of Michigan Alzheimer’s Disease Center to:  
   - Build participant management systems.  
   - Automate workflows and data pipelines.  
   - Optimize research processes for scalability and efficiency.
@@ -54,6 +54,7 @@ I’m a **data analyst, programmer, and entrepreneur** with a **Master’s in Da
 - A passion for **efficiency** and **simplifying workflows**.  
 - Expertise in **data analytics**, **programming**, and **process automation**.  
 - A creative approach to problem-solving, merging **technical skills** with **artistic insight**.  
+- A commitment to **continuous learning**.
 
 ---
 

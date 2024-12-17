@@ -12,7 +12,32 @@ categories:
 date: December 16, 2022
 ---
 
-
 ## Project Overview
+Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.  
 
-## Key Achievements
+The study also leverages Python libraries such as **Surprise** and **Recmetrics** to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the "gray sheep problem" (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications.
+
+
+## Key Accomplishments
+* **Dataset Utilization:**  
+   - Processed the **Book-Crossing dataset** containing over 1.1 million user ratings for 271,379 books.  
+   - Addressed data sparsity by removing implicit ratings (62% of total), resulting in a more interpretable left-skewed distribution of ratings with a mean score of 7.6.
+* **Algorithm Evaluation:**  
+   - Experimented with six collaborative filtering algorithms using the Surprise library: Baseline Only, K-Nearest Neighbors (KNN), and Matrix Factorization models.  
+   - Adapted to computational constraints by sampling datasets and iteratively evaluating performance on progressively larger training sets.
+* **Tool Adoption and Documentation:**  
+   - Explored **Surprise**, a Python library for implementing prediction algorithms and evaluation metrics, and **Recmetrics**, a toolkit for recommender system diagnostics.  
+   - Highlighted key functionalities of both tools, including prediction accuracy and bias diagnostics.
+* **Insights on Collaborative Filtering:**  
+   - Discussed challenges such as data sparsity, lack of personalization for niche users, and the potential for biased or manipulated ratings.  
+   - Highlighted trade-offs between algorithm simplicity and personalization precision.
+* **Real-World Applications:**  
+   - Analyzed book recommendation platforms (**Goodreads**, **Likewise**, and **WhatShouldIReadNext?**) to contextualize findings.  
+   - Connected experimental results to practical use cases in improving user engagement through personalized recommendations.
+* **Impactful Visualizations:**  
+   - Generated insightful visualizations of the dataset, including the distribution of ratings before and after preprocessing, illustrating the impact of removing implicit data.
+* **Educational Focus:**  
+   - Bridged theory and practice by examining the documentation of recommender system libraries and applying them to a large-scale real-world dataset.  
+   - Developed an accessible survey of collaborative filtering techniques for practitioners and researchers.
+
+[<i class="bi bi-link-45deg"></i> View the final report](https://github.com/mleighc/SI671-Final-Project/blob/main/report/mleighc_final_project_SI671.pdf)    

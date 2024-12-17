@@ -1,6 +1,6 @@
 ---
 title: "Participant Engagement and Research Lifecycle (PEARL)"
-description: "Designed a Microsoft Lists-based system for participant tracking and study collaboration at University of Michigan's Alzheimer's Disease Center."
+description: ""
 categories:
     - data management
     - system design & development
@@ -17,17 +17,17 @@ date: March 28,2024
 ---
 
 ## Project Overview
+This project, initiated on March 28, 2024, is an ongoing development with phased releases of features. The aim of the PEARL system (Participant Engagement and Research Lifecycle) is to improve participant visit tracking and engagement across 10+ research studies at the University of Michigan Alzheimer's Disease Center. 
 
-This project is still a work in progress with phased releases of features. It was initiated on March 28, 2024 and is still in development.
+PEARL is designed as a network of interconnected lists, where each list represents a specific study. This network is intended to help participant and visit data flow seamlessly across co-enrolling studies, making it easier to manage participants who are enrolled in multiple studies simultaneously. By developing a modular workflow for each study, PEARL allows for customization to meet the needs of individual research projects while maintaining an integrated, scalable system.
 
-In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies.
+To date, we have developed and implemented a list for the University of Michigan Memory and Aging Project (UMMAP) study, with plans to scale this system across all studies at the center. Power Automate is being used to connect data across these lists, ensuring smooth communication and data synchronization between the studies. Automated notifications are also incorporated to streamline task management and participant tracking.
 
 ## Key Achievements
+- **Network of Interconnected Lists**: Created a scalable framework that allows participant and visit data to flow seamlessly across studies, supporting co-enrollment and improving participant tracking across multiple research studies.
+- **Modular Workflows for Study Customization**: Developed customizable workflows for the UMMAP study and other studies, allowing each to adapt the system to their unique needs while maintaining consistency in participant management.
+- **Power Automate Integration**: Integrated Power Automate to connect lists across studies, streamlining data flow and automating notifications to improve task management and participant engagement tracking.
+- **Participant Engagement Metrics**: Enhanced participant engagement tracking by integrating more robust data collection and reporting features, enabling better insights into participant behavior and interaction with research activities.
+- **Compliance with HIPAA**: Ensured that all participant data is handled securely and in compliance with HIPAA regulations, prioritizing data privacy and security throughout the system’s development.
 
-- Creating modular workflows for study customization.
-- Integrating Power Automate for data flow and notifications.
-- Improving participant engagement metrics.
-
-Due to HIPAA regulations, I am only able to share a sandbox copy of the original system.
-
-[]()
+Due to HIPAA regulations, I am not able to share examples of the PEARL system in action.

@@ -15,5 +15,19 @@ date: November 17, 2024
 ---
 
 ## Project Overview
+SMPL SHEETS was born out of necessity. While exploring methods for relationship management, we found that although public data—like Chamber of Commerce directories—was highly accessible visually, it wasn’t formatted for efficient use. Managing large uploads of information to a CRM required time-consuming manual effort.
 
-## Key Achievements
+With backgrounds in entrepreneurship and data analysis, we approached the problem with a solutions-oriented mindset. The more we worked through this challenge, the more we saw an opportunity to scale our process and help others. We realized that many businesses could benefit from pre-cleaned, formatted, and CRM-friendly data, saving them countless hours and enabling them to focus on what matters most: building meaningful connections.
+
+We’re starting with Chamber of Commerce data because it’s relevant to our own relationship management needs, but we’re just getting started. In the future, we envision expanding into other categories of public data—across various sectors—making this valuable information accessible, usable, and impactful.
+
+At SMPL SHEETS, we’re turning complex data into simple solutions, empowering businesses to work smarter, not harder.
+
+## Key Accomplishments
+- Developed a solution to clean and reformat publicly available data, starting with Chamber of Commerce directories.
+- Automated the process of data scraping using Python and BeautifulSoup to extract public data efficiently.
+- Streamlined the process of transforming raw data into CRM-friendly formats, saving businesses time on manual data entry.
+- Built a scalable business model that allows for expansion into other types of public data, offering CRM-friendly solutions across various sectors.
+- Established a foundation for future growth, with a focus on delivering usable, actionable data that enables better relationship management.
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://www.smplsheets.com/)    

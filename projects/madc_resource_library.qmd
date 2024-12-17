@@ -12,7 +12,14 @@ categories:
 date: November 3, 2023
 ---
 
-
 ## Project Overview
+I led the development of an online resource site for the Michigan Alzheimer's Disease Center's (MADC) Data Core. This site is designed to provide a growing collection of technical resources to help onboard new and current staff, improving their skills for day-to-day operations. I utilized Quarto's book infrastructure to compile the resources and successfully deployed the site using Quarto Pub, enabling seamless updates after each commit.
 
-## Key Achievements
+## Key Accomplishments
+- Developed and launched an online technical resources site for MADC's Data Core staff.
+- Utilized Quarto’s book infrastructure to structure and organize content effectively.
+- Automated site deployment to Quarto Pub after each commit by writing and configuring a YAML file.
+- Ensured the site remains up-to-date and easily accessible to staff for continuous learning and skill-building.
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://mleighc.quarto.pub/madc-learning-resource-library/)    
+[<i class="bi bi-github"></i> View the source code](https://github.com/mleighc/madc-resource-library)    

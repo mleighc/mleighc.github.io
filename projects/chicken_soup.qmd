@@ -11,7 +11,16 @@ categories:
 date: April 7, 2023
 ---
 
-
 ## Project Overview
+I created a series of interactive visualizations using Python and Altair, hosted on a Streamlit page. The goal was to allow viewers to explore various chicken soup recipes, focusing on nutrition, flu-fighting nutrients, and the impact of ingredients like dairy and allergens. Throughout the project, I addressed data limitations and refined the learning objectives, incorporating additional datasets from Open Food Facts to enhance the visualizations.
 
-## Key Achievements
+## Key Accomplishments
+- Created interactive visualizations using Python, Altair, and Streamlit, enabling viewers to explore the nutritional content and ingredients of chicken soup recipes.
+- Developed a distribution chart of nutrient facts, allowing users to adjust intervals and compare fat and calorie content across recipes.
+- Designed a chart to visualize protein and calcium levels relative to dairy and allergen content, with interactive filtering options for dietary preferences.
+- Created a visualization summarizing flu-fighting nutrients, allowing viewers to interact with detailed tooltips and compare recipes based on health scores.
+- Built a final chart enabling users to filter recipes by serving size, fat/calorie content, popularity, and dietary restrictions, facilitating informed recipe selection.
+- Adapted to data limitations by revising learning objectives and incorporating additional datasets for a more comprehensive analysis.
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://chicken-soup.streamlit.app/)    
+[<i class="bi bi-github"></i> View the source code](https://github.com/mleighc/chicken-soup-interactive-viz)    

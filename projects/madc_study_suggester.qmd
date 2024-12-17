@@ -11,7 +11,26 @@ categories:
 date: May 13, 2024
 ---
 
-## Project Overview
+### Project Overview
 
-## Key Achievements
+The MADC Study Suggester is an R script developed for the Michigan Alzheimer's Disease Center (MADC) to help match participants with appropriate studies based on their specific criteria. The script gathers participant and study data, filters the available studies, and generates a list of recommended studies for each participant. The aim of this tool is to streamline the process of study selection, ensuring that participants are matched with studies that are relevant to their health status and research goals. The output of the script is a user-friendly, formatted PDF report that displays the study recommendations in a clear table. The script uses `gt` for creating well-structured tables, `webshot2` for capturing snapshots, and `pagedown` for converting the results into a high-quality, printable PDF format.
+
+### Key Accomplishments
+
+- **R Script Development**:  
+  - Developed an R script that gathers and filters participant and study data to generate study recommendations tailored to each participant's specific criteria.
+  
+- **Output Generation**:  
+  - Used `gt` to create structured, user-friendly tables and `pagedown` to convert the tables into high-quality, printable PDF reports.
+
+- **Tools and Libraries**:  
+  - Integrated `webshot2` for snapshot generation and `pagedown` for rendering the final output as a PDF, enhancing the accessibility and presentation of the data.
+
+- **Streamlining Study Selection**:  
+  - The tool improves the process of identifying appropriate studies for participants, saving time for researchers and ensuring better matching between participants and studies.
+
+- **Current Status**:  
+  - The script is operational, providing formatted PDF outputs that are ready for use by MADC team members.
+
+Due to HIPAA regulations, I am not able to share the source code or sample output files. 
 

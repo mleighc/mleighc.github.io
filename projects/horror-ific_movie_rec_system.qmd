@@ -11,7 +11,16 @@ categories:
 date: December 16, 2022
 ---
 
-
 ## Project Overview
+This project, completed as a final capstone for an Information Retrieval course at the University of Michigan School of Information, aimed to build a specialized recommender system tailored to enthusiasts of the Horror and Thriller film genres, filling a niche gap in the vast world of streaming platforms. While general streaming services like Netflix, Hulu, and Amazon Prime offer recommendations across all genres, these platforms do not focus on specific genres, such as Horror or Thriller, which have dedicated fan bases. By narrowing the scope of recommendations to only these genres and their sub-genres, this system seeks to provide personalized movie suggestions that align with the tastes of Horror/Thriller fans.
 
-## Key Achievements
+The data used for the recommender system comes from the MovieLens “ml-25m” dataset, which contains 25,000,095 ratings across 62,423 movies from 162,541 unique users. For this project, a subset of 7,665,481 ratings from 162,117 users for 11,958 unique Horror and Thriller films was used. The dataset also includes some hybrid sub-genres, such as Comedic Horror and Dramatic Thriller.
+
+## Key Accomplishments
+- Developed a recommender system focused exclusively on Horror and Thriller films, differentiating it from general movie recommendation platforms.
+- Leveraged the “ml-25m” dataset, a widely recognized dataset for recommender system experiments.
+- Successfully experimented with multiple collaborative filtering methods, including the SVD algorithm and Keras-based neural networks.
+- Achieved satisfactory RMSE results for initial experimentation, demonstrating the viability of collaborative filtering for niche movie recommendations.
+- Identified areas for future improvement, including fine-tuning the model to enhance personalization and exploring hybrid recommendation systems.
+
+[<i class="bi bi-link-45deg"></i> View the final report](https://github.com/mleighc/SI650-Final-Project/blob/main/project_stages/report/mleighc_final_report.pdf)    

@@ -12,6 +12,29 @@ categories:
 date: April 18, 2023
 ---
 
-## Project Overview
+### Project Overview
 
-## Key Achievements
+Completed in the final capstone course for the Master of Science in Information, this project explores the relationship between education, demographics, and earnings, focusing on addressing questions about the stagnation of wages in the U.S. despite rising productivity. Initially aiming to investigate productivity growth, the project pivoted to examining the impact of education and demographics on earnings after realizing the complexity of the economics involved. The team built a public-facing dashboard to convey findings in an accessible and understandable way for the general public. The dashboard focuses on comparing wages based on education, gender, and race, while also exploring the potential impact of advanced degrees on underemployment.
+
+### Key Accomplishments
+
+- **Data Collection and Preprocessing**:  
+  - Collected data from the U.S. Bureau of Labor Statistics’ Current Population Survey (CPS), which contains responses from over 270,000 individuals annually.
+  - Filtered the data to focus on full-time workers aged 18 and older, adjusting earnings for inflation to 2022 dollars for consistency across years.
+
+- **Dashboard Development**:  
+  - Developed an interactive dashboard using Streamlit, allowing users to explore how education and demographic factors affect wages over time.
+  - Created visualizations in Altair to represent wage disparities across gender, race, and education levels.
+
+- **Focused Analysis**:  
+  - Conducted an analysis of the gender wage gap and its relationship to educational attainment, highlighting persistent disparities in earnings between men and women, particularly for women of color.
+  - Examined the earning potential of different education levels, demonstrating how higher education can influence wage growth.
+
+- **Educational Impact**:  
+  - Provided insights on how educational attainment can reduce the chances of underemployment, and how union membership interacts with education to affect earnings.
+
+- **Target Audience and Accessibility**:  
+  - Designed the dashboard to cater to young professionals and students, particularly those considering further education, providing accessible data and visualizations to inform career and educational decisions.
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://ed-dash.streamlit.app/)    
+[<i class="bi bi-github"></i> View the source code](https://github.com/mleighc/699_Mastery_Capstone)    

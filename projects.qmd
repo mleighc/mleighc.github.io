@@ -2,7 +2,7 @@
 title: "Projects"
 listing:
    contents: projects
-   sort-ui: ['title','date']
+   sort-ui: ['date','title']
    type: grid
    field-display-names: 
      title: Project

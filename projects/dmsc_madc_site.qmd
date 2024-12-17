@@ -1,6 +1,6 @@
 ---
 title: "Data Management and Statistical Core Sharing Hub"
-description: ""
+description: "Work in Progress"
 categories:
    - quarto
    - markdown
@@ -12,7 +12,34 @@ categories:
 date: December 12, 2024
 ---
 
+## Project Overview:
+Currently in development, the **Data Management and Statistical Core Sharing Hub** is a public-facing website designed to showcase resources from the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center (MADC). The goal is to provide accessible tools, guidelines, and documentation to support data management and statistical practices in Alzheimer's disease research. Built using **Quarto**, this site integrates Markdown for content creation with the powerful features of Quarto for publishing, making it a dynamic, reproducible, and user-friendly resource for the research community. 
 
-## Project Overview
+The site is hosted on **GitHub Pages**, which simplifies deployment and allows for continuous updates as the Data Core's resources evolve.
 
-## Key Achievements
+## Key Accomplishments:
+- **Quarto Setup & Deployment**: 
+  - Chose **Quarto** as the platform for building and managing the website, allowing for easy integration with GitHub Pages for hosting.
+  - Configured the site to deploy directly from the `docs` folder on the main branch, ensuring that all future updates are automatically reflected online.
+
+- **Contributor Workflow & Documentation**: 
+  - Developed a streamlined process for contributors to fork the repository, clone their copy locally, and submit pull requests. 
+  - Detailed instructions were created for setting up VS Code with the necessary Quarto extensions, editing content locally, previewing the website, and pushing changes back to GitHub.
+
+- **Web Content Creation**: 
+  - Created and customized the main website using Quarto’s flexibility to write dynamic content in Markdown and Quarto’s `.qmd` files.
+  - Included sections such as setup guides, tutorials, and links to external resources, all designed to make the content easily navigable for both technical and non-technical users.
+
+- **Version Control & Maintenance**: 
+  - Implemented version control with Git, providing a clear workflow for contributing to the site and tracking changes.
+  - Used GitHub's built-in tools to ensure the site stays updated and that contributors can easily collaborate on ongoing improvements.
+
+- **Public Availability & Reproducibility**: 
+  - Ensured the site is publicly accessible, providing transparency and reproducibility for tools and resources related to data management in Alzheimer's research.
+  - The setup allows for continuous updates and scalability, with Quarto’s integration ensuring that future contributions to the website can be managed efficiently.
+
+- **Future Expansion**: 
+  - Established a foundation for further growth by setting up the website with the flexibility to add new content, resources, and tools as they are developed by the Data Core team.
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://michiganadc.github.io/dmsc-madc/)    
+[<i class="bi bi-github"></i> View the source code](https://github.com/mleighc/dmsc-madc)    

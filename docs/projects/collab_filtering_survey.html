@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
-  <li><a href="#key-achievements" id="toc-key-achievements" class="nav-link" data-scroll-target="#key-achievements">Key Achievements</a></li>
+  <li><a href="#key-accomplishments" id="toc-key-accomplishments" class="nav-link" data-scroll-target="#key-accomplishments">Key Accomplishments</a></li>
   </ul>
 </nav>
     </div>
@@ -169,9 +169,54 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="project-overview" class="level2">
 <h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.</p>
+<p>The study also leverages Python libraries such as <strong>Surprise</strong> and <strong>Recmetrics</strong> to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the “gray sheep problem” (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications.</p>
 </section>
-<section id="key-achievements" class="level2">
-<h2 class="anchored" data-anchor-id="key-achievements">Key Achievements</h2>
+<section id="key-accomplishments" class="level2">
+<h2 class="anchored" data-anchor-id="key-accomplishments">Key Accomplishments</h2>
+<ul>
+<li><strong>Dataset Utilization:</strong>
+<ul>
+<li>Processed the <strong>Book-Crossing dataset</strong> containing over 1.1 million user ratings for 271,379 books.<br>
+</li>
+<li>Addressed data sparsity by removing implicit ratings (62% of total), resulting in a more interpretable left-skewed distribution of ratings with a mean score of 7.6.</li>
+</ul></li>
+<li><strong>Algorithm Evaluation:</strong>
+<ul>
+<li>Experimented with six collaborative filtering algorithms using the Surprise library: Baseline Only, K-Nearest Neighbors (KNN), and Matrix Factorization models.<br>
+</li>
+<li>Adapted to computational constraints by sampling datasets and iteratively evaluating performance on progressively larger training sets.</li>
+</ul></li>
+<li><strong>Tool Adoption and Documentation:</strong>
+<ul>
+<li>Explored <strong>Surprise</strong>, a Python library for implementing prediction algorithms and evaluation metrics, and <strong>Recmetrics</strong>, a toolkit for recommender system diagnostics.<br>
+</li>
+<li>Highlighted key functionalities of both tools, including prediction accuracy and bias diagnostics.</li>
+</ul></li>
+<li><strong>Insights on Collaborative Filtering:</strong>
+<ul>
+<li>Discussed challenges such as data sparsity, lack of personalization for niche users, and the potential for biased or manipulated ratings.<br>
+</li>
+<li>Highlighted trade-offs between algorithm simplicity and personalization precision.</li>
+</ul></li>
+<li><strong>Real-World Applications:</strong>
+<ul>
+<li>Analyzed book recommendation platforms (<strong>Goodreads</strong>, <strong>Likewise</strong>, and <strong>WhatShouldIReadNext?</strong>) to contextualize findings.<br>
+</li>
+<li>Connected experimental results to practical use cases in improving user engagement through personalized recommendations.</li>
+</ul></li>
+<li><strong>Impactful Visualizations:</strong>
+<ul>
+<li>Generated insightful visualizations of the dataset, including the distribution of ratings before and after preprocessing, illustrating the impact of removing implicit data.</li>
+</ul></li>
+<li><strong>Educational Focus:</strong>
+<ul>
+<li>Bridged theory and practice by examining the documentation of recommender system libraries and applying them to a large-scale real-world dataset.<br>
+</li>
+<li>Developed an accessible survey of collaborative filtering techniques for practitioners and researchers.</li>
+</ul></li>
+</ul>
+<p><a href="https://github.com/mleighc/SI671-Final-Project/blob/main/report/mleighc_final_project_SI671.pdf"><i class="bi bi-link-45deg"></i> View the final report</a></p>
 
 
 </section>

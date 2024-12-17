@@ -1,6 +1,6 @@
 ---
-title: "madRc - R Package (WiP)"
-description: ""
+title: "madRc - R Package"
+description: "Work in Progress"
 categories:
    - r
    - r package
@@ -10,7 +10,23 @@ categories:
 date: October 16,2023
 ---
 
-## Project Overview
-This project is a work in progress.
+### Project Overview
 
-## Key Achievements
+This project involves the development of an R package in collaboration with other members of the Data Management and Statistical Core at the Michigan Alzheimer's Disease Center. The goal is to compile the various R functions that have been written for day-to-day analysis and data retrieval tasks into a cohesive and efficient package. The package aims to streamline repetitive tasks, making it easier for team members to conduct their work without having to re-write commonly used functions. Once complete, the package will ideally be deployed on GitHub for easy access, allowing team members and the broader research community to download and use it. Currently, the project is still a work in progress, with ongoing development, testing, and refinement of the included functions.
+
+### Key Accomplishments
+
+- **R Package Development**:  
+  - Collaborating with the Data Core team at MADC to compile various R functions used for day-to-day analysis and data retrieval.
+  - Organizing functions into a cohesive package to streamline repetitive tasks and improve efficiency in data analysis workflows.
+  
+- **Package Deployment Plans**:  
+  - Planning to deploy the package on GitHub for easy access and distribution, allowing team members and the wider data analysis community to download and use the package.
+
+- **Current Status**:  
+  - The package is still in development, with ongoing efforts to test and refine the functions for usability and performance.
+
+- **Collaboration**:  
+  - Working closely with other team members to ensure the package meets the needs of all users and integrates smoothly into existing workflows.
+
+Due to the current early stage of this project, I do not yet have a source code link to share. Check back soon!

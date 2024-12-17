@@ -12,5 +12,16 @@ date: April 4, 2023
 ---
 
 ## Project Overview
+This project was part of an elective course in my Master's in Data Analytics at the University of Michigan School of Information. The goal was to improve the structure and design of a basic HTML web page by incorporating JavaScript and CSS. The main focus was on creating an accessible and responsive web page.
 
-## Key Achievements
+Starting with a pre-written content structure in HTML, I applied CSS for design and layout enhancements and used JavaScript to add interactivity and functionality. The project emphasized best practices for web accessibility to ensure the website was usable by people with various disabilities.
+
+## Key Accomplishments
+- Modified basic HTML to improve structure and accessibility, ensuring compatibility with assistive technologies.
+- Applied CSS to enhance the visual design, making the web page aesthetically pleasing and user-friendly.
+- Integrated JavaScript to introduce interactivity and improve user engagement.
+- Implemented responsive design techniques to ensure the website functions well across different devices and screen sizes.
+- Focused on accessibility best practices, ensuring compliance with WCAG (Web Content Accessibility Guidelines).
+
+[<i class="bi bi-link-45deg"></i> View the deployed site](https://mleighc.github.io/539_womens_web_project-main/)    
+[<i class="bi bi-github"></i> View the source code](https://github.com/mleighc/539_womens_web_project-main)    
