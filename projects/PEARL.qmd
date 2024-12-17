@@ -17,7 +17,7 @@ date: March 28,2024
 ---
 
 ## Project Overview
-This project, initiated on March 28, 2024, is an ongoing development with phased releases of features. The aim of the PEARL system (Participant Engagement and Research Lifecycle) is to improve participant visit tracking and engagement across 10+ research studies at the University of Michigan Alzheimer's Disease Center. 
+This project, initiated on March 28, 2024, is an ongoing development with phased releases of features. The aim of the PEARL system (Participant Engagement and Research Lifecycle) is to improve participant visit tracking and engagement across 10+ research studies at the University of Michigan Alzheimer's Disease Center.
 
 PEARL is designed as a network of interconnected lists, where each list represents a specific study. This network is intended to help participant and visit data flow seamlessly across co-enrolling studies, making it easier to manage participants who are enrolled in multiple studies simultaneously. By developing a modular workflow for each study, PEARL allows for customization to meet the needs of individual research projects while maintaining an integrated, scalable system.
 
