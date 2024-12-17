@@ -6,4 +6,6 @@ categories:
    - python
    - requests
    - beautiful soup
+   - entrepreneurship
+   - marketing
 ---

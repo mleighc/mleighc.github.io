@@ -2,30 +2,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Miranda L. Cooper",
+    "title": "Welcome to my Portfolio",
     "section": "",
-    "text": "Hi, I’m Miranda!\nI’m a data analyst and programmer with a passion for creating solutions that simplify complex problems. With a Master’s in Data Analytics from the University of Michigan, I work at the intersection of data, process automation, and creative problem-solving. My experience ranges from streamlining workflows and automating business processes at the University of Michigan Alzheimer’s Disease Center to designing simple, user-friendly tools that improve efficiency.\nAt the Alzheimer’s Disease Center, I’ve led projects to build participant management systems, automate data flow, and improve research workflows, always with an eye toward practical, scalable solutions. I’m comfortable working with R, Python, Microsoft Power Automate, and other tools to design systems that make processes more efficient and accessible.\nIn addition to my professional work, I’m also an entrepreneur, running Fluffy Feeling Co., an Etsy shop where I create fun, animal-themed products. This outlet allows me to merge my analytical skills with creativity, whether it’s automating order processes or designing unique items.\nI’m dedicated to learning and solving problems with both technical skills and a creative approach. I strive to make things simpler and more effective, whether it’s optimizing systems or creating new products. If you need someone who combines data-driven insights with a thoughtful, hands-on approach, I’d love to collaborate."
+    "text": "Welcome to my Portfolio\nI’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.\nThe site is still in development, but feel free to explore my projects and check back soon for more updates!\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Miranda L. Cooper",
+    "title": "Hi, I’m Miranda!",
     "section": "Education",
-    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 - May 2023"
+    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 – May 2023"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Miranda L. Cooper",
+    "title": "Hi, I’m Miranda!",
     "section": "Experience",
-    "text": "Experience\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer\nJune 2023 - present\nUniversity of Michigan School of Information\nInstructional Aide\nAugust 2022 - April 2023\nData Curator\nDecember 2021 - August 2022\nEnterpriseDB (EDB)\nProfessional Services Intern\nMay 2022 - April 2023\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager\nJuly 2019 - June 2021\nCity Year Washington, DC\nDevelopment (Fundraising) Operations Director\nAugust 2018 - June 2019\nDevelopment & Communications Manager\nAugust 2017 - August 2018\nDevelopment (Fundraising) Operations Associate\nJuly 2015 - July 2017"
+    "text": "Experience\n\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer | June 2023 – Present\n\n\nUniversity of Michigan School of Information\n\nInstructional Aide | August 2022 – April 2023\n\nData Curator | December 2021 – August 2022\n\n\n\nEnterpriseDB (EDB)\nProfessional Services Intern | May 2022 – April 2023\n\n\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager | July 2019 – June 2021\n\n\nCity Year Washington, DC\n\nDevelopment Operations Director | August 2018 – June 2019\n\nDevelopment & Communications Manager | August 2017 – August 2018\n\nDevelopment Operations Associate | July 2015 – July 2017"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\nvisualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\nvisualization\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\njavascript\n\n\nhtml5\n\n\ncss\n\n\nweb accessibility\n\n\nweb design\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\nbig data\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\nvisualization\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\nmicrosoft 365\n\n\nmicrosoft power automate\n\n\nautomation\n\n\nux\n\n\ntechnical documentation\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nr\n\n\nmarkdown\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\nvisualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\nvisualization\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\njavascript\n\n\nhtml5\n\n\ncss\n\n\nweb accessibility\n\n\nweb design\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\nentrepreneurship\n\n\nmarketing\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\nbig data\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\nvisualization\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\nmicrosoft 365\n\n\nmicrosoft power automate\n\n\nautomation\n\n\nux\n\n\ntechnical documentation\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nr\n\n\nmarkdown\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "projects/pearl.html",
@@ -128,8 +128,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my Portfolio",
+    "title": "Hi, I’m Miranda!",
     "section": "",
-    "text": "Welcome to my Portfolio\nI’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.\nThe site is still in development, but feel free to explore my projects and check back soon for more updates!\n\n\n\n\n Back to top"
+    "text": "I’m a data analyst, programmer, and entrepreneur with a Master’s in Data Analytics from the University of Michigan. I specialize in simplifying complex problems, automating workflows, and building user-friendly systems.\n\n\nProfessional Highlights\n\nData Enthusiast & Problem Solver\n\nPassionate about working with data and enthusiastically seeking to learn new tools and technologies.\n\nSkilled in R, Python, SQL, and Microsoft Power Automate for building user-friendly systems.\n\nLed projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCo-Founder & Programmer\n\nCo-founded SMPL SHEETS, LLC, a company that transforms complex public data (e.g., Chamber of Commerce directories) into clean, CRM-friendly formats with the goal of making valuable information accessible and actionable.\n\n\n\nCreative Entrepreneur\n\nFounded Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlended creativity and analytics to design unique items and streamline operations.\n\n\n\n\n\nWhat I Bring\n\nA passion for efficiency and simplifying workflows.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, merging technical skills with artistic insight.\n\n\n\n\nLet’s Collaborate!\nI love tackling challenges where technical precision and creative thinking meet. Whether it’s designing smarter systems or creating delightful products, I’m ready to bring ideas to life.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#professional-highlights",
+    "href": "about.html#professional-highlights",
+    "title": "Hi, I’m Miranda!",
+    "section": "Professional Highlights",
+    "text": "Professional Highlights\n\nData-Driven Problem Solver\n\nSkilled in R, Python, and Microsoft Power Automate for designing user-friendly systems.\n\nLed projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCreative Entrepreneur\n\nFounder of Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlend creativity and analytics to design unique items and automate operations."
+  },
+  {
+    "objectID": "about.html#what-i-bring",
+    "href": "about.html#what-i-bring",
+    "title": "Hi, I’m Miranda!",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nPassion for simplifying workflows and improving efficiency.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, blending technical and artistic skills.\n\nLet’s work together to make systems smarter, processes simpler, and ideas come to life!"
+  },
+  {
+    "objectID": "index.html#professional-highlights",
+    "href": "index.html#professional-highlights",
+    "title": "Hi, I’m Miranda!",
+    "section": "Professional Highlights",
+    "text": "Professional Highlights\n\nData Enthusiast & Problem Solver\n\nPassionate about working with data and constantly seeking to learn new tools and technologies.\n\nSkilled in R, Python, SQL, and Microsoft Power Automate for building user-friendly systems.\n\nLead projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCo-Founder & Programmer\n\nSMPL SHEETS, LLC: Co-founded a company that transforms complex public data (e.g., Chamber of Commerce directories) into clean, CRM-friendly formats.\n\nWe help businesses save time by streamlining manual data entry into pre-cleaned spreadsheets for bulk upload.\n\nStarting with Chamber of Commerce data, we aim to expand to various public data sources, making valuable information accessible and actionable.\n\n\n\nCreative Entrepreneur\n\nFounder of Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlend creativity and analytics to design unique items and streamline operations."
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Hi, I’m Miranda!",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nA passion for efficiency and simplifying workflows.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, merging technical skills with artistic insight."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hi, I’m Miranda!",
+    "section": "Education",
+    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 – May 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hi, I’m Miranda!",
+    "section": "Experience",
+    "text": "Experience\n\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer | June 2023 – Present\n\n\nSmpl Sheets\nCo-Founder & Programmer | April 2023 – Present\n\n\nUniversity of Michigan School of Information\n\nInstructional Aide | August 2022 – April 2023\n\nData Curator | December 2021 – August 2022\n\n\n\nEnterpriseDB (EDB)\nProfessional Services Intern | May 2022 – April 2023\n\n\nFluffy Feeling Co.\nFounder & Owner | March 2023 – Present\n\n\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager | July 2019 – June 2021\n\n\nCity Year Washington, DC\n\nDevelopment Operations Director | August 2018 – June 2019\n\nDevelopment & Communications Manager | August 2017 – August 2018\n\nDevelopment Operations Associate | July 2015 – July 2017"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Hi, I’m Miranda!",
+    "section": "",
+    "text": "Data Expertise: Skilled in R, Python, and Power Automate.\n\nBuilt participant management systems and automated workflows at the University of Michigan Alzheimer’s Disease Center.\n\nImproved research processes for scalability and efficiency.\n\nCo-Founder & Programmer: At Smpl Sheets, I help design intuitive tools to streamline budgeting and simplify financial management.\nCreative Entrepreneur: Founder of Fluffy Feeling Co., an Etsy shop for fun, animal-themed products.\n\nCombine creativity and analytics to design unique items and streamline operations."
+  },
+  {
+    "objectID": "index.html#lets-collaborate",
+    "href": "index.html#lets-collaborate",
+    "title": "Hi, I’m Miranda!",
+    "section": "Let’s Collaborate!",
+    "text": "Let’s Collaborate!\nI love tackling challenges where technical precision and creative thinking meet. Whether it’s designing smarter systems or creating delightful products, I’m ready to bring ideas to life."
   }
 ]

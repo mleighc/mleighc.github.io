@@ -15,10 +15,6 @@ website:
   bread-crumbs: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
       - href: projects.qmd
         text: Projects
     right:

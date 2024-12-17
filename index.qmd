@@ -1,9 +1,63 @@
 ---
-title: ""
+title: "Hi, I'm Miranda!"
+resources:
+  - "resources/mleighc_resume.pdf"
+about:
+    template: solana
+    image: assets/images/headshot.jpeg
+    image-alt: 'A headshot of Miranda Cooper'
+    image-title: 'Miranda Leigh Cooper'
+    image-shape: round
+    links:
+      - icon: github
+        text: github
+        href: https://github.com/mleighc
+      - icon: linkedin
+        text: linkedin
+        href: https://www.linkedin.com/in/mirandaleigh
+      - icon: cup-hot
+        text: buy me a tea
+        href: https://buymeacoffee.com/mleighc
+      - icon: calendar-plus
+        text: schedule a quick chat
+        href: https://calendly.com/mleighc/quick-chat
+      - icon: file-earmark
+        text: download my resume
+        href: resources/mleighc_resume.pdf
+
 ---
 
-# Welcome to my Portfolio
+I’m a **data analyst, programmer, and entrepreneur** with a **Master’s in Data Analytics** from the University of Michigan. I specialize in simplifying complex problems, automating workflows, and building user-friendly systems.  
 
-I’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.
+---
 
-The site is still in development, but feel free to explore my projects and check back soon for more updates!
+### Professional Highlights  
+
+#### **Data Enthusiast & Problem Solver**
+- Passionate about working with data and enthusiastically seeking to learn new tools and technologies.  
+- Skilled in **R**, **Python**, **SQL**, and **Microsoft Power Automate** for building user-friendly systems.  
+- Led projects at the University of **Michigan Alzheimer’s Disease Center** to:  
+  - Build participant management systems.  
+  - Automate workflows and data pipelines.  
+  - Optimize research processes for scalability and efficiency.
+
+#### **Co-Founder & Programmer**   
+- Co-founded [**SMPL SHEETS, LLC**](https://www.smplsheets.com/), a company that transforms complex public data (e.g., Chamber of Commerce directories) into clean, CRM-friendly formats with the goal of making valuable information accessible and actionable.
+
+#### **Creative Entrepreneur**   
+- Founded [**Fluffy Feeling Co.**](https://fluffyfeelingco.etsy.com), an Etsy shop featuring fun, animal-themed products.  
+- Blended creativity and analytics to design unique items and streamline operations.  
+
+---
+
+### What I Bring  
+- A passion for **efficiency** and **simplifying workflows**.  
+- Expertise in **data analytics**, **programming**, and **process automation**.  
+- A creative approach to problem-solving, merging **technical skills** with **artistic insight**.  
+
+---
+
+### Let’s Collaborate!  
+I love tackling challenges where **technical precision** and **creative thinking** meet. Whether it’s designing smarter systems or creating delightful products, I’m ready to bring ideas to life.  
+
+
