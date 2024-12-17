@@ -2,6 +2,7 @@
 title: "Michigan Alzheimer's Disease Center Resource Library"
 description: ""
 categories: 
+   - quarto
    - quarto pub
    - r
    - markdown

@@ -9,6 +9,8 @@ categories:
    - entrepreneurship
    - marketing
    - html5
+   - accounting
+   - business development
 date: November 17, 2024
 ---
 
