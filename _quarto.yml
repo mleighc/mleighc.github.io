@@ -27,8 +27,6 @@ website:
   page-footer:
     center:
       - '©2024 Miranda L. Cooper'
-      - text: "About"
-        href: about.qmd
       - text: "License"
         href: LICENSE
 
