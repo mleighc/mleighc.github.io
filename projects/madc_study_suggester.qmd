@@ -3,5 +3,14 @@ title: "Michigan Alzheimer's Disease Center Study Suggester"
 description: ""
 categories: 
    - r
+   - tidyverse
+   - gt
+   - webshot
+   - pagedown
+date: May 13, 2024
 ---
+
+## Project Overview
+
+## Key Achievements
 

@@ -2,10 +2,16 @@
 title: "Chicken Soup Data Visualization"
 description: ""
 categories:
-   - visualization
+   - data visualization
    - streamlit
    - python
    - altair
-image: assets/images/chicken_soup.png
+   - pandas
+   - git
+date: April 7, 2023
 ---
 
+
+## Project Overview
+
+## Key Achievements

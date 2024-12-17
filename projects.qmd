@@ -2,11 +2,11 @@
 title: "Projects"
 listing:
    contents: projects
-   sort: date
+   sort-ui: ['title','date']
    type: grid
    field-display-names: 
      title: Project
-   categories: numbered
+   categories: cloud
    table-hover: true
    fields: ['title', 'date', 'categories']
 ---

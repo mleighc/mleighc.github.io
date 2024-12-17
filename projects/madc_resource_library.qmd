@@ -2,8 +2,16 @@
 title: "Michigan Alzheimer's Disease Center Resource Library"
 description: ""
 categories: 
-   - quarto
+   - quarto pub
    - r
    - markdown
+   - gitlab
+   - continuous integration
+   - yaml
+date: November 3, 2023
 ---
 
+
+## Project Overview
+
+## Key Achievements

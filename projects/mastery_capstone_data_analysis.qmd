@@ -3,8 +3,15 @@ title: "Data Analysis: Is Education the Key to Success?"
 description: ""
 categories:
    - streamlit
-   - visualization
+   - data visualization
    - python
    - altair
+   - github
+   - team collaboration
+   - project management
+date: April 18, 2023
 ---
 
+## Project Overview
+
+## Key Achievements

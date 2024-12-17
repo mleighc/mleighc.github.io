@@ -1,131 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Welcome to my Portfolio",
-    "section": "",
-    "text": "Welcome to my Portfolio\nI’m Miranda, a data analyst with a passion for system development, programming and building impactful solutions. This portfolio showcases my work in data analysis, programming, and entrepreneurship.\nThe site is still in development, but feel free to explore my projects and check back soon for more updates!\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Hi, I’m Miranda!",
-    "section": "Education",
-    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 – May 2023"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Hi, I’m Miranda!",
-    "section": "Experience",
-    "text": "Experience\n\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer | June 2023 – Present\n\n\nUniversity of Michigan School of Information\n\nInstructional Aide | August 2022 – April 2023\n\nData Curator | December 2021 – August 2022\n\n\n\nEnterpriseDB (EDB)\nProfessional Services Intern | May 2022 – April 2023\n\n\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager | July 2019 – June 2021\n\n\nCity Year Washington, DC\n\nDevelopment Operations Director | August 2018 – June 2019\n\nDevelopment & Communications Manager | August 2017 – August 2018\n\nDevelopment Operations Associate | July 2015 – July 2017"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\nvisualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\nvisualization\n\n\npython\n\n\naltair\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\njavascript\n\n\nhtml5\n\n\ncss\n\n\nweb accessibility\n\n\nweb design\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\nentrepreneurship\n\n\nmarketing\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\nbig data\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\nvisualization\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\nmicrosoft 365\n\n\nmicrosoft power automate\n\n\nautomation\n\n\nux\n\n\ntechnical documentation\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nr\n\n\nmarkdown\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "projects/pearl.html",
-    "href": "projects/pearl.html",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "",
-    "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
-  },
-  {
-    "objectID": "projects/pearl.html#project-overview",
-    "href": "projects/pearl.html#project-overview",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "",
-    "text": "In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
-  },
-  {
-    "objectID": "projects/pearl.html#key-achievements",
-    "href": "projects/pearl.html#key-achievements",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "Key achievements",
-    "text": "Key achievements\n\nCreating modular workflows for study customization.\nIntegrating Power Automate for data flow and notifications.\nImproving participant engagement metrics."
-  },
-  {
-    "objectID": "projects/pearl.html#key-technologies",
-    "href": "projects/pearl.html#key-technologies",
-    "title": "Participant Engagement and Research Lifecycle (PEARL)",
-    "section": "Key Technologies",
-    "text": "Key Technologies\n\nMicrosoft Lists\nPower Automate\nSharePoint\n\nDue to HIPAA regulations, I am only able to share a sandbox copy of the original system."
-  },
-  {
-    "objectID": "projects/madc_study_suggester.html",
-    "href": "projects/madc_study_suggester.html",
-    "title": "Michigan Alzheimer’s Disease Center Study Suggester",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/fluffyfeelingco.html",
-    "href": "projects/fluffyfeelingco.html",
-    "title": "Fluffy Feeling Co. on Etsy",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/horror-ific_movie_rec_system.html",
-    "href": "projects/horror-ific_movie_rec_system.html",
-    "title": "Horror-ific Movie Recommender System",
-    "section": "",
-    "text": "SI 650 Experiments in Collaborative Filtering with Keras and Surprise\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects/mastery_capstone_data_analysis.html",
-    "href": "projects/mastery_capstone_data_analysis.html",
-    "title": "Data Analysis: Is Education the Key to Success?",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/chicken_soup.html",
-    "href": "projects/chicken_soup.html",
-    "title": "Chicken Soup Data Visualization",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/womens_web.html",
-    "href": "projects/womens_web.html",
-    "title": "Women’s Web Design Project",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/smpl_sheets.html",
-    "href": "projects/smpl_sheets.html",
-    "title": "Web Scraping for SMPL Sheets, LLC",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/collab_filtering_survey.html",
-    "href": "projects/collab_filtering_survey.html",
-    "title": "Collaborative Filtering Methodologies",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/dmsc_madc_site.html",
-    "href": "projects/dmsc_madc_site.html",
-    "title": "Data Management and Statistical Core Sharing Hub",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "projects/madc_resource_library.html",
-    "href": "projects/madc_resource_library.html",
-    "title": "Michigan Alzheimer’s Disease Center Resource Library",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi, I’m Miranda!",
@@ -133,59 +7,122 @@
     "text": "I’m a data analyst, programmer, and entrepreneur with a Master’s in Data Analytics from the University of Michigan. I specialize in simplifying complex problems, automating workflows, and building user-friendly systems.\n\n\nProfessional Highlights\n\nData Enthusiast & Problem Solver\n\nPassionate about working with data and enthusiastically seeking to learn new tools and technologies.\n\nSkilled in R, Python, SQL, and Microsoft Power Automate for building user-friendly systems.\n\nLed projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCo-Founder & Programmer\n\nCo-founded SMPL SHEETS, LLC, a company that transforms complex public data (e.g., Chamber of Commerce directories) into clean, CRM-friendly formats with the goal of making valuable information accessible and actionable.\n\n\n\nCreative Entrepreneur\n\nFounded Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlended creativity and analytics to design unique items and streamline operations.\n\n\n\n\n\nWhat I Bring\n\nA passion for efficiency and simplifying workflows.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, merging technical skills with artistic insight.\n\n\n\n\nLet’s Collaborate!\nI love tackling challenges where technical precision and creative thinking meet. Whether it’s designing smarter systems or creating delightful products, I’m ready to bring ideas to life.\n\n\n\n Back to top"
   },
   {
-    "objectID": "about.html#professional-highlights",
-    "href": "about.html#professional-highlights",
-    "title": "Hi, I’m Miranda!",
-    "section": "Professional Highlights",
-    "text": "Professional Highlights\n\nData-Driven Problem Solver\n\nSkilled in R, Python, and Microsoft Power Automate for designing user-friendly systems.\n\nLed projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCreative Entrepreneur\n\nFounder of Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlend creativity and analytics to design unique items and automate operations."
+    "objectID": "projects/madc_resource_library.html#key-achievements",
+    "href": "projects/madc_resource_library.html#key-achievements",
+    "title": "Michigan Alzheimer’s Disease Center Resource Library",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "about.html#what-i-bring",
-    "href": "about.html#what-i-bring",
-    "title": "Hi, I’m Miranda!",
-    "section": "What I Bring",
-    "text": "What I Bring\n\nPassion for simplifying workflows and improving efficiency.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, blending technical and artistic skills.\n\nLet’s work together to make systems smarter, processes simpler, and ideas come to life!"
+    "objectID": "projects/dmsc_madc_site.html#key-achievements",
+    "href": "projects/dmsc_madc_site.html#key-achievements",
+    "title": "Data Management and Statistical Core Sharing Hub",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "index.html#professional-highlights",
-    "href": "index.html#professional-highlights",
-    "title": "Hi, I’m Miranda!",
-    "section": "Professional Highlights",
-    "text": "Professional Highlights\n\nData Enthusiast & Problem Solver\n\nPassionate about working with data and constantly seeking to learn new tools and technologies.\n\nSkilled in R, Python, SQL, and Microsoft Power Automate for building user-friendly systems.\n\nLead projects at the University of Michigan Alzheimer’s Disease Center to:\n\nBuild participant management systems.\n\nAutomate workflows and data pipelines.\n\nOptimize research processes for scalability and efficiency.\n\n\n\n\nCo-Founder & Programmer\n\nSMPL SHEETS, LLC: Co-founded a company that transforms complex public data (e.g., Chamber of Commerce directories) into clean, CRM-friendly formats.\n\nWe help businesses save time by streamlining manual data entry into pre-cleaned spreadsheets for bulk upload.\n\nStarting with Chamber of Commerce data, we aim to expand to various public data sources, making valuable information accessible and actionable.\n\n\n\nCreative Entrepreneur\n\nFounder of Fluffy Feeling Co., an Etsy shop featuring fun, animal-themed products.\n\nBlend creativity and analytics to design unique items and streamline operations."
+    "objectID": "projects/collab_filtering_survey.html#key-achievements",
+    "href": "projects/collab_filtering_survey.html#key-achievements",
+    "title": "Collaborative Filtering Methodologies",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "index.html#what-i-bring",
-    "href": "index.html#what-i-bring",
-    "title": "Hi, I’m Miranda!",
-    "section": "What I Bring",
-    "text": "What I Bring\n\nA passion for efficiency and simplifying workflows.\n\nExpertise in data analytics, programming, and process automation.\n\nA creative approach to problem-solving, merging technical skills with artistic insight."
+    "objectID": "projects/smpl_sheets.html#key-achievements",
+    "href": "projects/smpl_sheets.html#key-achievements",
+    "title": "Web Scraping for SMPL Sheets, LLC",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hi, I’m Miranda!",
-    "section": "Education",
-    "text": "Education\nUniversity of Michigan | Ann Arbor, MI\nM.S. in Information | August 2021 – May 2023"
+    "objectID": "projects/womens_web.html#key-achievements",
+    "href": "projects/womens_web.html#key-achievements",
+    "title": "Women’s Web Design Project",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hi, I’m Miranda!",
-    "section": "Experience",
-    "text": "Experience\n\nMichigan Alzheimer’s Disease Center\nData Analyst/Programmer | June 2023 – Present\n\n\nSmpl Sheets\nCo-Founder & Programmer | April 2023 – Present\n\n\nUniversity of Michigan School of Information\n\nInstructional Aide | August 2022 – April 2023\n\nData Curator | December 2021 – August 2022\n\n\n\nEnterpriseDB (EDB)\nProfessional Services Intern | May 2022 – April 2023\n\n\nFluffy Feeling Co.\nFounder & Owner | March 2023 – Present\n\n\nWorld Central Kitchen\nDevelopment (Fundraising) Operations Manager | July 2019 – June 2021\n\n\nCity Year Washington, DC\n\nDevelopment Operations Director | August 2018 – June 2019\n\nDevelopment & Communications Manager | August 2017 – August 2018\n\nDevelopment Operations Associate | July 2015 – July 2017"
+    "objectID": "projects/mastery_capstone_data_analysis.html#key-achievements",
+    "href": "projects/mastery_capstone_data_analysis.html#key-achievements",
+    "title": "Data Analysis: Is Education the Key to Success?",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
   },
   {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Hi, I’m Miranda!",
+    "objectID": "projects/chicken_soup.html#key-achievements",
+    "href": "projects/chicken_soup.html#key-achievements",
+    "title": "Chicken Soup Data Visualization",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "projects/madrc_package.html",
+    "href": "projects/madrc_package.html",
+    "title": "madRc - R Package (WiP)",
     "section": "",
-    "text": "Data Expertise: Skilled in R, Python, and Power Automate.\n\nBuilt participant management systems and automated workflows at the University of Michigan Alzheimer’s Disease Center.\n\nImproved research processes for scalability and efficiency.\n\nCo-Founder & Programmer: At Smpl Sheets, I help design intuitive tools to streamline budgeting and simplify financial management.\nCreative Entrepreneur: Founder of Fluffy Feeling Co., an Etsy shop for fun, animal-themed products.\n\nCombine creativity and analytics to design unique items and streamline operations."
+    "text": "This project is a work in progress."
   },
   {
-    "objectID": "index.html#lets-collaborate",
-    "href": "index.html#lets-collaborate",
-    "title": "Hi, I’m Miranda!",
-    "section": "Let’s Collaborate!",
-    "text": "Let’s Collaborate!\nI love tackling challenges where technical precision and creative thinking meet. Whether it’s designing smarter systems or creating delightful products, I’m ready to bring ideas to life."
+    "objectID": "projects/madrc_package.html#project-overview",
+    "href": "projects/madrc_package.html#project-overview",
+    "title": "madRc - R Package (WiP)",
+    "section": "",
+    "text": "This project is a work in progress."
+  },
+  {
+    "objectID": "projects/madrc_package.html#key-achievements",
+    "href": "projects/madrc_package.html#key-achievements",
+    "title": "madRc - R Package (WiP)",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "projects/horror-ific_movie_rec_system.html#key-achievements",
+    "href": "projects/horror-ific_movie_rec_system.html#key-achievements",
+    "title": "Horror-ific Movie Recommender System",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "projects/fluffyfeelingco.html#key-achievements",
+    "href": "projects/fluffyfeelingco.html#key-achievements",
+    "title": "Fluffy Feeling Co. on Etsy",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "projects/madc_study_suggester.html#key-achievements",
+    "href": "projects/madc_study_suggester.html#key-achievements",
+    "title": "Michigan Alzheimer’s Disease Center Study Suggester",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "projects/pearl.html",
+    "href": "projects/pearl.html",
+    "title": "Participant Engagement and Research Lifecycle (PEARL)",
+    "section": "",
+    "text": "This project is still a work in progress with phased releases of features. It was initiated on March 28, 2024 and is still in development.\nIn this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
+  },
+  {
+    "objectID": "projects/pearl.html#project-overview",
+    "href": "projects/pearl.html#project-overview",
+    "title": "Participant Engagement and Research Lifecycle (PEARL)",
+    "section": "",
+    "text": "This project is still a work in progress with phased releases of features. It was initiated on March 28, 2024 and is still in development.\nIn this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies."
+  },
+  {
+    "objectID": "projects/pearl.html#key-achievements",
+    "href": "projects/pearl.html#key-achievements",
+    "title": "Participant Engagement and Research Lifecycle (PEARL)",
+    "section": "Key Achievements",
+    "text": "Key Achievements\n\nCreating modular workflows for study customization.\nIntegrating Power Automate for data flow and notifications.\nImproving participant engagement metrics.\n\nDue to HIPAA regulations, I am only able to share a sandbox copy of the original system."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Project\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\ndata visualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\npandas\n\n\ngit\n\n\n\n\nApr 7, 2023\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\ninformation retrieval\n\n\ndata mining\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\ndata visualization\n\n\npython\n\n\naltair\n\n\ngithub\n\n\nteam collaboration\n\n\nproject management\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\ndata visualization\n\n\ndocumentation\n\n\nyaml\n\n\ngithub pages\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. on Etsy\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\nApr 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto pub\n\n\nr\n\n\nmarkdown\n\n\ngitlab\n\n\ncontinuous integration\n\n\nyaml\n\n\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\ntidyverse\n\n\ngt\n\n\nwebshot\n\n\npagedown\n\n\n\n\nMay 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\ndata management\n\n\nsystem design & development\n\n\nmicrosoft sharepoint\n\n\nmicrosoft power automate\n\n\nprocess diagramming\n\n\nteam collaboration\n\n\nhealthcare & research\n\n\nknowledge management\n\n\nworkflow automation\n\n\nproject management\n\n\n\n\nMar 28, 2024\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\nentrepreneurship\n\n\nmarketing\n\n\nhtml5\n\n\n\n\nNov 17, 2024\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\nhtml5\n\n\ncss\n\n\njavascript\n\n\nweb accessibility\n\n\nweb design\n\n\ngithub pages\n\n\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\nmadRc - R Package (WiP)\n\n\n\nr\n\n\nr package\n\n\ntechnical documentation\n\n\ntidyverse\n\n\napi\n\n\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]

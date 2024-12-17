@@ -2,25 +2,31 @@
 title: "Participant Engagement and Research Lifecycle (PEARL)"
 description: "Designed a Microsoft Lists-based system for participant tracking and study collaboration at University of Michigan's Alzheimer's Disease Center."
 categories:
-    - microsoft 365
+    - data management
+    - system design & development
+    - microsoft sharepoint
     - microsoft power automate
-    - automation
-    - ux
-    - technical documentation
+    - process diagramming
+    - team collaboration
+    - healthcare & research
+    - knowledge management
+    - workflow automation
+    - project management
+date: March 28,2024
 ---
+
 ## Project Overview
+
+This project is still a work in progress with phased releases of features. It was initiated on March 28, 2024 and is still in development.
 
 In this project, I developed a workflow and participant management tool leveraging a network of lists in Microsoft Lists/Sharepoint to improve participant visit tracking across 10+ research studies.
 
-## Key achievements
+## Key Achievements
 
 - Creating modular workflows for study customization.
 - Integrating Power Automate for data flow and notifications.
 - Improving participant engagement metrics.
 
-## Key Technologies
-- Microsoft Lists
-- Power Automate
-- SharePoint
-
 Due to HIPAA regulations, I am only able to share a sandbox copy of the original system.
+
+[]()

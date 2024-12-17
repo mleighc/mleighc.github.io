@@ -8,7 +8,10 @@ categories:
    - information retrieval
    - collaborative filtering
    - svd
+date: December 16, 2022
 ---
 
-SI 650
-Experiments in Collaborative Filtering with Keras and Surprise
+
+## Project Overview
+
+## Key Achievements

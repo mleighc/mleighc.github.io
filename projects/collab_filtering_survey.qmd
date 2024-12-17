@@ -2,11 +2,17 @@
 title: "Collaborative Filtering Methodologies"
 description: ""
 categories: 
-   - big data
    - collaborative filtering
    - python
    - surprise
    - recmetrics
    - pandas
+   - information retrieval
+   - data mining
+date: December 16, 2022
 ---
 
+
+## Project Overview
+
+## Key Achievements

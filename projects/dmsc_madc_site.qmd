@@ -5,7 +5,14 @@ categories:
    - quarto
    - markdown
    - css
-   - visualization
+   - data visualization
    - documentation
+   - yaml
+   - github pages
+date: December 12, 2024
 ---
 
+
+## Project Overview
+
+## Key Achievements

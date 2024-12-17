@@ -2,10 +2,15 @@
 title: "Women's Web Design Project"
 description: ""
 categories: 
-   - javascript
    - html5
    - css
+   - javascript
    - web accessibility
    - web design
+   - github pages
+date: April 4, 2023
 ---
 
+## Project Overview
+
+## Key Achievements

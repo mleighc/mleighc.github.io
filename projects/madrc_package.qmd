@@ -1,0 +1,16 @@
+---
+title: "madRc - R Package (WiP)"
+description: ""
+categories:
+   - r
+   - r package
+   - technical documentation
+   - tidyverse
+   - api
+date: October 16,2023
+---
+
+## Project Overview
+This project is a work in progress.
+
+## Key Achievements
