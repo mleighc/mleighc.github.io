@@ -4,10 +4,12 @@ project:
 website:
   title: "Miranda L. Cooper"
   site-url: https://mleighc.github.io/
+  repo-url: https://github.com/mleighc/mleighc.github.io
   favicon: assets/images/favicon_io/favicon.ico
   back-to-top-navigation: true
   bread-crumbs: true
   navbar:
+    background: "#efefef"
     left:
       - href: projects.qmd
         text: Projects
@@ -19,11 +21,17 @@ website:
         href: https://www.linkedin.com/in/mirandaleigh
         aria-label: LinkedIn
   page-footer:
-    center:
-      - '©2024 Miranda L. Cooper'
-      - text: "License"
+    border: true
+    background: "#efefef"
+    left: |
+      Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
+    center: 
+      - '&copy; 2024 Miranda L. Cooper'
+      - text: "Apache License 2.0"
         href: LICENSE
-
+    right:
+      - icon: github
+        href: https://github.com/mleighc/mleighc.github.io
 format:
   html:
     theme: simplex
