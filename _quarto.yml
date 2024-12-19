@@ -6,6 +6,7 @@ website:
   site-url: https://mleighc.github.io/
   repo-url: https://github.com/mleighc/mleighc.github.io
   favicon: assets/images/favicon_io/favicon.ico
+  google-analytics: "G-PYTTQT5BMZ"
   back-to-top-navigation: true
   bread-crumbs: true
   navbar:
