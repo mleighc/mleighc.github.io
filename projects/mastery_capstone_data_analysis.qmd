@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis: Is Education the Key to Success?"
+title: "Data Analysis Capstone: Is Education the Key to Success?"
 description: ""
 categories:
    - streamlit
