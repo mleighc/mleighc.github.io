@@ -27,7 +27,7 @@ website:
     left: |
       Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
     center: 
-      - '&copy; 2024 Miranda L. Cooper'
+      - '&copy; {{< now year >}} Miranda L. Cooper'
       - text: "Apache License 2.0"
         href: LICENSE
     right:
