@@ -2,19 +2,19 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Miranda L. Cooper"
+  title: "Miranda Cooper"
   site-url: https://mleighc.github.io/
   repo-url: https://github.com/mleighc/mleighc.github.io
   favicon: assets/images/favicon_io/favicon.ico
   google-analytics: "G-PYTTQT5BMZ"
   back-to-top-navigation: true
   bread-crumbs: true
+  search: false
   navbar:
-    background: "#efefef"
-    left:
+    background: light
+    right:
       - href: projects.qmd
         text: Projects
-    right:
       - icon: github
         href: https://github.com/mleighc
         aria-label: GitHub
@@ -23,7 +23,7 @@ website:
         aria-label: LinkedIn
   page-footer:
     border: true
-    background: "#efefef"
+    background: light
     left: |
       Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
     center: 
@@ -35,7 +35,7 @@ website:
         href: https://github.com/mleighc/mleighc.github.io
 format:
   html:
-    theme: simplex
+    theme: flatly
     css: assets/css/styles.css
     toc: true
 
