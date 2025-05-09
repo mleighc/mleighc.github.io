@@ -11,7 +11,6 @@ website:
   bread-crumbs: true
   search: false
   navbar:
-    background: dark
     right:
       - href: projects.qmd
         text: Projects
@@ -23,7 +22,6 @@ website:
         aria-label: LinkedIn
   page-footer:
     border: true
-    background: secondary
     left: |
       Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)
     center: 
@@ -35,9 +33,10 @@ website:
         href: https://github.com/mleighc/mleighc.github.io
 format:
   html:
-    theme: zephyr
-    css: assets/css/styles.css
-    toc: true
+    theme: simplex
+    fontsize: 1.1 em
+    fontcolor: "#06080f"
+    linkcolor: "#6d8196"
 
 
 
