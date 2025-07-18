@@ -4,7 +4,7 @@ format: html
 page-layout: full
 listing:
    contents: blogs
-   sort-ui: ['date']
+   sort: "date desc"
    type: table
    field-display-names:
      title: "Entry"

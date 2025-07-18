@@ -26,4 +26,4 @@ It also validates the time I spend on things that might not “look” technical
 
 *This post builds on a LinkedIn #BookmarkDive reflection. You can join the conversation [here](https://www.linkedin.com/posts/mirandaleigh_the-best-programmers-i-know-matthias-endler-activity-7345520936453849088-REZu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7345520933580730368?collapsed=1" height="583" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+

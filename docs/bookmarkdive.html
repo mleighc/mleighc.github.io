@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>bookmarkdive – Miranda Cooper</title>
+<title>bookmarkdive</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,7 +25,7 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./assets/images/favicon_io/favicon.ico" rel="icon">
+<link href="./assets/images/m-logo-512x512.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -131,8 +131,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Miranda Cooper</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/images/m-logo-512x512.png" alt="" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -171,7 +171,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Y2FyZWVyJTIwZ3Jvd3Ro">career growth</div><div class="category" data-category="Y29tbXVuaWNhdGlvbg==">communication</div><div class="category" data-category="ZGF0YSUyMGFjY2Vzcw==">data access</div><div class="category" data-category="ZGF0YSUyMGFyY2hpdmluZw==">data archiving</div><div class="category" data-category="ZGF0YSUyMHJlc2N1ZQ==">data rescue</div><div class="category" data-category="ZG9jdW1lbnRhdGlvbg==">documentation</div><div class="category" data-category="ZW5naW5lZXJpbmclMjBjdWx0dXJl">engineering culture</div><div class="category" data-category="Z2l0">git</div><div class="category" data-category="cHJvZHVjdGl2aXR5">productivity</div><div class="category" data-category="cHJvZ3JhbW1lciUyMGhhYml0cw==">programmer habits</div><div class="category" data-category="cmVmbGVjdGlvbg==">reflection</div><div class="category" data-category="dG9vbHM=">tools</div><div class="category" data-category="dmVyc2lvbiUyMGNvbnRyb2w=">version control</div><div class="category" data-category="d29ya2Zsb3c=">workflow</div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Y2FyZWVyJTIwZ3Jvd3Ro">career growth</div><div class="category" data-category="Y29tbXVuaWNhdGlvbg==">communication</div><div class="category" data-category="ZGF0YSUyMGFjY2Vzcw==">data access</div><div class="category" data-category="ZGF0YSUyMGFyY2hpdmluZw==">data archiving</div><div class="category" data-category="ZGF0YSUyMHJlc2N1ZQ==">data rescue</div><div class="category" data-category="ZG9jdW1lbnRhdGlvbg==">documentation</div><div class="category" data-category="ZW5naW5lZXJpbmclMjBjdWx0dXJl">engineering culture</div><div class="category" data-category="Z2l0">git</div><div class="category" data-category="cHJvZHVjdGl2aXR5">productivity</div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwZGV2ZWxvcG1lbnQ=">professional development</div><div class="category" data-category="cHJvZ3JhbW1lciUyMGhhYml0cw==">programmer habits</div><div class="category" data-category="cmVmbGVjdGlvbg==">reflection</div><div class="category" data-category="dG9vbHM=">tools</div><div class="category" data-category="dmVyc2lvbiUyMGNvbnRyb2w=">version control</div><div class="category" data-category="d29ya2Zsb3c=">workflow</div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -201,6 +201,9 @@ window.Quarto = {
          <option value="listing-date-sort" data-direction="desc">
           Date - Newest
         </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Entry
+        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -212,7 +215,7 @@ window.Quarto = {
 <thead>
 <tr>
 <th>
-Entry
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Entry</a>
 </th>
 <th>
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
@@ -220,7 +223,16 @@ Entry
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Z2l0JTJDdmVyc2lvbiUyMGNvbnRyb2wlMkN3b3JrZmxvdyUyQ3Rvb2xz" data-listing-date-sort="1752638400000" data-listing-file-modified-sort="1752862155725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206" data-listing-title-sort="📌 Git Stash for Newbies" data-listing-filename-sort="git_stash.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-categories="Y2FyZWVyJTIwZ3Jvd3RoJTJDcmVmbGVjdGlvbiUyQ3Byb2Zlc3Npb25hbCUyMGRldmVsb3BtZW50" data-listing-date-sort="1753243200000" data-listing-file-modified-sort="1752867513308" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280" data-listing-title-sort="📌 10 Things to Unlearn to Truly Grow in Your Career" data-listing-filename-sort="unlearning.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<a href="./blogs/unlearning.html" class="title listing-title">📌 10 Things to Unlearn to Truly Grow in Your Career</a>
+</td>
+<td>
+<span class="listing-date">Jul 23, 2025</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Z2l0JTJDdmVyc2lvbiUyMGNvbnRyb2wlMkN3b3JrZmxvdyUyQ3Rvb2xz" data-listing-date-sort="1752638400000" data-listing-file-modified-sort="1752862155725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206" data-listing-title-sort="📌 Git Stash for Newbies" data-listing-filename-sort="git_stash.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
 <a href="./blogs/git_stash.html" class="title listing-title">📌 Git Stash for Newbies</a>
@@ -229,7 +241,16 @@ Entry
 <span class="listing-date">Jul 16, 2025</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="ZG9jdW1lbnRhdGlvbiUyQ3dvcmtmbG93JTJDY29tbXVuaWNhdGlvbiUyQ3Byb2R1Y3Rpdml0eQ==" data-listing-date-sort="1751428800000" data-listing-file-modified-sort="1752862157124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251" data-listing-title-sort="📌 How to Document Everything at Work (Without Being Asked)" data-listing-filename-sort="document_everything.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="2" data-categories="ZGF0YSUyMGFyY2hpdmluZyUyQ3Rvb2xzJTJDZGF0YSUyMGFjY2VzcyUyQ2RhdGElMjByZXNjdWU=" data-listing-date-sort="1752033600000" data-listing-file-modified-sort="1752862157827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="📌 The Data Rescue Project" data-listing-filename-sort="data_rescue.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<a href="./blogs/data_rescue.html" class="title listing-title">📌 The Data Rescue Project</a>
+</td>
+<td>
+<span class="listing-date">Jul 9, 2025</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="ZG9jdW1lbnRhdGlvbiUyQ3dvcmtmbG93JTJDY29tbXVuaWNhdGlvbiUyQ3Byb2R1Y3Rpdml0eQ==" data-listing-date-sort="1751428800000" data-listing-file-modified-sort="1752862157124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251" data-listing-title-sort="📌 How to Document Everything at Work (Without Being Asked)" data-listing-filename-sort="document_everything.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
 <a href="./blogs/document_everything.html" class="title listing-title">📌 How to Document Everything at Work (Without Being Asked)</a>
@@ -238,22 +259,13 @@ Entry
 <span class="listing-date">Jul 2, 2025</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="ZW5naW5lZXJpbmclMjBjdWx0dXJlJTJDcmVmbGVjdGlvbiUyQ2NvbW11bmljYXRpb24lMkNwcm9ncmFtbWVyJTIwaGFiaXRzJTJDY2FyZWVyJTIwZ3Jvd3Ro" data-listing-date-sort="1750824000000" data-listing-file-modified-sort="1752863289234" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="169" data-listing-title-sort="📌 The Best Programmers I Know" data-listing-filename-sort="best_programmers.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="4" data-categories="ZW5naW5lZXJpbmclMjBjdWx0dXJlJTJDcmVmbGVjdGlvbiUyQ2NvbW11bmljYXRpb24lMkNwcm9ncmFtbWVyJTIwaGFiaXRzJTJDY2FyZWVyJTIwZ3Jvd3Ro" data-listing-date-sort="1750824000000" data-listing-file-modified-sort="1752867514705" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162" data-listing-title-sort="📌 The Best Programmers I Know" data-listing-filename-sort="best_programmers.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
 <a href="./blogs/best_programmers.html" class="title listing-title">📌 The Best Programmers I Know</a>
 </td>
 <td>
 <span class="listing-date">Jun 25, 2025</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="ZGF0YSUyMGFyY2hpdmluZyUyQ3Rvb2xzJTJDZGF0YSUyMGFjY2VzcyUyQ2RhdGElMjByZXNjdWU=" data-listing-date-sort="1752033600000" data-listing-file-modified-sort="1752862157827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="📌 The Data Rescue Project" data-listing-filename-sort="data_rescue.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/data_rescue.html" class="title listing-title">📌 The Data Rescue Project</a>
-</td>
-<td>
-<span class="listing-date">Jul 9, 2025</span>
 </td>
 </tr>
 </tbody>
