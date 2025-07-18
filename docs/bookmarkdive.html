@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -166,14 +166,14 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Y2FyZWVyJTIwZ3Jvd3Ro">career growth</div><div class="category" data-category="Y29tbXVuaWNhdGlvbg==">communication</div><div class="category" data-category="ZGF0YSUyMGFjY2Vzcw==">data access</div><div class="category" data-category="ZGF0YSUyMGFyY2hpdmluZw==">data archiving</div><div class="category" data-category="ZGF0YSUyMHJlc2N1ZQ==">data rescue</div><div class="category" data-category="ZG9jdW1lbnRhdGlvbg==">documentation</div><div class="category" data-category="ZW5naW5lZXJpbmclMjBjdWx0dXJl">engineering culture</div><div class="category" data-category="Z2l0">git</div><div class="category" data-category="cHJvZHVjdGl2aXR5">productivity</div><div class="category" data-category="cHJvZ3JhbW1lciUyMGhhYml0cw==">programmer habits</div><div class="category" data-category="cmVmbGVjdGlvbg==">reflection</div><div class="category" data-category="dG9vbHM=">tools</div><div class="category" data-category="dmVyc2lvbiUyMGNvbnRyb2w=">version control</div><div class="category" data-category="d29ya2Zsb3c=">workflow</div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -201,9 +201,6 @@ window.Quarto = {
          <option value="listing-date-sort" data-direction="desc">
           Date - Newest
         </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Blog
-        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -215,13 +212,10 @@ window.Quarto = {
 <thead>
 <tr>
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Blog</a>
+Entry
 </th>
 <th>
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-Categories
 </th>
 </tr>
 </thead>
@@ -234,9 +228,6 @@ Categories
 <td>
 <span class="listing-date">Jul 16, 2025</span>
 </td>
-<td>
-<span class="listing-categories">git, version control, workflow, tools</span>
-</td>
 </tr>
 <tr data-index="1" data-categories="ZG9jdW1lbnRhdGlvbiUyQ3dvcmtmbG93JTJDY29tbXVuaWNhdGlvbiUyQ3Byb2R1Y3Rpdml0eQ==" data-listing-date-sort="1751428800000" data-listing-file-modified-sort="1752862157124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251" data-listing-title-sort="📌 How to Document Everything at Work (Without Being Asked)" data-listing-filename-sort="document_everything.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
@@ -245,9 +236,6 @@ Categories
 </td>
 <td>
 <span class="listing-date">Jul 2, 2025</span>
-</td>
-<td>
-<span class="listing-categories">documentation, workflow, communication, productivity</span>
 </td>
 </tr>
 <tr data-index="2" data-categories="ZW5naW5lZXJpbmclMjBjdWx0dXJlJTJDcmVmbGVjdGlvbiUyQ2NvbW11bmljYXRpb24lMkNwcm9ncmFtbWVyJTIwaGFiaXRzJTJDY2FyZWVyJTIwZ3Jvd3Ro" data-listing-date-sort="1750824000000" data-listing-file-modified-sort="1752863289234" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="169" data-listing-title-sort="📌 The Best Programmers I Know" data-listing-filename-sort="best_programmers.qmd" onclick="href = this.querySelector('a').getAttribute('href');
@@ -258,9 +246,6 @@ Categories
 <td>
 <span class="listing-date">Jun 25, 2025</span>
 </td>
-<td>
-<span class="listing-categories">engineering culture, reflection, communication, programmer habits, career growth</span>
-</td>
 </tr>
 <tr data-index="3" data-categories="ZGF0YSUyMGFyY2hpdmluZyUyQ3Rvb2xzJTJDZGF0YSUyMGFjY2VzcyUyQ2RhdGElMjByZXNjdWU=" data-listing-date-sort="1752033600000" data-listing-file-modified-sort="1752862157827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="📌 The Data Rescue Project" data-listing-filename-sort="data_rescue.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
@@ -269,9 +254,6 @@ Categories
 </td>
 <td>
 <span class="listing-date">Jul 9, 2025</span>
-</td>
-<td>
-<span class="listing-categories">data archiving, tools, data access, data rescue</span>
 </td>
 </tr>
 </tbody>

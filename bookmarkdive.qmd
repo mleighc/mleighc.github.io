@@ -1,14 +1,17 @@
 ---
 title: ""
+format: html
+page-layout: full
 listing:
    contents: blogs
-   sort-ui: ['date','title']
+   sort-ui: ['date']
    type: table
    field-display-names:
-     title: Blog
+     title: "Entry"
+     date: "Date"
    categories: unnumbered
    table-hover: true
-   fields: ['title', 'date', 'categories']
+   fields: ['title', 'date']
 ---
 
 # <img src="assets/images/bookmarkdive-logo-black-icon.png" width="45"> The BookmarkDive blog
