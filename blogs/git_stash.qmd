@@ -1,0 +1,30 @@
+---
+title: "📌 Git Stash for Newbies"
+date: "July 16, 2025"
+description: "A plain-language explainer that helped me finally understand git stash, and why it matters for workflow sanity."
+categories:
+   - git
+   - version control
+   - workflow
+   - tools
+---
+
+There’s a reason I keep coming back to [Git Stash for Newbies](https://thetidytrekker.com/post/git-stash-for-newbies/git-stash-for-newbies), a beginner-friendly explainer written by [Meghan Harris](https://www.linkedin.com/in/meghan-harris/).
+
+It’s short, approachable, and helped me finally wrap my head around a feature of Git that I’d heard about but never really integrated into my workflow: `git stash`.
+
+The post walks through what stashing is, when you might use it, and how to avoid accidentally losing your work in the process. It’s a practical reminder that Git isn’t just for version control in the abstract, it’s also for workflow sanity when you’re context-switching, debugging, or just not ready to commit.
+
+🔗 [Read Git Stash for Newbies](https://thetidytrekker.com/post/git-stash-for-newbies/git-stash-for-newbies)
+
+## Reflections
+
+This was one of those moments where a simple tool finally clicked because someone explained it in plain language. For someone like me, who often juggles work-in-progress code, quick bugfixes, and experiments, `git stash` has become a surprisingly helpful part of my toolkit.
+
+What struck me most is how this concept ties back to broader ideas in data and code management, how we hold space for unfinished work, how we reduce the cognitive burden of switching tasks, and how good tools support thoughtful pacing.
+
+---
+
+*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_git-stash-for-newbies-the-tidy-trekker-activity-7350956488384761859-LyYi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7350956487545868291?collapsed=1" height="697" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
