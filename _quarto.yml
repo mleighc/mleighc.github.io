@@ -2,15 +2,16 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Miranda Cooper"
+  title: ""
   site-url: https://mleighc.github.io/
   repo-url: https://github.com/mleighc/mleighc.github.io
-  favicon: assets/images/favicon_io/favicon.ico
+  favicon: assets/images/m-logo-512x512.png
   google-analytics: "G-PYTTQT5BMZ"
   back-to-top-navigation: true
   bread-crumbs: true
   search: false
   navbar:
+    logo: assets/images/m-logo-512x512.png
     right:
       - href: bookmarkdive.qmd
         text: BookmarkDive blog
