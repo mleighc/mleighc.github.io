@@ -30,3 +30,5 @@ As someone who works in research data and builds systems for traceability and tr
 Even outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn't need suppression or instability to remind us why long-term thinking about data matters.
 
 *This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_resources-activity-7348739134313713664-yV4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7348739131415404545?collapsed=1" height="450" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
