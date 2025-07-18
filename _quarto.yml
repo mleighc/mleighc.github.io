@@ -13,7 +13,7 @@ website:
   navbar:
     right:
       - href: bookmarkdive.qmd
-        text: The BookmarkDive blog
+        text: BookmarkDive blog
       - href: projects.qmd
         text: Projects
       - icon: github

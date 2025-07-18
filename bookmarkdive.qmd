@@ -1,5 +1,5 @@
 ---
-title: "The BookmarkDive Blog"
+title: ""
 listing:
    contents: blogs
    sort-ui: ['date','title']
@@ -10,6 +10,8 @@ listing:
    table-hover: true
    fields: ['title', 'date', 'categories']
 ---
+
+# <img src="assets/images/bookmarkdive-logo-black-icon.png" width="45"> The BookmarkDive blog
 
 A curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.
 
