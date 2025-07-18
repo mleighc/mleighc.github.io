@@ -12,6 +12,8 @@ website:
   search: false
   navbar:
     right:
+      - href: bookmarkdive.qmd
+        text: The BookmarkDive blog
       - href: projects.qmd
         text: Projects
       - icon: github

@@ -1,59 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mleighc.github.io/index.html</loc>
-    <lastmod>2025-05-14T01:59:39.032Z</lastmod>
+    <loc>https://mleighc.github.io/bookmarkdive.html</loc>
+    <lastmod>2025-07-18T13:24:03.176Z</lastmod>
   </url>
   <url>
-    <loc>https://mleighc.github.io/projects/madc_resource_library.html</loc>
-    <lastmod>2024-12-17T19:21:48.457Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/dmsc_madc_site.html</loc>
-    <lastmod>2024-12-17T20:22:04.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/collab_filtering_survey.html</loc>
-    <lastmod>2024-12-17T18:54:16.222Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/smpl_sheets.html</loc>
-    <lastmod>2024-12-17T19:18:34.197Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/womens_web.html</loc>
-    <lastmod>2024-12-17T19:34:04.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/mastery_capstone_data_analysis.html</loc>
-    <lastmod>2025-01-28T21:19:40.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/chicken_soup.html</loc>
-    <lastmod>2024-12-17T18:40:28.734Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/madrc_package.html</loc>
-    <lastmod>2024-12-17T20:22:06.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/horror-ific_movie_rec_system.html</loc>
-    <lastmod>2024-12-17T19:18:35.425Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/fluffyfeelingco.html</loc>
-    <lastmod>2024-12-17T19:07:36.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mleighc.github.io/projects/madc_study_suggester.html</loc>
-    <lastmod>2024-12-17T19:42:31.328Z</lastmod>
+    <loc>https://mleighc.github.io/projects.html</loc>
+    <lastmod>2024-12-17T19:50:47.932Z</lastmod>
   </url>
   <url>
     <loc>https://mleighc.github.io/projects/PEARL.html</loc>
     <lastmod>2024-12-17T20:41:25.942Z</lastmod>
   </url>
   <url>
-    <loc>https://mleighc.github.io/projects.html</loc>
-    <lastmod>2024-12-17T19:50:47.932Z</lastmod>
+    <loc>https://mleighc.github.io/projects/madc_study_suggester.html</loc>
+    <lastmod>2024-12-17T19:42:31.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/fluffyfeelingco.html</loc>
+    <lastmod>2024-12-17T19:07:36.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/horror-ific_movie_rec_system.html</loc>
+    <lastmod>2024-12-17T19:18:35.425Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/madrc_package.html</loc>
+    <lastmod>2024-12-17T20:22:06.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/chicken_soup.html</loc>
+    <lastmod>2024-12-17T18:40:28.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/blogs/data_rescue.html</loc>
+    <lastmod>2025-07-18T13:24:00.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/mastery_capstone_data_analysis.html</loc>
+    <lastmod>2025-01-28T21:19:40.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/womens_web.html</loc>
+    <lastmod>2024-12-17T19:34:04.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/smpl_sheets.html</loc>
+    <lastmod>2024-12-17T19:18:34.197Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/collab_filtering_survey.html</loc>
+    <lastmod>2024-12-17T18:54:16.222Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/dmsc_madc_site.html</loc>
+    <lastmod>2024-12-17T20:22:04.592Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/projects/madc_resource_library.html</loc>
+    <lastmod>2024-12-17T19:21:48.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mleighc.github.io/index.html</loc>
+    <lastmod>2025-05-14T01:59:39.032Z</lastmod>
   </url>
 </urlset>

@@ -1,199 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Miranda!",
+    "objectID": "bookmarkdive.html",
+    "href": "bookmarkdive.html",
+    "title": "The BookmarkDive Blog",
     "section": "",
-    "text": "I am a data analyst and systems builder who got into tech after several years in nonprofit fundraising operations, where I spent a lot of time managing messy spreadsheets and trying to make broken processes work. Eventually, I realized what I really wanted was to fix the system itself, not just clean up after it.\nI made the pivot into data analytics a few years ago, and since then, I’ve been focused on building tools that make work smoother, clearer, and less redundant. These days, I work at the University of Michigan’s Alzheimer’s Disease Center, where I manage the data infrastructure behind our research systems, connecting tools like REDCap, SharePoint, R, and Power Automate to help data move cleanly between teams and projects.\nWhat sets me apart isn’t just technical fluency, it’s the ability to see both the big picture and the system underneath.\nI diagram, debug, and document.\nI build with the end user in mind. And I never stop asking: How could this be easier, clearer, or more scalable?\nOn the side, I run a small business called SMPL Sheets that transforms public directories into clean, CRM-ready datasets, and a print-on-demand project called Fluffy Feeling Co., because automation can be fun, too.\n\n\n Back to top"
+    "text": "A curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Blog\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBlog\n\n\nDate\n\n\nCategories\n\n\n\n\n\n\n📌 Bookmark Dive: The Data Rescue Project\n\n\nJul 18, 2025\n\n\ndata archiving, tools, data access, data rescue\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "projects/madc_resource_library.html",
-    "href": "projects/madc_resource_library.html",
-    "title": "Michigan Alzheimer’s Disease Center Resource Library",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I led the development of an online resource site for the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. This site is designed to provide a growing collection of technical resources to help onboard new and current staff, improving their skills for day-to-day operations. I utilized Quarto’s book infrastructure to compile the resources and successfully deployed the site using Quarto Pub, enabling seamless updates after each commit."
-  },
-  {
-    "objectID": "projects/madc_resource_library.html#project-overview",
-    "href": "projects/madc_resource_library.html#project-overview",
-    "title": "Michigan Alzheimer’s Disease Center Resource Library",
-    "section": "",
-    "text": "I led the development of an online resource site for the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. This site is designed to provide a growing collection of technical resources to help onboard new and current staff, improving their skills for day-to-day operations. I utilized Quarto’s book infrastructure to compile the resources and successfully deployed the site using Quarto Pub, enabling seamless updates after each commit."
-  },
-  {
-    "objectID": "projects/madc_resource_library.html#key-accomplishments",
-    "href": "projects/madc_resource_library.html#key-accomplishments",
-    "title": "Michigan Alzheimer’s Disease Center Resource Library",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nDeveloped and launched an online technical resources site for MADC’s Data Core staff.\nUtilized Quarto’s book infrastructure to structure and organize content effectively.\nAutomated site deployment to Quarto Pub after each commit by writing and configuring a YAML file.\nEnsured the site remains up-to-date and easily accessible to staff for continuous learning and skill-building.\n\n View the deployed site\n View the source code"
-  },
-  {
-    "objectID": "projects/dmsc_madc_site.html",
-    "href": "projects/dmsc_madc_site.html",
-    "title": "Data Management and Statistical Core Sharing Hub",
-    "section": "",
-    "text": "Currently in development, the Data Management and Statistical Core Sharing Hub is a public-facing website designed to showcase resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center (MADC). The goal is to provide accessible tools, guidelines, and documentation to support data management and statistical practices in Alzheimer’s disease research. Built using Quarto, this site integrates Markdown for content creation with the powerful features of Quarto for publishing, making it a dynamic, reproducible, and user-friendly resource for the research community.\nThe site is hosted on GitHub Pages, which simplifies deployment and allows for continuous updates as the Data Core’s resources evolve."
-  },
-  {
-    "objectID": "projects/dmsc_madc_site.html#project-overview",
-    "href": "projects/dmsc_madc_site.html#project-overview",
-    "title": "Data Management and Statistical Core Sharing Hub",
-    "section": "",
-    "text": "Currently in development, the Data Management and Statistical Core Sharing Hub is a public-facing website designed to showcase resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center (MADC). The goal is to provide accessible tools, guidelines, and documentation to support data management and statistical practices in Alzheimer’s disease research. Built using Quarto, this site integrates Markdown for content creation with the powerful features of Quarto for publishing, making it a dynamic, reproducible, and user-friendly resource for the research community.\nThe site is hosted on GitHub Pages, which simplifies deployment and allows for continuous updates as the Data Core’s resources evolve."
-  },
-  {
-    "objectID": "projects/dmsc_madc_site.html#key-accomplishments",
-    "href": "projects/dmsc_madc_site.html#key-accomplishments",
-    "title": "Data Management and Statistical Core Sharing Hub",
-    "section": "Key Accomplishments:",
-    "text": "Key Accomplishments:\n\nQuarto Setup & Deployment:\n\nChose Quarto as the platform for building and managing the website, allowing for easy integration with GitHub Pages for hosting.\nConfigured the site to deploy directly from the docs folder on the main branch, ensuring that all future updates are automatically reflected online.\n\nContributor Workflow & Documentation:\n\nDeveloped a streamlined process for contributors to fork the repository, clone their copy locally, and submit pull requests.\nDetailed instructions were created for setting up VS Code with the necessary Quarto extensions, editing content locally, previewing the website, and pushing changes back to GitHub.\n\nWeb Content Creation:\n\nCreated and customized the main website using Quarto’s flexibility to write dynamic content in Markdown and Quarto’s .qmd files.\nIncluded sections such as setup guides, tutorials, and links to external resources, all designed to make the content easily navigable for both technical and non-technical users.\n\nVersion Control & Maintenance:\n\nImplemented version control with Git, providing a clear workflow for contributing to the site and tracking changes.\nUsed GitHub’s built-in tools to ensure the site stays updated and that contributors can easily collaborate on ongoing improvements.\n\nPublic Availability & Reproducibility:\n\nEnsured the site is publicly accessible, providing transparency and reproducibility for tools and resources related to data management in Alzheimer’s research.\nThe setup allows for continuous updates and scalability, with Quarto’s integration ensuring that future contributions to the website can be managed efficiently.\n\nFuture Expansion:\n\nEstablished a foundation for further growth by setting up the website with the flexibility to add new content, resources, and tools as they are developed by the Data Core team.\n\n\n View the deployed site\n View the source code"
-  },
-  {
-    "objectID": "projects/collab_filtering_survey.html",
-    "href": "projects/collab_filtering_survey.html",
-    "title": "Collaborative Filtering Methodologies",
-    "section": "",
-    "text": "Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.\nThe study also leverages Python libraries such as Surprise and Recmetrics to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the “gray sheep problem” (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications."
-  },
-  {
-    "objectID": "projects/collab_filtering_survey.html#project-overview",
-    "href": "projects/collab_filtering_survey.html#project-overview",
-    "title": "Collaborative Filtering Methodologies",
-    "section": "",
-    "text": "Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.\nThe study also leverages Python libraries such as Surprise and Recmetrics to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the “gray sheep problem” (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications."
-  },
-  {
-    "objectID": "projects/collab_filtering_survey.html#key-accomplishments",
-    "href": "projects/collab_filtering_survey.html#key-accomplishments",
-    "title": "Collaborative Filtering Methodologies",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nDataset Utilization:\n\nProcessed the Book-Crossing dataset containing over 1.1 million user ratings for 271,379 books.\n\nAddressed data sparsity by removing implicit ratings (62% of total), resulting in a more interpretable left-skewed distribution of ratings with a mean score of 7.6.\n\nAlgorithm Evaluation:\n\nExperimented with six collaborative filtering algorithms using the Surprise library: Baseline Only, K-Nearest Neighbors (KNN), and Matrix Factorization models.\n\nAdapted to computational constraints by sampling datasets and iteratively evaluating performance on progressively larger training sets.\n\nTool Adoption and Documentation:\n\nExplored Surprise, a Python library for implementing prediction algorithms and evaluation metrics, and Recmetrics, a toolkit for recommender system diagnostics.\n\nHighlighted key functionalities of both tools, including prediction accuracy and bias diagnostics.\n\nInsights on Collaborative Filtering:\n\nDiscussed challenges such as data sparsity, lack of personalization for niche users, and the potential for biased or manipulated ratings.\n\nHighlighted trade-offs between algorithm simplicity and personalization precision.\n\nReal-World Applications:\n\nAnalyzed book recommendation platforms (Goodreads, Likewise, and WhatShouldIReadNext?) to contextualize findings.\n\nConnected experimental results to practical use cases in improving user engagement through personalized recommendations.\n\nImpactful Visualizations:\n\nGenerated insightful visualizations of the dataset, including the distribution of ratings before and after preprocessing, illustrating the impact of removing implicit data.\n\nEducational Focus:\n\nBridged theory and practice by examining the documentation of recommender system libraries and applying them to a large-scale real-world dataset.\n\nDeveloped an accessible survey of collaborative filtering techniques for practitioners and researchers.\n\n\n View the final report"
-  },
-  {
-    "objectID": "projects/smpl_sheets.html",
-    "href": "projects/smpl_sheets.html",
-    "title": "Web Scraping for SMPL Sheets, LLC",
-    "section": "",
-    "text": "SMPL SHEETS was born out of necessity. While exploring methods for relationship management, we found that although public data—like Chamber of Commerce directories—was highly accessible visually, it wasn’t formatted for efficient use. Managing large uploads of information to a CRM required time-consuming manual effort.\nWith backgrounds in entrepreneurship and data analysis, we approached the problem with a solutions-oriented mindset. The more we worked through this challenge, the more we saw an opportunity to scale our process and help others. We realized that many businesses could benefit from pre-cleaned, formatted, and CRM-friendly data, saving them countless hours and enabling them to focus on what matters most: building meaningful connections.\nWe’re starting with Chamber of Commerce data because it’s relevant to our own relationship management needs, but we’re just getting started. In the future, we envision expanding into other categories of public data—across various sectors—making this valuable information accessible, usable, and impactful.\nAt SMPL SHEETS, we’re turning complex data into simple solutions, empowering businesses to work smarter, not harder."
-  },
-  {
-    "objectID": "projects/smpl_sheets.html#project-overview",
-    "href": "projects/smpl_sheets.html#project-overview",
-    "title": "Web Scraping for SMPL Sheets, LLC",
-    "section": "",
-    "text": "SMPL SHEETS was born out of necessity. While exploring methods for relationship management, we found that although public data—like Chamber of Commerce directories—was highly accessible visually, it wasn’t formatted for efficient use. Managing large uploads of information to a CRM required time-consuming manual effort.\nWith backgrounds in entrepreneurship and data analysis, we approached the problem with a solutions-oriented mindset. The more we worked through this challenge, the more we saw an opportunity to scale our process and help others. We realized that many businesses could benefit from pre-cleaned, formatted, and CRM-friendly data, saving them countless hours and enabling them to focus on what matters most: building meaningful connections.\nWe’re starting with Chamber of Commerce data because it’s relevant to our own relationship management needs, but we’re just getting started. In the future, we envision expanding into other categories of public data—across various sectors—making this valuable information accessible, usable, and impactful.\nAt SMPL SHEETS, we’re turning complex data into simple solutions, empowering businesses to work smarter, not harder."
-  },
-  {
-    "objectID": "projects/smpl_sheets.html#key-accomplishments",
-    "href": "projects/smpl_sheets.html#key-accomplishments",
-    "title": "Web Scraping for SMPL Sheets, LLC",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nDeveloped a solution to clean and reformat publicly available data, starting with Chamber of Commerce directories.\nAutomated the process of data scraping using Python and BeautifulSoup to extract public data efficiently.\nStreamlined the process of transforming raw data into CRM-friendly formats, saving businesses time on manual data entry.\nBuilt a scalable business model that allows for expansion into other types of public data, offering CRM-friendly solutions across various sectors.\nEstablished a foundation for future growth, with a focus on delivering usable, actionable data that enables better relationship management.\n\n View the deployed site"
-  },
-  {
-    "objectID": "projects/womens_web.html",
-    "href": "projects/womens_web.html",
-    "title": "Women’s Web Design Project",
-    "section": "",
-    "text": "This project was part of an elective course in my Master’s in Data Analytics at the University of Michigan School of Information. The goal was to improve the structure and design of a basic HTML web page by incorporating JavaScript and CSS. The main focus was on creating an accessible and responsive web page.\nStarting with a pre-written content structure in HTML, I applied CSS for design and layout enhancements and used JavaScript to add interactivity and functionality. The project emphasized best practices for web accessibility to ensure the website was usable by people with various disabilities."
-  },
-  {
-    "objectID": "projects/womens_web.html#project-overview",
-    "href": "projects/womens_web.html#project-overview",
-    "title": "Women’s Web Design Project",
-    "section": "",
-    "text": "This project was part of an elective course in my Master’s in Data Analytics at the University of Michigan School of Information. The goal was to improve the structure and design of a basic HTML web page by incorporating JavaScript and CSS. The main focus was on creating an accessible and responsive web page.\nStarting with a pre-written content structure in HTML, I applied CSS for design and layout enhancements and used JavaScript to add interactivity and functionality. The project emphasized best practices for web accessibility to ensure the website was usable by people with various disabilities."
-  },
-  {
-    "objectID": "projects/womens_web.html#key-accomplishments",
-    "href": "projects/womens_web.html#key-accomplishments",
-    "title": "Women’s Web Design Project",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nModified basic HTML to improve structure and accessibility, ensuring compatibility with assistive technologies.\nApplied CSS to enhance the visual design, making the web page aesthetically pleasing and user-friendly.\nIntegrated JavaScript to introduce interactivity and improve user engagement.\nImplemented responsive design techniques to ensure the website functions well across different devices and screen sizes.\nFocused on accessibility best practices, ensuring compliance with WCAG (Web Content Accessibility Guidelines).\n\n View the deployed site\n View the source code"
-  },
-  {
-    "objectID": "projects/mastery_capstone_data_analysis.html",
-    "href": "projects/mastery_capstone_data_analysis.html",
-    "title": "Data Analysis Capstone: Is Education the Key to Success?",
-    "section": "",
-    "text": "Project Overview\nCompleted in the final capstone course for the Master of Science in Information, this project explores the relationship between education, demographics, and earnings, focusing on addressing questions about the stagnation of wages in the U.S. despite rising productivity. Initially aiming to investigate productivity growth, the project pivoted to examining the impact of education and demographics on earnings after realizing the complexity of the economics involved. The team built a public-facing dashboard to convey findings in an accessible and understandable way for the general public. The dashboard focuses on comparing wages based on education, gender, and race, while also exploring the potential impact of advanced degrees on underemployment.\n\n\nKey Accomplishments\n\nData Collection and Preprocessing:\n\nCollected data from the U.S. Bureau of Labor Statistics’ Current Population Survey (CPS), which contains responses from over 270,000 individuals annually.\nFiltered the data to focus on full-time workers aged 18 and older, adjusting earnings for inflation to 2022 dollars for consistency across years.\n\nDashboard Development:\n\nDeveloped an interactive dashboard using Streamlit, allowing users to explore how education and demographic factors affect wages over time.\nCreated visualizations in Altair to represent wage disparities across gender, race, and education levels.\n\nFocused Analysis:\n\nConducted an analysis of the gender wage gap and its relationship to educational attainment, highlighting persistent disparities in earnings between men and women, particularly for women of color.\nExamined the earning potential of different education levels, demonstrating how higher education can influence wage growth.\n\nEducational Impact:\n\nProvided insights on how educational attainment can reduce the chances of underemployment, and how union membership interacts with education to affect earnings.\n\nTarget Audience and Accessibility:\n\nDesigned the dashboard to cater to young professionals and students, particularly those considering further education, providing accessible data and visualizations to inform career and educational decisions.\n\n\n View the deployed site\n View the source code\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects/chicken_soup.html",
-    "href": "projects/chicken_soup.html",
-    "title": "Chicken Soup Data Visualization",
-    "section": "",
-    "text": "I created a series of interactive visualizations using Python and Altair, hosted on a Streamlit page. The goal was to allow viewers to explore various chicken soup recipes, focusing on nutrition, flu-fighting nutrients, and the impact of ingredients like dairy and allergens. Throughout the project, I addressed data limitations and refined the learning objectives, incorporating additional datasets from Open Food Facts to enhance the visualizations."
-  },
-  {
-    "objectID": "projects/chicken_soup.html#project-overview",
-    "href": "projects/chicken_soup.html#project-overview",
-    "title": "Chicken Soup Data Visualization",
-    "section": "",
-    "text": "I created a series of interactive visualizations using Python and Altair, hosted on a Streamlit page. The goal was to allow viewers to explore various chicken soup recipes, focusing on nutrition, flu-fighting nutrients, and the impact of ingredients like dairy and allergens. Throughout the project, I addressed data limitations and refined the learning objectives, incorporating additional datasets from Open Food Facts to enhance the visualizations."
-  },
-  {
-    "objectID": "projects/chicken_soup.html#key-accomplishments",
-    "href": "projects/chicken_soup.html#key-accomplishments",
-    "title": "Chicken Soup Data Visualization",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nCreated interactive visualizations using Python, Altair, and Streamlit, enabling viewers to explore the nutritional content and ingredients of chicken soup recipes.\nDeveloped a distribution chart of nutrient facts, allowing users to adjust intervals and compare fat and calorie content across recipes.\nDesigned a chart to visualize protein and calcium levels relative to dairy and allergen content, with interactive filtering options for dietary preferences.\nCreated a visualization summarizing flu-fighting nutrients, allowing viewers to interact with detailed tooltips and compare recipes based on health scores.\nBuilt a final chart enabling users to filter recipes by serving size, fat/calorie content, popularity, and dietary restrictions, facilitating informed recipe selection.\nAdapted to data limitations by revising learning objectives and incorporating additional datasets for a more comprehensive analysis.\n\n View the deployed site\n View the source code"
-  },
-  {
-    "objectID": "projects/madrc_package.html",
-    "href": "projects/madrc_package.html",
-    "title": "madRc - R Package",
-    "section": "",
-    "text": "Project Overview\nThis project involves the development of an R package in collaboration with other members of the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center. The goal is to compile the various R functions that have been written for day-to-day analysis and data retrieval tasks into a cohesive and efficient package. The package aims to streamline repetitive tasks, making it easier for team members to conduct their work without having to re-write commonly used functions. Once complete, the package will ideally be deployed on GitHub for easy access, allowing team members and the broader research community to download and use it. Currently, the project is still a work in progress, with ongoing development, testing, and refinement of the included functions.\n\n\nKey Accomplishments\n\nR Package Development:\n\nCollaborating with the Data Core team at MADC to compile various R functions used for day-to-day analysis and data retrieval.\nOrganizing functions into a cohesive package to streamline repetitive tasks and improve efficiency in data analysis workflows.\n\nPackage Deployment Plans:\n\nPlanning to deploy the package on GitHub for easy access and distribution, allowing team members and the wider data analysis community to download and use the package.\n\nCurrent Status:\n\nThe package is still in development, with ongoing efforts to test and refine the functions for usability and performance.\n\nCollaboration:\n\nWorking closely with other team members to ensure the package meets the needs of all users and integrates smoothly into existing workflows.\n\n\nDue to the current early stage of this project, I do not yet have a source code link to share. Check back soon!\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects/horror-ific_movie_rec_system.html",
-    "href": "projects/horror-ific_movie_rec_system.html",
-    "title": "Horror-ific Movie Recommender System",
-    "section": "",
-    "text": "This project, completed as a final capstone for an Information Retrieval course at the University of Michigan School of Information, aimed to build a specialized recommender system tailored to enthusiasts of the Horror and Thriller film genres, filling a niche gap in the vast world of streaming platforms. While general streaming services like Netflix, Hulu, and Amazon Prime offer recommendations across all genres, these platforms do not focus on specific genres, such as Horror or Thriller, which have dedicated fan bases. By narrowing the scope of recommendations to only these genres and their sub-genres, this system seeks to provide personalized movie suggestions that align with the tastes of Horror/Thriller fans.\nThe data used for the recommender system comes from the MovieLens “ml-25m” dataset, which contains 25,000,095 ratings across 62,423 movies from 162,541 unique users. For this project, a subset of 7,665,481 ratings from 162,117 users for 11,958 unique Horror and Thriller films was used. The dataset also includes some hybrid sub-genres, such as Comedic Horror and Dramatic Thriller."
-  },
-  {
-    "objectID": "projects/horror-ific_movie_rec_system.html#project-overview",
-    "href": "projects/horror-ific_movie_rec_system.html#project-overview",
-    "title": "Horror-ific Movie Recommender System",
-    "section": "",
-    "text": "This project, completed as a final capstone for an Information Retrieval course at the University of Michigan School of Information, aimed to build a specialized recommender system tailored to enthusiasts of the Horror and Thriller film genres, filling a niche gap in the vast world of streaming platforms. While general streaming services like Netflix, Hulu, and Amazon Prime offer recommendations across all genres, these platforms do not focus on specific genres, such as Horror or Thriller, which have dedicated fan bases. By narrowing the scope of recommendations to only these genres and their sub-genres, this system seeks to provide personalized movie suggestions that align with the tastes of Horror/Thriller fans.\nThe data used for the recommender system comes from the MovieLens “ml-25m” dataset, which contains 25,000,095 ratings across 62,423 movies from 162,541 unique users. For this project, a subset of 7,665,481 ratings from 162,117 users for 11,958 unique Horror and Thriller films was used. The dataset also includes some hybrid sub-genres, such as Comedic Horror and Dramatic Thriller."
-  },
-  {
-    "objectID": "projects/horror-ific_movie_rec_system.html#key-accomplishments",
-    "href": "projects/horror-ific_movie_rec_system.html#key-accomplishments",
-    "title": "Horror-ific Movie Recommender System",
-    "section": "Key Accomplishments",
-    "text": "Key Accomplishments\n\nDeveloped a recommender system focused exclusively on Horror and Thriller films, differentiating it from general movie recommendation platforms.\nLeveraged the “ml-25m” dataset, a widely recognized dataset for recommender system experiments.\nSuccessfully experimented with multiple collaborative filtering methods, including the SVD algorithm and Keras-based neural networks.\nAchieved satisfactory RMSE results for initial experimentation, demonstrating the viability of collaborative filtering for niche movie recommendations.\nIdentified areas for future improvement, including fine-tuning the model to enhance personalization and exploring hybrid recommendation systems.\n\n View the final report"
-  },
-  {
-    "objectID": "projects/fluffyfeelingco.html",
-    "href": "projects/fluffyfeelingco.html",
-    "title": "Fluffy Feeling Co. Etsy Shop",
-    "section": "",
-    "text": "Fluffy Feeling Co. is an online business focused on creating and selling animal-themed gifts with a humorous, quirky, and lighthearted touch. The brand aims to provide adorable, relatable, and fun items that resonate with animal lovers. Products are designed to bring joy and smiles to customers, incorporating playful designs like dog-themed bandanas and print-on-demand gifts. Currently, Fluffy Feeling Co. operates on platforms like Etsy, leveraging print-on-demand services via Printify for efficient production and fulfillment."
-  },
-  {
-    "objectID": "projects/fluffyfeelingco.html#project-overview",
-    "href": "projects/fluffyfeelingco.html#project-overview",
-    "title": "Fluffy Feeling Co. Etsy Shop",
-    "section": "",
-    "text": "Fluffy Feeling Co. is an online business focused on creating and selling animal-themed gifts with a humorous, quirky, and lighthearted touch. The brand aims to provide adorable, relatable, and fun items that resonate with animal lovers. Products are designed to bring joy and smiles to customers, incorporating playful designs like dog-themed bandanas and print-on-demand gifts. Currently, Fluffy Feeling Co. operates on platforms like Etsy, leveraging print-on-demand services via Printify for efficient production and fulfillment."
-  },
-  {
-    "objectID": "projects/fluffyfeelingco.html#key-accomplishments",
-    "href": "projects/fluffyfeelingco.html#key-accomplishments",
-    "title": "Fluffy Feeling Co. Etsy Shop",
-    "section": "Key Accomplishments:",
-    "text": "Key Accomplishments:\n\nBrand Creation & Positioning:\n\nDeveloped a unique brand identity that resonates with animal lovers and those looking for humorous and quirky gift items.\nDefined core brand attributes: Happy, Funny, Quirky, Lighthearted, Adorable, and Relatable, to consistently shape all product offerings and marketing efforts.\n\nProduct Development & Design:\n\nCreated a wide range of products for various holidays and themes, including custom-designed items like dog bandanas, apparel, and home decor. These designs incorporate seasonal motifs, playful phrases, and unique styles that appeal to different customer segments.\n\nEtsy Shop Setup & Growth:\n\nLaunched Fluffy Feeling Co. on Etsy, building a platform for product sales, customer engagement, and brand development.\nSuccessfully integrated a variety of products, leveraging print-on-demand services to manage production and inventory efficiently.\n\nSales & Marketing Strategy:\n\nCrafted seasonal and holiday-focused product campaigns, aligning product releases with key holidays like Valentine’s Day, Christmas, and Super Bowl Sunday, to maximize sales potential and customer interest.\nDeveloped a seasonal product timeline, detailing key events and strategies for product brainstorming, finalization, and marketing to ensure year-round sales momentum.\n\nCustomer Engagement & Feedback:\n\nFocused on building a community around Fluffy Feeling Co. through social media and customer engagement, with the goal of growing the brand’s loyal customer base and understanding their preferences for future product offerings."
-  },
-  {
-    "objectID": "projects/madc_study_suggester.html",
-    "href": "projects/madc_study_suggester.html",
-    "title": "Michigan Alzheimer’s Disease Center Study Suggester",
-    "section": "",
-    "text": "Project Overview\nThe MADC Study Suggester is an R script developed for the Michigan Alzheimer’s Disease Center (MADC) to help match participants with appropriate studies based on their specific criteria. The script gathers participant and study data, filters the available studies, and generates a list of recommended studies for each participant. The aim of this tool is to streamline the process of study selection, ensuring that participants are matched with studies that are relevant to their health status and research goals. The output of the script is a user-friendly, formatted PDF report that displays the study recommendations in a clear table. The script uses gt for creating well-structured tables, webshot2 for capturing snapshots, and pagedown for converting the results into a high-quality, printable PDF format.\n\n\nKey Accomplishments\n\nR Script Development:\n\nDeveloped an R script that gathers and filters participant and study data to generate study recommendations tailored to each participant’s specific criteria.\n\nOutput Generation:\n\nUsed gt to create structured, user-friendly tables and pagedown to convert the tables into high-quality, printable PDF reports.\n\nTools and Libraries:\n\nIntegrated webshot2 for snapshot generation and pagedown for rendering the final output as a PDF, enhancing the accessibility and presentation of the data.\n\nStreamlining Study Selection:\n\nThe tool improves the process of identifying appropriate studies for participants, saving time for researchers and ensuring better matching between participants and studies.\n\nCurrent Status:\n\nThe script is operational, providing formatted PDF outputs that are ready for use by MADC team members.\n\n\nDue to HIPAA regulations, I am not able to share the source code or sample output files.\n\n\n\n\n Back to top"
+    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n     \n  \n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\ndata visualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\npandas\n\n\ngit\n\n\n\n\nApr 7, 2023\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\ninformation retrieval\n\n\ndata mining\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nData Analysis Capstone: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\ndata visualization\n\n\npython\n\n\naltair\n\n\ngithub\n\n\nteam collaboration\n\n\nproject management\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\ndata visualization\n\n\ndocumentation\n\n\nyaml\n\n\ngithub pages\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. Etsy Shop\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\nApr 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nquarto pub\n\n\nr\n\n\nmarkdown\n\n\ngitlab\n\n\ncontinuous integration\n\n\nyaml\n\n\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\ntidyverse\n\n\ngt\n\n\nwebshot\n\n\npagedown\n\n\napi\n\n\n\n\nMay 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\ndata management\n\n\nsystem design & development\n\n\nmicrosoft sharepoint\n\n\nmicrosoft power automate\n\n\nprocess diagramming\n\n\nteam collaboration\n\n\nhealthcare & research\n\n\nknowledge management\n\n\nworkflow automation\n\n\nproject management\n\n\ndata migration\n\n\n\n\nMar 28, 2024\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\nentrepreneurship\n\n\nmarketing\n\n\nhtml5\n\n\naccounting\n\n\nbusiness development\n\n\n\n\nNov 17, 2024\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\nhtml5\n\n\ncss\n\n\njavascript\n\n\nweb accessibility\n\n\nweb design\n\n\ngithub pages\n\n\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\nmadRc - R Package\n\n\n\nr\n\n\nr package\n\n\ntechnical documentation\n\n\ntidyverse\n\n\napi\n\n\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "projects/PEARL.html",
@@ -217,10 +35,213 @@
     "text": "Key Achievements\n\nNetwork of Interconnected Lists: Created a scalable framework that allows participant and visit data to flow seamlessly across studies, supporting co-enrollment and improving participant tracking across multiple research studies.\nModular Workflows for Study Customization: Developed customizable workflows for the UMMAP study and other studies, allowing each to adapt the system to their unique needs while maintaining consistency in participant management.\nPower Automate Integration: Integrated Power Automate to connect lists across studies, streamlining data flow and automating notifications to improve task management and participant engagement tracking.\nParticipant Engagement Metrics: Enhanced participant engagement tracking by integrating more robust data collection and reporting features, enabling better insights into participant behavior and interaction with research activities.\nCompliance with HIPAA: Ensured that all participant data is handled securely and in compliance with HIPAA regulations, prioritizing data privacy and security throughout the system’s development.\n\nDue to HIPAA regulations, I am not able to share examples of the PEARL system in action."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/madc_study_suggester.html",
+    "href": "projects/madc_study_suggester.html",
+    "title": "Michigan Alzheimer’s Disease Center Study Suggester",
     "section": "",
-    "text": "This page showcases a diverse collection of projects spanning my professional work at the Michigan Alzheimer’s Disease Center (MADC), academic projects from my Master’s in Information (MSI) degree, and entrepreneurial ventures during my personal time. Each project reflects my skills in data analysis, programming, and strategic problem-solving, as well as my passion for creativity and innovation. Explore how I’ve applied my expertise across different contexts to make an impact, from advancing research in healthcare to building my own brands.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n     \n  \n\n\n\n\n\n\n\nChicken Soup Data Visualization\n\n\n\ndata visualization\n\n\nstreamlit\n\n\npython\n\n\naltair\n\n\npandas\n\n\ngit\n\n\n\n\nApr 7, 2023\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Filtering Methodologies\n\n\n\ncollaborative filtering\n\n\npython\n\n\nsurprise\n\n\nrecmetrics\n\n\npandas\n\n\ninformation retrieval\n\n\ndata mining\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nData Analysis Capstone: Is Education the Key to Success?\n\n\n\nstreamlit\n\n\ndata visualization\n\n\npython\n\n\naltair\n\n\ngithub\n\n\nteam collaboration\n\n\nproject management\n\n\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\nData Management and Statistical Core Sharing Hub\n\n\n\nquarto\n\n\nmarkdown\n\n\ncss\n\n\ndata visualization\n\n\ndocumentation\n\n\nyaml\n\n\ngithub pages\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\nFluffy Feeling Co. Etsy Shop\n\n\n\netsy\n\n\nentrepreneurship\n\n\nproduct design\n\n\nprint on demand\n\n\ncanva\n\n\naccounting\n\n\n\n\nApr 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nHorror-ific Movie Recommender System\n\n\n\npython\n\n\nkeras\n\n\nsurprise\n\n\ninformation retrieval\n\n\ncollaborative filtering\n\n\nsvd\n\n\n\n\nDec 16, 2022\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Resource Library\n\n\n\nquarto\n\n\nquarto pub\n\n\nr\n\n\nmarkdown\n\n\ngitlab\n\n\ncontinuous integration\n\n\nyaml\n\n\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\nMichigan Alzheimer’s Disease Center Study Suggester\n\n\n\nr\n\n\ntidyverse\n\n\ngt\n\n\nwebshot\n\n\npagedown\n\n\napi\n\n\n\n\nMay 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nParticipant Engagement and Research Lifecycle (PEARL)\n\n\n\ndata management\n\n\nsystem design & development\n\n\nmicrosoft sharepoint\n\n\nmicrosoft power automate\n\n\nprocess diagramming\n\n\nteam collaboration\n\n\nhealthcare & research\n\n\nknowledge management\n\n\nworkflow automation\n\n\nproject management\n\n\ndata migration\n\n\n\n\nMar 28, 2024\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping for SMPL Sheets, LLC\n\n\n\nweb scraping\n\n\npython\n\n\nrequests\n\n\nbeautiful soup\n\n\nentrepreneurship\n\n\nmarketing\n\n\nhtml5\n\n\naccounting\n\n\nbusiness development\n\n\n\n\nNov 17, 2024\n\n\n\n\n\n\n\n\n\n\n\nWomen’s Web Design Project\n\n\n\nhtml5\n\n\ncss\n\n\njavascript\n\n\nweb accessibility\n\n\nweb design\n\n\ngithub pages\n\n\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\nmadRc - R Package\n\n\n\nr\n\n\nr package\n\n\ntechnical documentation\n\n\ntidyverse\n\n\napi\n\n\n\n\nOct 16, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Project Overview\nThe MADC Study Suggester is an R script developed for the Michigan Alzheimer’s Disease Center (MADC) to help match participants with appropriate studies based on their specific criteria. The script gathers participant and study data, filters the available studies, and generates a list of recommended studies for each participant. The aim of this tool is to streamline the process of study selection, ensuring that participants are matched with studies that are relevant to their health status and research goals. The output of the script is a user-friendly, formatted PDF report that displays the study recommendations in a clear table. The script uses gt for creating well-structured tables, webshot2 for capturing snapshots, and pagedown for converting the results into a high-quality, printable PDF format.\n\n\nKey Accomplishments\n\nR Script Development:\n\nDeveloped an R script that gathers and filters participant and study data to generate study recommendations tailored to each participant’s specific criteria.\n\nOutput Generation:\n\nUsed gt to create structured, user-friendly tables and pagedown to convert the tables into high-quality, printable PDF reports.\n\nTools and Libraries:\n\nIntegrated webshot2 for snapshot generation and pagedown for rendering the final output as a PDF, enhancing the accessibility and presentation of the data.\n\nStreamlining Study Selection:\n\nThe tool improves the process of identifying appropriate studies for participants, saving time for researchers and ensuring better matching between participants and studies.\n\nCurrent Status:\n\nThe script is operational, providing formatted PDF outputs that are ready for use by MADC team members.\n\n\nDue to HIPAA regulations, I am not able to share the source code or sample output files.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/fluffyfeelingco.html",
+    "href": "projects/fluffyfeelingco.html",
+    "title": "Fluffy Feeling Co. Etsy Shop",
+    "section": "",
+    "text": "Fluffy Feeling Co. is an online business focused on creating and selling animal-themed gifts with a humorous, quirky, and lighthearted touch. The brand aims to provide adorable, relatable, and fun items that resonate with animal lovers. Products are designed to bring joy and smiles to customers, incorporating playful designs like dog-themed bandanas and print-on-demand gifts. Currently, Fluffy Feeling Co. operates on platforms like Etsy, leveraging print-on-demand services via Printify for efficient production and fulfillment."
+  },
+  {
+    "objectID": "projects/fluffyfeelingco.html#project-overview",
+    "href": "projects/fluffyfeelingco.html#project-overview",
+    "title": "Fluffy Feeling Co. Etsy Shop",
+    "section": "",
+    "text": "Fluffy Feeling Co. is an online business focused on creating and selling animal-themed gifts with a humorous, quirky, and lighthearted touch. The brand aims to provide adorable, relatable, and fun items that resonate with animal lovers. Products are designed to bring joy and smiles to customers, incorporating playful designs like dog-themed bandanas and print-on-demand gifts. Currently, Fluffy Feeling Co. operates on platforms like Etsy, leveraging print-on-demand services via Printify for efficient production and fulfillment."
+  },
+  {
+    "objectID": "projects/fluffyfeelingco.html#key-accomplishments",
+    "href": "projects/fluffyfeelingco.html#key-accomplishments",
+    "title": "Fluffy Feeling Co. Etsy Shop",
+    "section": "Key Accomplishments:",
+    "text": "Key Accomplishments:\n\nBrand Creation & Positioning:\n\nDeveloped a unique brand identity that resonates with animal lovers and those looking for humorous and quirky gift items.\nDefined core brand attributes: Happy, Funny, Quirky, Lighthearted, Adorable, and Relatable, to consistently shape all product offerings and marketing efforts.\n\nProduct Development & Design:\n\nCreated a wide range of products for various holidays and themes, including custom-designed items like dog bandanas, apparel, and home decor. These designs incorporate seasonal motifs, playful phrases, and unique styles that appeal to different customer segments.\n\nEtsy Shop Setup & Growth:\n\nLaunched Fluffy Feeling Co. on Etsy, building a platform for product sales, customer engagement, and brand development.\nSuccessfully integrated a variety of products, leveraging print-on-demand services to manage production and inventory efficiently.\n\nSales & Marketing Strategy:\n\nCrafted seasonal and holiday-focused product campaigns, aligning product releases with key holidays like Valentine’s Day, Christmas, and Super Bowl Sunday, to maximize sales potential and customer interest.\nDeveloped a seasonal product timeline, detailing key events and strategies for product brainstorming, finalization, and marketing to ensure year-round sales momentum.\n\nCustomer Engagement & Feedback:\n\nFocused on building a community around Fluffy Feeling Co. through social media and customer engagement, with the goal of growing the brand’s loyal customer base and understanding their preferences for future product offerings."
+  },
+  {
+    "objectID": "projects/horror-ific_movie_rec_system.html",
+    "href": "projects/horror-ific_movie_rec_system.html",
+    "title": "Horror-ific Movie Recommender System",
+    "section": "",
+    "text": "This project, completed as a final capstone for an Information Retrieval course at the University of Michigan School of Information, aimed to build a specialized recommender system tailored to enthusiasts of the Horror and Thriller film genres, filling a niche gap in the vast world of streaming platforms. While general streaming services like Netflix, Hulu, and Amazon Prime offer recommendations across all genres, these platforms do not focus on specific genres, such as Horror or Thriller, which have dedicated fan bases. By narrowing the scope of recommendations to only these genres and their sub-genres, this system seeks to provide personalized movie suggestions that align with the tastes of Horror/Thriller fans.\nThe data used for the recommender system comes from the MovieLens “ml-25m” dataset, which contains 25,000,095 ratings across 62,423 movies from 162,541 unique users. For this project, a subset of 7,665,481 ratings from 162,117 users for 11,958 unique Horror and Thriller films was used. The dataset also includes some hybrid sub-genres, such as Comedic Horror and Dramatic Thriller."
+  },
+  {
+    "objectID": "projects/horror-ific_movie_rec_system.html#project-overview",
+    "href": "projects/horror-ific_movie_rec_system.html#project-overview",
+    "title": "Horror-ific Movie Recommender System",
+    "section": "",
+    "text": "This project, completed as a final capstone for an Information Retrieval course at the University of Michigan School of Information, aimed to build a specialized recommender system tailored to enthusiasts of the Horror and Thriller film genres, filling a niche gap in the vast world of streaming platforms. While general streaming services like Netflix, Hulu, and Amazon Prime offer recommendations across all genres, these platforms do not focus on specific genres, such as Horror or Thriller, which have dedicated fan bases. By narrowing the scope of recommendations to only these genres and their sub-genres, this system seeks to provide personalized movie suggestions that align with the tastes of Horror/Thriller fans.\nThe data used for the recommender system comes from the MovieLens “ml-25m” dataset, which contains 25,000,095 ratings across 62,423 movies from 162,541 unique users. For this project, a subset of 7,665,481 ratings from 162,117 users for 11,958 unique Horror and Thriller films was used. The dataset also includes some hybrid sub-genres, such as Comedic Horror and Dramatic Thriller."
+  },
+  {
+    "objectID": "projects/horror-ific_movie_rec_system.html#key-accomplishments",
+    "href": "projects/horror-ific_movie_rec_system.html#key-accomplishments",
+    "title": "Horror-ific Movie Recommender System",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nDeveloped a recommender system focused exclusively on Horror and Thriller films, differentiating it from general movie recommendation platforms.\nLeveraged the “ml-25m” dataset, a widely recognized dataset for recommender system experiments.\nSuccessfully experimented with multiple collaborative filtering methods, including the SVD algorithm and Keras-based neural networks.\nAchieved satisfactory RMSE results for initial experimentation, demonstrating the viability of collaborative filtering for niche movie recommendations.\nIdentified areas for future improvement, including fine-tuning the model to enhance personalization and exploring hybrid recommendation systems.\n\n View the final report"
+  },
+  {
+    "objectID": "projects/madrc_package.html",
+    "href": "projects/madrc_package.html",
+    "title": "madRc - R Package",
+    "section": "",
+    "text": "Project Overview\nThis project involves the development of an R package in collaboration with other members of the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center. The goal is to compile the various R functions that have been written for day-to-day analysis and data retrieval tasks into a cohesive and efficient package. The package aims to streamline repetitive tasks, making it easier for team members to conduct their work without having to re-write commonly used functions. Once complete, the package will ideally be deployed on GitHub for easy access, allowing team members and the broader research community to download and use it. Currently, the project is still a work in progress, with ongoing development, testing, and refinement of the included functions.\n\n\nKey Accomplishments\n\nR Package Development:\n\nCollaborating with the Data Core team at MADC to compile various R functions used for day-to-day analysis and data retrieval.\nOrganizing functions into a cohesive package to streamline repetitive tasks and improve efficiency in data analysis workflows.\n\nPackage Deployment Plans:\n\nPlanning to deploy the package on GitHub for easy access and distribution, allowing team members and the wider data analysis community to download and use the package.\n\nCurrent Status:\n\nThe package is still in development, with ongoing efforts to test and refine the functions for usability and performance.\n\nCollaboration:\n\nWorking closely with other team members to ensure the package meets the needs of all users and integrates smoothly into existing workflows.\n\n\nDue to the current early stage of this project, I do not yet have a source code link to share. Check back soon!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/chicken_soup.html",
+    "href": "projects/chicken_soup.html",
+    "title": "Chicken Soup Data Visualization",
+    "section": "",
+    "text": "I created a series of interactive visualizations using Python and Altair, hosted on a Streamlit page. The goal was to allow viewers to explore various chicken soup recipes, focusing on nutrition, flu-fighting nutrients, and the impact of ingredients like dairy and allergens. Throughout the project, I addressed data limitations and refined the learning objectives, incorporating additional datasets from Open Food Facts to enhance the visualizations."
+  },
+  {
+    "objectID": "projects/chicken_soup.html#project-overview",
+    "href": "projects/chicken_soup.html#project-overview",
+    "title": "Chicken Soup Data Visualization",
+    "section": "",
+    "text": "I created a series of interactive visualizations using Python and Altair, hosted on a Streamlit page. The goal was to allow viewers to explore various chicken soup recipes, focusing on nutrition, flu-fighting nutrients, and the impact of ingredients like dairy and allergens. Throughout the project, I addressed data limitations and refined the learning objectives, incorporating additional datasets from Open Food Facts to enhance the visualizations."
+  },
+  {
+    "objectID": "projects/chicken_soup.html#key-accomplishments",
+    "href": "projects/chicken_soup.html#key-accomplishments",
+    "title": "Chicken Soup Data Visualization",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nCreated interactive visualizations using Python, Altair, and Streamlit, enabling viewers to explore the nutritional content and ingredients of chicken soup recipes.\nDeveloped a distribution chart of nutrient facts, allowing users to adjust intervals and compare fat and calorie content across recipes.\nDesigned a chart to visualize protein and calcium levels relative to dairy and allergen content, with interactive filtering options for dietary preferences.\nCreated a visualization summarizing flu-fighting nutrients, allowing viewers to interact with detailed tooltips and compare recipes based on health scores.\nBuilt a final chart enabling users to filter recipes by serving size, fat/calorie content, popularity, and dietary restrictions, facilitating informed recipe selection.\nAdapted to data limitations by revising learning objectives and incorporating additional datasets for a more comprehensive analysis.\n\n View the deployed site\n View the source code"
+  },
+  {
+    "objectID": "blogs/data_rescue.html",
+    "href": "blogs/data_rescue.html",
+    "title": "📌 Bookmark Dive: The Data Rescue Project",
+    "section": "",
+    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+  },
+  {
+    "objectID": "blogs/data_rescue.html#reflections",
+    "href": "blogs/data_rescue.html#reflections",
+    "title": "📌 Bookmark Dive: The Data Rescue Project",
+    "section": "Reflections",
+    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
+    "objectID": "projects/mastery_capstone_data_analysis.html",
+    "href": "projects/mastery_capstone_data_analysis.html",
+    "title": "Data Analysis Capstone: Is Education the Key to Success?",
+    "section": "",
+    "text": "Project Overview\nCompleted in the final capstone course for the Master of Science in Information, this project explores the relationship between education, demographics, and earnings, focusing on addressing questions about the stagnation of wages in the U.S. despite rising productivity. Initially aiming to investigate productivity growth, the project pivoted to examining the impact of education and demographics on earnings after realizing the complexity of the economics involved. The team built a public-facing dashboard to convey findings in an accessible and understandable way for the general public. The dashboard focuses on comparing wages based on education, gender, and race, while also exploring the potential impact of advanced degrees on underemployment.\n\n\nKey Accomplishments\n\nData Collection and Preprocessing:\n\nCollected data from the U.S. Bureau of Labor Statistics’ Current Population Survey (CPS), which contains responses from over 270,000 individuals annually.\nFiltered the data to focus on full-time workers aged 18 and older, adjusting earnings for inflation to 2022 dollars for consistency across years.\n\nDashboard Development:\n\nDeveloped an interactive dashboard using Streamlit, allowing users to explore how education and demographic factors affect wages over time.\nCreated visualizations in Altair to represent wage disparities across gender, race, and education levels.\n\nFocused Analysis:\n\nConducted an analysis of the gender wage gap and its relationship to educational attainment, highlighting persistent disparities in earnings between men and women, particularly for women of color.\nExamined the earning potential of different education levels, demonstrating how higher education can influence wage growth.\n\nEducational Impact:\n\nProvided insights on how educational attainment can reduce the chances of underemployment, and how union membership interacts with education to affect earnings.\n\nTarget Audience and Accessibility:\n\nDesigned the dashboard to cater to young professionals and students, particularly those considering further education, providing accessible data and visualizations to inform career and educational decisions.\n\n\n View the deployed site\n View the source code\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/womens_web.html",
+    "href": "projects/womens_web.html",
+    "title": "Women’s Web Design Project",
+    "section": "",
+    "text": "This project was part of an elective course in my Master’s in Data Analytics at the University of Michigan School of Information. The goal was to improve the structure and design of a basic HTML web page by incorporating JavaScript and CSS. The main focus was on creating an accessible and responsive web page.\nStarting with a pre-written content structure in HTML, I applied CSS for design and layout enhancements and used JavaScript to add interactivity and functionality. The project emphasized best practices for web accessibility to ensure the website was usable by people with various disabilities."
+  },
+  {
+    "objectID": "projects/womens_web.html#project-overview",
+    "href": "projects/womens_web.html#project-overview",
+    "title": "Women’s Web Design Project",
+    "section": "",
+    "text": "This project was part of an elective course in my Master’s in Data Analytics at the University of Michigan School of Information. The goal was to improve the structure and design of a basic HTML web page by incorporating JavaScript and CSS. The main focus was on creating an accessible and responsive web page.\nStarting with a pre-written content structure in HTML, I applied CSS for design and layout enhancements and used JavaScript to add interactivity and functionality. The project emphasized best practices for web accessibility to ensure the website was usable by people with various disabilities."
+  },
+  {
+    "objectID": "projects/womens_web.html#key-accomplishments",
+    "href": "projects/womens_web.html#key-accomplishments",
+    "title": "Women’s Web Design Project",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nModified basic HTML to improve structure and accessibility, ensuring compatibility with assistive technologies.\nApplied CSS to enhance the visual design, making the web page aesthetically pleasing and user-friendly.\nIntegrated JavaScript to introduce interactivity and improve user engagement.\nImplemented responsive design techniques to ensure the website functions well across different devices and screen sizes.\nFocused on accessibility best practices, ensuring compliance with WCAG (Web Content Accessibility Guidelines).\n\n View the deployed site\n View the source code"
+  },
+  {
+    "objectID": "projects/smpl_sheets.html",
+    "href": "projects/smpl_sheets.html",
+    "title": "Web Scraping for SMPL Sheets, LLC",
+    "section": "",
+    "text": "SMPL SHEETS was born out of necessity. While exploring methods for relationship management, we found that although public data—like Chamber of Commerce directories—was highly accessible visually, it wasn’t formatted for efficient use. Managing large uploads of information to a CRM required time-consuming manual effort.\nWith backgrounds in entrepreneurship and data analysis, we approached the problem with a solutions-oriented mindset. The more we worked through this challenge, the more we saw an opportunity to scale our process and help others. We realized that many businesses could benefit from pre-cleaned, formatted, and CRM-friendly data, saving them countless hours and enabling them to focus on what matters most: building meaningful connections.\nWe’re starting with Chamber of Commerce data because it’s relevant to our own relationship management needs, but we’re just getting started. In the future, we envision expanding into other categories of public data—across various sectors—making this valuable information accessible, usable, and impactful.\nAt SMPL SHEETS, we’re turning complex data into simple solutions, empowering businesses to work smarter, not harder."
+  },
+  {
+    "objectID": "projects/smpl_sheets.html#project-overview",
+    "href": "projects/smpl_sheets.html#project-overview",
+    "title": "Web Scraping for SMPL Sheets, LLC",
+    "section": "",
+    "text": "SMPL SHEETS was born out of necessity. While exploring methods for relationship management, we found that although public data—like Chamber of Commerce directories—was highly accessible visually, it wasn’t formatted for efficient use. Managing large uploads of information to a CRM required time-consuming manual effort.\nWith backgrounds in entrepreneurship and data analysis, we approached the problem with a solutions-oriented mindset. The more we worked through this challenge, the more we saw an opportunity to scale our process and help others. We realized that many businesses could benefit from pre-cleaned, formatted, and CRM-friendly data, saving them countless hours and enabling them to focus on what matters most: building meaningful connections.\nWe’re starting with Chamber of Commerce data because it’s relevant to our own relationship management needs, but we’re just getting started. In the future, we envision expanding into other categories of public data—across various sectors—making this valuable information accessible, usable, and impactful.\nAt SMPL SHEETS, we’re turning complex data into simple solutions, empowering businesses to work smarter, not harder."
+  },
+  {
+    "objectID": "projects/smpl_sheets.html#key-accomplishments",
+    "href": "projects/smpl_sheets.html#key-accomplishments",
+    "title": "Web Scraping for SMPL Sheets, LLC",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nDeveloped a solution to clean and reformat publicly available data, starting with Chamber of Commerce directories.\nAutomated the process of data scraping using Python and BeautifulSoup to extract public data efficiently.\nStreamlined the process of transforming raw data into CRM-friendly formats, saving businesses time on manual data entry.\nBuilt a scalable business model that allows for expansion into other types of public data, offering CRM-friendly solutions across various sectors.\nEstablished a foundation for future growth, with a focus on delivering usable, actionable data that enables better relationship management.\n\n View the deployed site"
+  },
+  {
+    "objectID": "projects/collab_filtering_survey.html",
+    "href": "projects/collab_filtering_survey.html",
+    "title": "Collaborative Filtering Methodologies",
+    "section": "",
+    "text": "Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.\nThe study also leverages Python libraries such as Surprise and Recmetrics to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the “gray sheep problem” (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications."
+  },
+  {
+    "objectID": "projects/collab_filtering_survey.html#project-overview",
+    "href": "projects/collab_filtering_survey.html#project-overview",
+    "title": "Collaborative Filtering Methodologies",
+    "section": "",
+    "text": "Recommender systems play a crucial role in modern e-commerce and social networking platforms, addressing the growing need for personalized and relevant item suggestions. This project, completed as a final project for a Data Mining course at the University of Michigan School of Information, explores collaborative filtering, a fundamental category of recommendation algorithms, with a focus on its methodologies and real-world applications in book recommendation systems. Using the Book-Crossing dataset, this study evaluates the performance of various collaborative filtering algorithms to predict user-item ratings and explores book recommendation systems used by platforms like Goodreads, Likewise, and WhatShouldIReadNext?.\nThe study also leverages Python libraries such as Surprise and Recmetrics to build, evaluate, and compare recommender models while examining their practical implications. Key challenges addressed include data sparsity, the “gray sheep problem” (difficulty in serving users with niche preferences), and computational limitations with large datasets. This work provides insights into algorithmic performance and the nuanced trade-offs of collaborative filtering in real-world applications."
+  },
+  {
+    "objectID": "projects/collab_filtering_survey.html#key-accomplishments",
+    "href": "projects/collab_filtering_survey.html#key-accomplishments",
+    "title": "Collaborative Filtering Methodologies",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nDataset Utilization:\n\nProcessed the Book-Crossing dataset containing over 1.1 million user ratings for 271,379 books.\n\nAddressed data sparsity by removing implicit ratings (62% of total), resulting in a more interpretable left-skewed distribution of ratings with a mean score of 7.6.\n\nAlgorithm Evaluation:\n\nExperimented with six collaborative filtering algorithms using the Surprise library: Baseline Only, K-Nearest Neighbors (KNN), and Matrix Factorization models.\n\nAdapted to computational constraints by sampling datasets and iteratively evaluating performance on progressively larger training sets.\n\nTool Adoption and Documentation:\n\nExplored Surprise, a Python library for implementing prediction algorithms and evaluation metrics, and Recmetrics, a toolkit for recommender system diagnostics.\n\nHighlighted key functionalities of both tools, including prediction accuracy and bias diagnostics.\n\nInsights on Collaborative Filtering:\n\nDiscussed challenges such as data sparsity, lack of personalization for niche users, and the potential for biased or manipulated ratings.\n\nHighlighted trade-offs between algorithm simplicity and personalization precision.\n\nReal-World Applications:\n\nAnalyzed book recommendation platforms (Goodreads, Likewise, and WhatShouldIReadNext?) to contextualize findings.\n\nConnected experimental results to practical use cases in improving user engagement through personalized recommendations.\n\nImpactful Visualizations:\n\nGenerated insightful visualizations of the dataset, including the distribution of ratings before and after preprocessing, illustrating the impact of removing implicit data.\n\nEducational Focus:\n\nBridged theory and practice by examining the documentation of recommender system libraries and applying them to a large-scale real-world dataset.\n\nDeveloped an accessible survey of collaborative filtering techniques for practitioners and researchers.\n\n\n View the final report"
+  },
+  {
+    "objectID": "projects/dmsc_madc_site.html",
+    "href": "projects/dmsc_madc_site.html",
+    "title": "Data Management and Statistical Core Sharing Hub",
+    "section": "",
+    "text": "Currently in development, the Data Management and Statistical Core Sharing Hub is a public-facing website designed to showcase resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center (MADC). The goal is to provide accessible tools, guidelines, and documentation to support data management and statistical practices in Alzheimer’s disease research. Built using Quarto, this site integrates Markdown for content creation with the powerful features of Quarto for publishing, making it a dynamic, reproducible, and user-friendly resource for the research community.\nThe site is hosted on GitHub Pages, which simplifies deployment and allows for continuous updates as the Data Core’s resources evolve."
+  },
+  {
+    "objectID": "projects/dmsc_madc_site.html#project-overview",
+    "href": "projects/dmsc_madc_site.html#project-overview",
+    "title": "Data Management and Statistical Core Sharing Hub",
+    "section": "",
+    "text": "Currently in development, the Data Management and Statistical Core Sharing Hub is a public-facing website designed to showcase resources from the Data Management and Statistical Core at the Michigan Alzheimer’s Disease Center (MADC). The goal is to provide accessible tools, guidelines, and documentation to support data management and statistical practices in Alzheimer’s disease research. Built using Quarto, this site integrates Markdown for content creation with the powerful features of Quarto for publishing, making it a dynamic, reproducible, and user-friendly resource for the research community.\nThe site is hosted on GitHub Pages, which simplifies deployment and allows for continuous updates as the Data Core’s resources evolve."
+  },
+  {
+    "objectID": "projects/dmsc_madc_site.html#key-accomplishments",
+    "href": "projects/dmsc_madc_site.html#key-accomplishments",
+    "title": "Data Management and Statistical Core Sharing Hub",
+    "section": "Key Accomplishments:",
+    "text": "Key Accomplishments:\n\nQuarto Setup & Deployment:\n\nChose Quarto as the platform for building and managing the website, allowing for easy integration with GitHub Pages for hosting.\nConfigured the site to deploy directly from the docs folder on the main branch, ensuring that all future updates are automatically reflected online.\n\nContributor Workflow & Documentation:\n\nDeveloped a streamlined process for contributors to fork the repository, clone their copy locally, and submit pull requests.\nDetailed instructions were created for setting up VS Code with the necessary Quarto extensions, editing content locally, previewing the website, and pushing changes back to GitHub.\n\nWeb Content Creation:\n\nCreated and customized the main website using Quarto’s flexibility to write dynamic content in Markdown and Quarto’s .qmd files.\nIncluded sections such as setup guides, tutorials, and links to external resources, all designed to make the content easily navigable for both technical and non-technical users.\n\nVersion Control & Maintenance:\n\nImplemented version control with Git, providing a clear workflow for contributing to the site and tracking changes.\nUsed GitHub’s built-in tools to ensure the site stays updated and that contributors can easily collaborate on ongoing improvements.\n\nPublic Availability & Reproducibility:\n\nEnsured the site is publicly accessible, providing transparency and reproducibility for tools and resources related to data management in Alzheimer’s research.\nThe setup allows for continuous updates and scalability, with Quarto’s integration ensuring that future contributions to the website can be managed efficiently.\n\nFuture Expansion:\n\nEstablished a foundation for further growth by setting up the website with the flexibility to add new content, resources, and tools as they are developed by the Data Core team.\n\n\n View the deployed site\n View the source code"
+  },
+  {
+    "objectID": "projects/madc_resource_library.html",
+    "href": "projects/madc_resource_library.html",
+    "title": "Michigan Alzheimer’s Disease Center Resource Library",
+    "section": "",
+    "text": "I led the development of an online resource site for the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. This site is designed to provide a growing collection of technical resources to help onboard new and current staff, improving their skills for day-to-day operations. I utilized Quarto’s book infrastructure to compile the resources and successfully deployed the site using Quarto Pub, enabling seamless updates after each commit."
+  },
+  {
+    "objectID": "projects/madc_resource_library.html#project-overview",
+    "href": "projects/madc_resource_library.html#project-overview",
+    "title": "Michigan Alzheimer’s Disease Center Resource Library",
+    "section": "",
+    "text": "I led the development of an online resource site for the Michigan Alzheimer’s Disease Center’s (MADC) Data Core. This site is designed to provide a growing collection of technical resources to help onboard new and current staff, improving their skills for day-to-day operations. I utilized Quarto’s book infrastructure to compile the resources and successfully deployed the site using Quarto Pub, enabling seamless updates after each commit."
+  },
+  {
+    "objectID": "projects/madc_resource_library.html#key-accomplishments",
+    "href": "projects/madc_resource_library.html#key-accomplishments",
+    "title": "Michigan Alzheimer’s Disease Center Resource Library",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nDeveloped and launched an online technical resources site for MADC’s Data Core staff.\nUtilized Quarto’s book infrastructure to structure and organize content effectively.\nAutomated site deployment to Quarto Pub after each commit by writing and configuring a YAML file.\nEnsured the site remains up-to-date and easily accessible to staff for continuous learning and skill-building.\n\n View the deployed site\n View the source code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Miranda!",
+    "section": "",
+    "text": "I am a data analyst and systems builder who got into tech after several years in nonprofit fundraising operations, where I spent a lot of time managing messy spreadsheets and trying to make broken processes work. Eventually, I realized what I really wanted was to fix the system itself, not just clean up after it.\nI made the pivot into data analytics a few years ago, and since then, I’ve been focused on building tools that make work smoother, clearer, and less redundant. These days, I work at the University of Michigan’s Alzheimer’s Disease Center, where I manage the data infrastructure behind our research systems, connecting tools like REDCap, SharePoint, R, and Power Automate to help data move cleanly between teams and projects.\nWhat sets me apart isn’t just technical fluency, it’s the ability to see both the big picture and the system underneath.\nI diagram, debug, and document.\nI build with the end user in mind. And I never stop asking: How could this be easier, clearer, or more scalable?\nOn the side, I run a small business called SMPL Sheets that transforms public directories into clean, CRM-ready datasets, and a print-on-demand project called Fluffy Feeling Co., because automation can be fun, too.\n\n\n Back to top"
   }
 ]

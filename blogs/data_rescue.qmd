@@ -1,0 +1,32 @@
+---
+title: "📌 Bookmark Dive: The Data Rescue Project"
+date: "July 18, 2025"
+description: "Reflections on the ethics and infrastructure of public data stewardship, highlighting the tools and vision behind the Data Rescue Project."
+categories:
+   - data archiving
+   - tools
+   - data access
+   - data rescue
+---
+
+There’s something quietly powerful about the [Data Rescue Project](https://www.datarescueproject.org/about-data-rescue-project/), a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.
+
+I found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn't just about pipelines and dashboards. It’s about memory. And resistance.
+
+If you’ve ever wondered:
+
+- Who protects public data when administrations change?
+- What do we do with datasets that aren’t easily “backed up”?
+- How can everyday analysts and developers help?
+
+This resource library is a thoughtful entry point.
+
+🔗 [Explore the Data Rescue Resources](https://www.datarescueproject.org/resources/)
+
+## Reflections
+
+As someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that *open science* requires *open infrastructure*, and that includes rescue, reproducibility, and resilience.
+
+Even outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn't need suppression or instability to remind us why long-term thinking about data matters.
+
+*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_resources-activity-7348739134313713664-yV4k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
