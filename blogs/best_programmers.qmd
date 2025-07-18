@@ -1,0 +1,29 @@
+---
+title: "📌 The Best Programmers I Know"
+date: "2025-06-25"
+description: "Reflections on a personal essay by Matthias Endler exploring the habits, mindset, and humility of exceptional programmers."
+categories:
+   - engineering culture
+   - reflection
+   - communication
+   - programmer habits
+   - career growth
+---
+
+I saved this [essay by Matthias Endler](https://endler.dev/2025/best-programmers/) because it shifts the focus away from flashy skills and toward the quieter traits that make truly exceptional engineers: mindset, humility, and thoughtful habits.
+
+It touches on something I’ve noticed in my own growth: the best technical people I’ve worked with are rarely loud. They ask thoughtful questions. They learn in public. They look at unfamiliar systems not with ego, but with curiosity. And they write things down.
+
+🔗 [Read "The Best Programmers I Know"](https://endler.dev/2025/best-programmers/)
+
+## Reflections
+
+This post reminded me how often we confuse “smart” with fast, or “experienced” with unteachable. The folks I admire most aren’t just great coders, they’re rigorous thinkers, generous explainers, and quiet stewards of institutional knowledge.
+
+It also validates the time I spend on things that might not “look” technical, like documentation, onboarding guides, or just drawing out a messy diagram to make sense of something complex. That work matters. It compounds.
+
+---
+
+*This post builds on a LinkedIn #BookmarkDive reflection. You can join the conversation [here](https://www.linkedin.com/posts/mirandaleigh_the-best-programmers-i-know-matthias-endler-activity-7345520936453849088-REZu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7345520933580730368?collapsed=1" height="583" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

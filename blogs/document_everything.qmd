@@ -1,6 +1,6 @@
 ---
 title: "📌 How to Document Everything at Work (Without Being Asked)"
-date: "July 2, 2025"
+date: "2025-07-02"
 description: "A practical breakdown of how (and why) to document your work, with tips to make it easier, more useful, and less overwhelming."
 categories:
    - documentation

@@ -1,6 +1,6 @@
 ---
 title: "📌 The Data Rescue Project"
-date: "July 9, 2025"
+date: "2025-07-09"
 description: "Reflections on the ethics and infrastructure of public data stewardship, highlighting the tools and vision behind the Data Rescue Project."
 categories:
    - data archiving

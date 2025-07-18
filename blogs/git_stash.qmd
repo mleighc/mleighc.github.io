@@ -1,6 +1,6 @@
 ---
 title: "📌 Git Stash for Newbies"
-date: "July 16, 2025"
+date: "2025-07-16"
 description: "A plain-language explainer that helped me finally understand git stash, and why it matters for workflow sanity."
 categories:
    - git
