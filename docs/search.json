@@ -4,7 +4,7 @@
     "href": "bookmarkdive.html",
     "title": "The BookmarkDive Blog",
     "section": "",
-    "text": "A curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Blog\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBlog\n\n\nDate\n\n\nCategories\n\n\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\ngit, version control, workflow, tools\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\ndata archiving, tools, data access, data rescue\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "A curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Blog\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBlog\n\n\nDate\n\n\nCategories\n\n\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\ngit, version control, workflow, tools\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\ndocumentation, workflow, communication, productivity\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\ndata archiving, tools, data access, data rescue\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "projects.html",
@@ -112,6 +112,20 @@
     "text": "Key Accomplishments\n\nCreated interactive visualizations using Python, Altair, and Streamlit, enabling viewers to explore the nutritional content and ingredients of chicken soup recipes.\nDeveloped a distribution chart of nutrient facts, allowing users to adjust intervals and compare fat and calorie content across recipes.\nDesigned a chart to visualize protein and calcium levels relative to dairy and allergen content, with interactive filtering options for dietary preferences.\nCreated a visualization summarizing flu-fighting nutrients, allowing viewers to interact with detailed tooltips and compare recipes based on health scores.\nBuilt a final chart enabling users to filter recipes by serving size, fat/calorie content, popularity, and dietary restrictions, facilitating informed recipe selection.\nAdapted to data limitations by revising learning objectives and incorporating additional datasets for a more comprehensive analysis.\n\n View the deployed site\n View the source code"
   },
   {
+    "objectID": "blogs/data_rescue.html",
+    "href": "blogs/data_rescue.html",
+    "title": "📌 The Data Rescue Project",
+    "section": "",
+    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+  },
+  {
+    "objectID": "blogs/data_rescue.html#reflections",
+    "href": "blogs/data_rescue.html#reflections",
+    "title": "📌 The Data Rescue Project",
+    "section": "Reflections",
+    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
     "objectID": "blogs/git_stash.html",
     "href": "blogs/git_stash.html",
     "title": "📌 Git Stash for Newbies",
@@ -126,18 +140,18 @@
     "text": "Reflections\nThis was one of those moments where a simple tool finally clicked because someone explained it in plain language. For someone like me, who often juggles work-in-progress code, quick bugfixes, and experiments, git stash has become a surprisingly helpful part of my toolkit.\nWhat struck me most is how this concept ties back to broader ideas in data and code management, how we hold space for unfinished work, how we reduce the cognitive burden of switching tasks, and how good tools support thoughtful pacing.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/data_rescue.html",
-    "href": "blogs/data_rescue.html",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/document_everything.html",
+    "href": "blogs/document_everything.html",
+    "title": "📌 How to Document Everything at Work (Without Being Asked)",
     "section": "",
-    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+    "text": "I’m circling back to this Fairygodboss post that I saved several weeks back because it captures something most guides miss. The Smart Way to Document Everything at Work is one of those rare resources that applies equally well whether you’re in a technical or non-technical role.\nIt breaks down the why, when, and how of workplace documentation in a way that’s clear and non-preachy. There’s guidance on choosing the right format, understanding your audience, and avoiding the trap of writing for the sake of writing. It also validates the emotional labor that can come with documenting things that “should already be obvious.” But the biggest factor for me is how much it can reinforce your ability to self-advocate and understand your worth.\n🔗 Read “The Smart Way to Document Everything at Work”"
   },
   {
-    "objectID": "blogs/data_rescue.html#reflections",
-    "href": "blogs/data_rescue.html#reflections",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/document_everything.html#reflections",
+    "href": "blogs/document_everything.html#reflections",
+    "title": "📌 How to Document Everything at Work (Without Being Asked)",
     "section": "Reflections",
-    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nI think a lot about systems, how we build them, how we explain them, how we hand them off. Documentation is one of the most under-appreciated parts of that cycle. For me, it’s a chance to clarify my own thinking and build scaffolding for the people who come after me, and even future me when I return to a project months or years down the road.\nThis post reminded me that good documentation isn’t just about saving time. It’s about respect. It’s about reducing invisible friction. And sometimes, it’s about protecting the integrity of a system long after you’ve stepped away.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "projects/mastery_capstone_data_analysis.html",

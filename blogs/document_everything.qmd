@@ -1,0 +1,28 @@
+---
+title: "📌 How to Document Everything at Work (Without Being Asked)"
+date: "July 2, 2025"
+description: "A practical breakdown of how (and why) to document your work, with tips to make it easier, more useful, and less overwhelming."
+categories:
+   - documentation
+   - workflow
+   - communication
+   - productivity
+---
+
+I'm circling back to this [Fairygodboss post](https://fairygodboss.com/career-topics/how-to-document-everything-at-work) that I saved several weeks back because it captures something most guides miss. *The Smart Way to Document Everything at Work* is one of those rare resources that applies equally well whether you’re in a technical or non-technical role.
+
+It breaks down the why, when, and how of workplace documentation in a way that’s clear and non-preachy. There’s guidance on choosing the right format, understanding your audience, and avoiding the trap of writing for the sake of writing. It also validates the emotional labor that can come with documenting things that “should already be obvious.” But the biggest factor for me is how much it can reinforce your ability to self-advocate and understand your worth.
+
+🔗 [Read "The Smart Way to Document Everything at Work"](https://fairygodboss.com/career-topics/how-to-document-everything-at-work)
+
+## Reflections
+
+I think a lot about systems, how we build them, how we explain them, how we hand them off. Documentation is one of the most under-appreciated parts of that cycle. For me, it’s a chance to clarify my own thinking and build scaffolding for the people who come after me, and even future me when I return to a project months or years down the road.
+
+This post reminded me that good documentation isn’t just about saving time. It’s about respect. It’s about reducing invisible friction. And sometimes, it’s about protecting the integrity of a system long after you’ve stepped away.
+
+---
+
+*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_the-smart-way-to-document-everything-at-work-activity-7345798082531405825-wYmr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7345798081818292224?collapsed=1" height="720" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
