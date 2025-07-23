@@ -8,11 +8,11 @@ categories:
    - professional development
 ---
 
-I bookmarked this [Fairygodboss article](https://fairygodboss.com/articles/things-to-unlearn-to-grow-in-your-career) weeks ago, and coming back to it, I was struck by how clearly it speaks to the quieter, internal work of growth—the mindset shifts that don’t always get airtime but make all the difference.
+I bookmarked this [Fairygodboss article](https://fairygodboss.com/articles/things-to-unlearn-to-grow-in-your-career) weeks ago, and coming back to it, I was struck by how clearly it speaks to the quieter, internal work of growth, the mindset shifts that don’t always get airtime but make all the difference.
 
 It surfaces beliefs we often absorb without realizing: that we have to earn our seat at the table by being perfect, or that being early-career means being silent. One point in particular really stuck: learning to take up space and speak openly about what you want.
 
-🔗 [Read: Things to Unlearn to Grow in Your Career](https://fairygodboss.com/articles/things-to-unlearn-to-grow-in-your-career)
+🔗 [Read: 10 Things to Unlearn to Truly Grow in Your Career](https://fairygodboss.com/articles/things-to-unlearn-to-grow-in-your-career)
 
 ## Reflections
 
@@ -20,10 +20,12 @@ This idea echoes something I’ve been thinking and writing about a lot lately: 
 
 It’s something I noticed in [The Best Programmers I Know](https://endler.dev/2025/best-programmers/), too. The programmers and data analysts I admire most aren’t the ones who know everything, they’re the ones who keep learning in public, write things down, and create scaffolding for others. That’s the kind of professional I want to be.
 
-Unlearning perfectionism, self-effacement, and fear of being “too much” has changed how I show up in 1:1s, feedback sessions, peer reviews, and documentation. It’s helped me clarify my thinking, advocate for my growth, and contribute more meaningfully to the systems I work in.
+Unlearning perfectionism, self-effacement, and fear of being “too much” has changed how I show up in 1:1s, feedback sessions, peer reviews, and writing documentation. It’s helped me clarify my thinking, advocate for my growth, and contribute more meaningfully to the systems I work in.
 
 And that, I think, is what this piece gets so right: career growth doesn’t come from pretending to have it all figured out, rather it comes from making space to grow, out loud.
 
 ---
 
-*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().*
+*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_10-things-to-unlearn-to-truly-grow-in-your-activity-7353812237855145984--Obg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).*
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7353812236919808000?collapsed=1" height="686" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
