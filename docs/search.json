@@ -4,7 +4,7 @@
     "href": "bookmarkdive.html",
     "title": " The BookmarkDive blog",
     "section": "",
-    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 Using AI Right Now: A Quick Guide\n\n\nJul 30, 2025\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "projects.html",
@@ -126,18 +126,18 @@
     "text": "Reflections\nThis post reminded me how often we confuse “smart” with fast, or “experienced” with unteachable. The folks I admire most aren’t just great coders, they’re rigorous thinkers, generous explainers, and quiet stewards of institutional knowledge.\nIt also validates the time I spend on things that might not “look” technical, like documentation, onboarding guides, or just drawing out a messy diagram to make sense of something complex. That work matters. It compounds.\n\nThis post builds on a LinkedIn #BookmarkDive reflection. You can join the conversation here."
   },
   {
-    "objectID": "blogs/data_rescue.html",
-    "href": "blogs/data_rescue.html",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/ai_guick_guide.html",
+    "href": "blogs/ai_guick_guide.html",
+    "title": "📌 Using AI Right Now: A Quick Guide",
     "section": "",
-    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+    "text": "We’re in this moment where everyone’s trying to figure out what AI means for their work. Some folks are exploring new tools, some are worried about what it might take away. Personally, I’ve found AI to be an enhancement, a way to:\nThis guide by Ethan Mollick is one I bookmarked for its clarity and practicality. It walks through how to use AI in your day-to-day work right now without hype or fearmongering.\n🔗 Read: Using AI Right Now – A Quick Guide"
   },
   {
-    "objectID": "blogs/data_rescue.html#reflections",
-    "href": "blogs/data_rescue.html#reflections",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/ai_guick_guide.html#reflections",
+    "href": "blogs/ai_guick_guide.html#reflections",
+    "title": "📌 Using AI Right Now: A Quick Guide",
     "section": "Reflections",
-    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nOne of the key takeaways from the article is that prompting isn’t a party trick, it’s a skill to develop. The way you frame a question or structure a task can completely change the output you get. That’s been especially true in my own work, where I use AI tools not just to save time, but to think more clearly, draft early versions of tricky documentation, or get unstuck in a coding problem.\nMollick’s breakdown of where AI doesn’t add value is also refreshing. It’s not a replacement for domain expertise, and it can’t fix a broken process. But when used thoughtfully, it can act like a teammate, a second brain to bounce ideas off of or prototype something before it’s fully formed.\nFor me, the goal isn’t to use AI for everything. It’s to use it well, where it makes sense, and where it supports my broader intentions: clarity, creativity, and sustainable systems.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "blogs/git_stash.html",
@@ -152,6 +152,20 @@
     "title": "📌 Git Stash for Newbies",
     "section": "Reflections",
     "text": "Reflections\nThis was one of those moments where a simple tool finally clicked because someone explained it in plain language. For someone like me, who often juggles work-in-progress code, quick bugfixes, and experiments, git stash has become a surprisingly helpful part of my toolkit.\nWhat struck me most is how this concept ties back to broader ideas in data and code management, how we hold space for unfinished work, how we reduce the cognitive burden of switching tasks, and how good tools support thoughtful pacing.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
+    "objectID": "blogs/data_rescue.html",
+    "href": "blogs/data_rescue.html",
+    "title": "📌 The Data Rescue Project",
+    "section": "",
+    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+  },
+  {
+    "objectID": "blogs/data_rescue.html#reflections",
+    "href": "blogs/data_rescue.html#reflections",
+    "title": "📌 The Data Rescue Project",
+    "section": "Reflections",
+    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "blogs/document_everything.html",

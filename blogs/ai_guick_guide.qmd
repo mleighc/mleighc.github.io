@@ -1,0 +1,32 @@
+---
+title: "📌 Using AI Right Now: A Quick Guide"
+date: "2025-07-28"
+description: "Reflections on Ethan Mollick’s practical guide to integrating AI into your work."
+categories:
+   - generative ai
+   - workflow
+   - productivity
+   - tools
+---
+
+We’re in this moment where everyone’s trying to figure out what AI means for their work. Some folks are exploring new tools, some are worried about what it might take away. Personally, I’ve found AI to be an enhancement, a way to:
+
+- synthesize my thoughts more quickly
+- automate tedious parts of my workflow
+- free up more time for the kind of thinking and systems design I actually want to do
+
+This [guide by Ethan Mollick](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide) is one I bookmarked for its clarity and practicality. It walks through how to use AI in your day-to-day work *right now* without hype or fearmongering.
+
+🔗 [Read: Using AI Right Now – A Quick Guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
+
+## Reflections
+
+One of the key takeaways from the article is that prompting isn’t a party trick, it’s a skill to develop. The way you frame a question or structure a task can completely change the output you get. That’s been especially true in my own work, where I use AI tools not just to save time, but to think more clearly, draft early versions of tricky documentation, or get unstuck in a coding problem.
+
+Mollick’s breakdown of where AI *doesn’t* add value is also refreshing. It’s not a replacement for domain expertise, and it can’t fix a broken process. But when used thoughtfully, it can act like a teammate, a second brain to bounce ideas off of or prototype something before it’s fully formed.
+
+For me, the goal isn’t to use AI for everything. It’s to use it well, where it makes sense, and where it supports my broader intentions: clarity, creativity, and sustainable systems.
+
+---
+
+*This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().*
