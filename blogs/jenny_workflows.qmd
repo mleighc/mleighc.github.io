@@ -25,6 +25,10 @@ Here are two resources created by Jenny that I revisited after the talk:
 
 What I appreciate most about Jenny Bryan’s work is her commitment to showing her thinking. Whether it’s how she names files or organizes projects, her approach reinforces a broader message: the craft of programming isn’t just about code, it’s about how we work with each other.
 
+Hearing her speak live during the Hangout reminded me how powerful it is to see someone model that ethos in real time. Jenny brings a grounded, candid energy to technical topics that could otherwise feel dry or overwhelming. She shared moments from her own transitions, from academia to software engineering, and it was validating to hear how much she gravitated toward the building and tinkering aspects of her work. I relate to that deeply.
+
+She also talked about visibility and community with a humility that stood out. For someone so recognizable in the Posit ecosystem, she spoke with clarity about knowing who she is and the kind of work she wants to be doing. That’s the kind of career clarity I aspire to, and the kind of example I appreciate as I carve out my own path.
+
 This is something I’ve been reflecting on a lot lately, especially as I learn out loud and try to build systems that can grow with me. These resources reminded me that small decisions (like naming a file or setting up your folders) are not small at all. They shape your future ability to revisit, reuse, and explain your work.
 
 They’re also part of how we show respect: for our teammates, for the community, and for ourselves.
