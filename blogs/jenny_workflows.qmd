@@ -1,0 +1,36 @@
+---
+title: "📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit"
+date: "2025-07-31"
+description: "Reflections on Jenny Bryan’s insights into project workflows, naming conventions, and why the way we build data systems matters just as much as what we build."
+categories:
+   - workflow
+   - organization
+   - career growth
+   - documentation
+---
+
+I recently attended a [Data Science Hangout](https://posit.co/data-science-hangout/jenny-bryan/) hosted by [Posit PBC](https://posit.co/) featuring Jenny Bryan, a familiar name for anyone who’s spent time in the R or Posit (formerly RStudio) communities.
+
+Jenny’s writing and talks have shaped how I think about sustainable data work. It’s not just about making your code run, it’s about setting up systems that are understandable, reusable, and respectful of future-you (or future collaborators).
+
+Here are two resources created by Jenny that I revisited after the talk:
+
+🧶 [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)   
+> This blog post lays out the value of structuring your project folder intentionally rather than relying on scripts alone. It’s a foundational idea for anyone working in R, but the underlying philosophy applies to data work in any language: make your work navigable, portable, and shareable.
+
+🗂️ [Naming things](https://www.youtube.com/watch?v=ES1LTlnpLMk)   
+> This talk is funny, honest, and practical, and it's a reminder that naming is not just a technical act, but a form of communication. Good names reduce mental overhead. Bad names accumulate as silent technical debt.
+
+## Reflections
+
+What I appreciate most about Jenny Bryan’s work is her commitment to showing her thinking. Whether it’s how she names files or organizes projects, her approach reinforces a broader message: the craft of programming isn’t just about code, it’s about how we work with each other.
+
+This is something I’ve been reflecting on a lot lately, especially as I learn out loud and try to build systems that can grow with me. These resources reminded me that small decisions (like naming a file or setting up your folders) are not small at all. They shape your future ability to revisit, reuse, and explain your work.
+
+They’re also part of how we show respect: for our teammates, for the community, and for ourselves.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_project-oriented-workflow-activity-7356745294987808768-A0YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7356745293972807680?collapsed=1" height="686" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-07-31">
+<meta name="description" content="Reflections on Jenny Bryan’s insights into project workflows, naming conventions, and why the way we build data systems matters just as much as what we build.">
 
-<title>bookmarkdive</title>
+<title>📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +25,19 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<link href="./assets/images/m-logo-512x512.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02bf18978f131506f0c5068a1645de42.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../assets/images/m-logo-512x512.png" rel="icon" type="image/png">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-02bf18978f131506f0c5068a1645de42.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -53,35 +53,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PYTTQT5BMZ"></script>
 
 <script type="text/javascript">
@@ -92,47 +63,18 @@ gtag('js', new Date());
 gtag('config', 'G-PYTTQT5BMZ', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/images/m-logo-512x512.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/images/m-logo-512x512.png" alt="" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -141,11 +83,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./bookmarkdive.html" aria-current="page"> 
+    <a class="nav-link" href="../bookmarkdive.html"> 
 <span class="menu-text">BookmarkDive blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item compact">
@@ -166,141 +108,70 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="Y2FyZWVyJTIwZ3Jvd3Ro">career growth</div><div class="category" data-category="Y29tbXVuaWNhdGlvbg==">communication</div><div class="category" data-category="ZGF0YSUyMGFjY2Vzcw==">data access</div><div class="category" data-category="ZGF0YSUyMGFyY2hpdmluZw==">data archiving</div><div class="category" data-category="ZGF0YSUyMHJlc2N1ZQ==">data rescue</div><div class="category" data-category="ZG9jdW1lbnRhdGlvbg==">documentation</div><div class="category" data-category="ZW5naW5lZXJpbmclMjBjdWx0dXJl">engineering culture</div><div class="category" data-category="Z2VuZXJhdGl2ZSUyMGFp">generative ai</div><div class="category" data-category="Z2l0">git</div><div class="category" data-category="b3JnYW5pemF0aW9u">organization</div><div class="category" data-category="cG9ydGZvbGlv">portfolio</div><div class="category" data-category="cHJvZHVjdGl2aXR5">productivity</div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwZGV2ZWxvcG1lbnQ=">professional development</div><div class="category" data-category="cHJvZ3JhbW1lciUyMGhhYml0cw==">programmer habits</div><div class="category" data-category="cmVmbGVjdGlvbg==">reflection</div><div class="category" data-category="dG9vbHM=">tools</div><div class="category" data-category="dmVyc2lvbiUyMGNvbnRyb2w=">version control</div><div class="category" data-category="dmlzaWJpbGl0eQ==">visibility</div><div class="category" data-category="d29ya2Zsb3c=">workflow</div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">workflow</div>
+    <div class="quarto-category">organization</div>
+    <div class="quarto-category">career growth</div>
+    <div class="quarto-category">documentation</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Reflections on Jenny Bryan’s insights into project workflows, naming conventions, and why the way we build data systems matters just as much as what we build.
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 31, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
-<section id="the-bookmarkdive-blog" class="level1">
-<h1><img src="assets/images/bookmarkdive-logo-black-icon.png" width="45"> The BookmarkDive blog</h1>
-<p>A curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.</p>
-<p>Every post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.</p>
-<p>Some entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.</p>
+</header>
 
+
+<p>I recently attended a <a href="https://posit.co/data-science-hangout/jenny-bryan/">Data Science Hangout</a> hosted by <a href="https://posit.co/">Posit PBC</a> featuring Jenny Bryan, a familiar name for anyone who’s spent time in the R or Posit (formerly RStudio) communities.</p>
+<p>Jenny’s writing and talks have shaped how I think about sustainable data work. It’s not just about making your code run, it’s about setting up systems that are understandable, reusable, and respectful of future-you (or future collaborators).</p>
+<p>Here are two resources created by Jenny that I revisited after the talk:</p>
+<p>🧶 <a href="https://www.tidyverse.org/blog/2017/12/workflow-vs-script/">Project-oriented workflow</a><br>
+&gt; This blog post lays out the value of structuring your project folder intentionally rather than relying on scripts alone. It’s a foundational idea for anyone working in R, but the underlying philosophy applies to data work in any language: make your work navigable, portable, and shareable.</p>
+<p>🗂️ <a href="https://www.youtube.com/watch?v=ES1LTlnpLMk">Naming things</a><br>
+&gt; This talk is funny, honest, and practical, and it’s a reminder that naming is not just a technical act, but a form of communication. Good names reduce mental overhead. Bad names accumulate as silent technical debt.</p>
+<section id="reflections" class="level2">
+<h2 class="anchored" data-anchor-id="reflections">Reflections</h2>
+<p>What I appreciate most about Jenny Bryan’s work is her commitment to showing her thinking. Whether it’s how she names files or organizes projects, her approach reinforces a broader message: the craft of programming isn’t just about code, it’s about how we work with each other.</p>
+<p>This is something I’ve been reflecting on a lot lately, especially as I learn out loud and try to build systems that can grow with me. These resources reminded me that small decisions (like naming a file or setting up your folders) are not small at all. They shape your future ability to revisit, reuse, and explain your work.</p>
+<p>They’re also part of how we show respect: for our teammates, for the community, and for ourselves.</p>
+<hr>
+<p>This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation <a href="https://www.linkedin.com/posts/mirandaleigh_project-oriented-workflow-activity-7356745294987808768-A0YA?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg">there</a>.</p>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7356745293972807680?collapsed=1" height="686" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
+</iframe>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Entry
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table table-hover">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Entry</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="cG9ydGZvbGlvJTJDY2FyZWVyJTIwZ3Jvd3RoJTJDdmlzaWJpbGl0eSUyQ2RvY3VtZW50YXRpb24=" data-listing-date-sort="1754020800000" data-listing-file-modified-sort="1753895248226" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="265" data-listing-title-sort="📌 How to Build a Data Analyst Portfolio: Tips for Success" data-listing-filename-sort="portfolios.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/portfolios.html" class="title listing-title">📌 How to Build a Data Analyst Portfolio: Tips for Success</a>
-</td>
-<td>
-<span class="listing-date">Aug 1, 2025</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="d29ya2Zsb3clMkNvcmdhbml6YXRpb24lMkNjYXJlZXIlMjBncm93dGglMkNkb2N1bWVudGF0aW9u" data-listing-date-sort="1753934400000" data-listing-file-modified-sort="1753985570892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="311" data-listing-title-sort="📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit" data-listing-filename-sort="jenny_workflows.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/jenny_workflows.html" class="title listing-title">📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit</a>
-</td>
-<td>
-<span class="listing-date">Jul 31, 2025</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="Z2VuZXJhdGl2ZSUyMGFpJTJDd29ya2Zsb3clMkNwcm9kdWN0aXZpdHklMkN0b29scw==" data-listing-date-sort="1753675200000" data-listing-file-modified-sort="1753714706515" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="282" data-listing-title-sort="📌 Using AI Right Now: A Quick Guide" data-listing-filename-sort="ai_guick_guide.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/ai_guick_guide.html" class="title listing-title">📌 Using AI Right Now: A Quick Guide</a>
-</td>
-<td>
-<span class="listing-date">Jul 28, 2025</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="Y2FyZWVyJTIwZ3Jvd3RoJTJDcmVmbGVjdGlvbiUyQ3Byb2Zlc3Npb25hbCUyMGRldmVsb3BtZW50" data-listing-date-sort="1753243200000" data-listing-file-modified-sort="1753288666125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="291" data-listing-title-sort="📌 10 Things to Unlearn to Truly Grow in Your Career" data-listing-filename-sort="unlearning.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/unlearning.html" class="title listing-title">📌 10 Things to Unlearn to Truly Grow in Your Career</a>
-</td>
-<td>
-<span class="listing-date">Jul 23, 2025</span>
-</td>
-</tr>
-<tr data-index="4" data-categories="Z2l0JTJDdmVyc2lvbiUyMGNvbnRyb2wlMkN3b3JrZmxvdyUyQ3Rvb2xz" data-listing-date-sort="1752638400000" data-listing-file-modified-sort="1752862155725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206" data-listing-title-sort="📌 Git Stash for Newbies" data-listing-filename-sort="git_stash.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/git_stash.html" class="title listing-title">📌 Git Stash for Newbies</a>
-</td>
-<td>
-<span class="listing-date">Jul 16, 2025</span>
-</td>
-</tr>
-<tr data-index="5" data-categories="ZGF0YSUyMGFyY2hpdmluZyUyQ3Rvb2xzJTJDZGF0YSUyMGFjY2VzcyUyQ2RhdGElMjByZXNjdWU=" data-listing-date-sort="1752033600000" data-listing-file-modified-sort="1752862157827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="📌 The Data Rescue Project" data-listing-filename-sort="data_rescue.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/data_rescue.html" class="title listing-title">📌 The Data Rescue Project</a>
-</td>
-<td>
-<span class="listing-date">Jul 9, 2025</span>
-</td>
-</tr>
-<tr data-index="6" data-categories="ZG9jdW1lbnRhdGlvbiUyQ3dvcmtmbG93JTJDY29tbXVuaWNhdGlvbiUyQ3Byb2R1Y3Rpdml0eQ==" data-listing-date-sort="1751428800000" data-listing-file-modified-sort="1752862157124" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251" data-listing-title-sort="📌 How to Document Everything at Work (Without Being Asked)" data-listing-filename-sort="document_everything.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/document_everything.html" class="title listing-title">📌 How to Document Everything at Work (Without Being Asked)</a>
-</td>
-<td>
-<span class="listing-date">Jul 2, 2025</span>
-</td>
-</tr>
-<tr data-index="7" data-categories="ZW5naW5lZXJpbmclMjBjdWx0dXJlJTJDcmVmbGVjdGlvbiUyQ2NvbW11bmljYXRpb24lMkNwcm9ncmFtbWVyJTIwaGFiaXRzJTJDY2FyZWVyJTIwZ3Jvd3Ro" data-listing-date-sort="1750824000000" data-listing-file-modified-sort="1752867514705" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162" data-listing-title-sort="📌 The Best Programmers I Know" data-listing-filename-sort="best_programmers.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<a href="./blogs/best_programmers.html" class="title listing-title">📌 The Best Programmers I Know</a>
-</td>
-<td>
-<span class="listing-date">Jun 25, 2025</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -730,7 +601,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
  © 2025 Miranda L. Cooper
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./LICENSE">
+    <a class="nav-link" href="../LICENSE">
 <p>Apache License 2.0</p>
 </a>
   </li>  

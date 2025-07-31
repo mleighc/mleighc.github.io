@@ -1,0 +1,33 @@
+---
+title: "📌 How to Build a Data Analyst Portfolio: Tips for Success"
+date: "2025-08-01"
+description: "Reflections on Coursera’s simple but grounding guide to making your work visible."
+categories:
+   - portfolio
+   - career growth
+   - visibility
+   - documentation
+---
+
+I saved this article as I started thinking more seriously about how to not just build skills, but actually show the work I’m doing. That doesn’t come naturally to me. I’ve always been more comfortable behind the scenes: building systems, cleaning messy data, connecting dots. Not so much broadcasting the results.
+
+But the more I grow in my career, the more I realize how important visibility is. Especially in data, where most of the work is invisible unless you choose to surface it.
+
+This guide from Coursera is geared toward early-career analysts, but a few reminders really landed for me:
+- Your portfolio doesn’t need to be fancy — just clear and intentional
+- Context matters more than polish
+- It can track what you’re learning, not just what you’ve mastered
+- It’s not only for job searching — it’s a form of reflection
+
+🔗 [Read: How to Build a Data Analyst Portfolio](https://www.coursera.org/articles/how-to-build-a-data-analyst-portfolio)
+
+## Reflections
+
+This piece gave me permission to loosen up a bit, to treat my portfolio less like a high-stakes project and more like documentation. Not just for hiring managers, but for myself. A living space to track how I think, what I’m building, and how I’m evolving.
+
+I’m still figuring out what that looks like in practice. But reframing it as a form of self-documentation, not self-promotion, is helping. Im creating a quiet archive of growth, that might just be useful to someone else down the line too. Check out where I'm at so far in my journey to document my work experience and learning process: [https://mleighc.github.io/projects.html](https://mleighc.github.io/projects.html).
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().
+
