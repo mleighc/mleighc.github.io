@@ -14,10 +14,11 @@ I saved this article as I started thinking more seriously about how to not just 
 But the more I grow in my career, the more I realize how important visibility is. Especially in data, where most of the work is invisible unless you choose to surface it.
 
 This guide from Coursera is geared toward early-career analysts, but a few reminders really landed for me:
-- Your portfolio doesn’t need to be fancy — just clear and intentional
+
+- Your portfolio doesn’t need to be fancy, just clear and intentional
 - Context matters more than polish
 - It can track what you’re learning, not just what you’ve mastered
-- It’s not only for job searching — it’s a form of reflection
+- It’s not only for job searching, it’s a form of reflection
 
 🔗 [Read: How to Build a Data Analyst Portfolio](https://www.coursera.org/articles/how-to-build-a-data-analyst-portfolio)
 
@@ -25,9 +26,12 @@ This guide from Coursera is geared toward early-career analysts, but a few remin
 
 This piece gave me permission to loosen up a bit, to treat my portfolio less like a high-stakes project and more like documentation. Not just for hiring managers, but for myself. A living space to track how I think, what I’m building, and how I’m evolving.
 
-I’m still figuring out what that looks like in practice. But reframing it as a form of self-documentation, not self-promotion, is helping. Im creating a quiet archive of growth, that might just be useful to someone else down the line too. Check out where I'm at so far in my journey to document my work experience and learning process: [https://mleighc.github.io/projects.html](https://mleighc.github.io/projects.html).
+I’m still figuring out what that looks like in practice. But reframing it as a form of self-documentation, not self-promotion, is helping. Im creating a quiet archive of growth, that might just be useful to someone else down the line too. Check out the [Projects](https://mleighc.github.io/projects.html) page of this site to see where I'm at so far in my journey to document my work experience and learning process.
+
+And I’m starting to shape these reflections into something more structured, a beginner-friendly guide called "**Zero to Quarto in 14 Days**" for anyone who’s been stuck at “I should really make a portfolio” and wants to get one live on GitHub in just a couple weeks with some straightforward guides to help navigate the process. I’ll share it on the [Learn with Meg](https://mleighc.github.io/learn.html) page once it’s ready.
 
 ---
 
-This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_how-to-build-a-data-analyst-portfolio-tips-activity-7357058634079477760-twgg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7357058631122460673?collapsed=1" height="514" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
