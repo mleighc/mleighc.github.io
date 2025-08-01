@@ -13,10 +13,10 @@ website:
   navbar:
     logo: assets/images/m-logo-512x512.png
     right:
-      - href: learn.qmd
-        text: Learn with Me
       - href: bookmarkdive.qmd
         text: BookmarkDive blog
+      - href: learn.qmd
+        text: Learn with Me
       - href: projects.qmd
         text: Projects
       - icon: github
