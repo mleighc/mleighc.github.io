@@ -1,0 +1,13 @@
+---
+title: "Learn with Me"
+---
+
+This will soon be the home for my self-paced guides, starter kits, and creative tools, designed to help data professionals build confidence, showcase their work, and grow in public (without the overwhelm).
+
+### Coming soon:  
+**🛠️ Zero to Quarto in 14 Days**  
+A beginner-friendly starter kit to help you build and publish your own Quarto portfolio website, step by step, no perfection required.
+
+I'll be sharing more soon. In the meantime, feel free to [follow me on LinkedIn](https://www.linkedin.com/in/mirandaleigh/).
+
+Thanks for being here 💛

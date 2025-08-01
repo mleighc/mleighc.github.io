@@ -27,7 +27,6 @@ about:
       - icon: info-circle
         text: ask deepwiki
         href: https://deepwiki.com/mleighc/mleighc.github.io
-
 ---
 
 I am a **data analyst** and **systems builder** who got into tech after several years in nonprofit fundraising operations, where I spent a lot of time managing messy spreadsheets and trying to make broken processes work. Eventually, I realized what I really wanted was to fix the system itself, not just clean up after it.    

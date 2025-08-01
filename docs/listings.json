@@ -1,18 +1,5 @@
 [
   {
-    "listing": "/bookmarkdive.html",
-    "items": [
-      "/blogs/portfolios.html",
-      "/blogs/jenny_workflows.html",
-      "/blogs/ai_guick_guide.html",
-      "/blogs/unlearning.html",
-      "/blogs/git_stash.html",
-      "/blogs/data_rescue.html",
-      "/blogs/document_everything.html",
-      "/blogs/best_programmers.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/chicken_soup.html",
@@ -27,6 +14,19 @@
       "/projects/smpl_sheets.html",
       "/projects/womens_web.html",
       "/projects/madrc_package.html"
+    ]
+  },
+  {
+    "listing": "/bookmarkdive.html",
+    "items": [
+      "/blogs/portfolios.html",
+      "/blogs/jenny_workflows.html",
+      "/blogs/ai_guick_guide.html",
+      "/blogs/unlearning.html",
+      "/blogs/git_stash.html",
+      "/blogs/data_rescue.html",
+      "/blogs/document_everything.html",
+      "/blogs/best_programmers.html"
     ]
   }
 ]
