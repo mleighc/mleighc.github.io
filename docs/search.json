@@ -168,6 +168,20 @@
     "text": "Reflections\nOne of the key takeaways from the article is that prompting isn’t a party trick, it’s a skill to develop. The way you frame a question or structure a task can completely change the output you get. That’s been especially true in my own work, where I use AI tools not just to save time, but to think more clearly, draft early versions of tricky documentation, or get unstuck in a coding problem.\nMollick’s breakdown of where AI doesn’t add value is also refreshing. It’s not a replacement for domain expertise, and it can’t fix a broken process. But when used thoughtfully, it can act like a teammate, a second brain to bounce ideas off of or prototype something before it’s fully formed.\nFor me, the goal isn’t to use AI for everything. It’s to use it well, where it makes sense, and where it supports my broader intentions: clarity, creativity, and sustainable systems.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
+    "objectID": "blogs/drafts/r_packages.html",
+    "href": "blogs/drafts/r_packages.html",
+    "title": "📌 Awesome R Package Development Tools",
+    "section": "",
+    "text": "I bookmarked this resource a long time ago, back when I first started wondering what it would take to package up the internal functions we use at MADC. Still feels aspirational, but this collection makes the idea feel more within reach.\nAwesome R Package Development Tools"
+  },
+  {
+    "objectID": "blogs/drafts/r_packages.html#reflections",
+    "href": "blogs/drafts/r_packages.html#reflections",
+    "title": "📌 Awesome R Package Development Tools",
+    "section": "Reflections",
+    "text": "Reflections\nI’ve been sitting on a rough package skeleton for a while now, a small GitLab repo where I’ve dropped some of the utility functions I use daily to pull, transform, and archive research data. It’s nowhere near CRAN-ready (and probably never will be), but I’ve had this quiet goal of turning it into something more organized and shareable for our team.\nThis collection has been one of those “someday” bookmarks, something I knew I’d want to return to when I was ready to level up from scripts to something more structured. Revisiting it now, I’m struck by how much it covers and how thoughtfully it’s laid out.\nA few tools and ideas that stood out:\n\n{usethis}: For clean scaffolding, standardized structure, and quick project setup. It takes a lot of friction out of the early stages.\n{testthat}: Encourages building small, reusable functions and testing as you go — a habit I’m still building.\n{pkgdown}: Instantly makes documentation more accessible (especially helpful if this ever becomes an internal shared tool).\n{fledge}: Automates changelogs and semantic versioning, which becomes more important once other people start using your code.\nGitHub Actions: A full section on CI/CD workflows that demystifies automated testing, builds, and releases.\n\nIt doesn’t assume you’re already a seasoned package developer. There’s something grounding about how it walks through not just the tools, but the philosophy and reasoning behind each one.\nEven though I’m not shipping anything yet, this gave me a refreshed perspective on what “clean, shareable code” can look like, and how to build it up gradually instead of all at once.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
     "objectID": "blogs/portfolios.html",
     "href": "blogs/portfolios.html",
     "title": "📌 How to Build a Data Analyst Portfolio: Tips for Success",
@@ -194,6 +208,20 @@
     "title": "📌 Git Stash for Newbies",
     "section": "Reflections",
     "text": "Reflections\nThis was one of those moments where a simple tool finally clicked because someone explained it in plain language. For someone like me, who often juggles work-in-progress code, quick bugfixes, and experiments, git stash has become a surprisingly helpful part of my toolkit.\nWhat struck me most is how this concept ties back to broader ideas in data and code management, how we hold space for unfinished work, how we reduce the cognitive burden of switching tasks, and how good tools support thoughtful pacing.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
+    "objectID": "blogs/drafts/internet_archive.html",
+    "href": "blogs/drafts/internet_archive.html",
+    "title": "📌 Internet Archive: The Dataset Collection",
+    "section": "",
+    "text": "I came across the Internet Archive’s Datasets Collection again recently while cleaning out my bookmarks and was reminded why I saved it in the first place.\nIt’s a massive, searchable repository of open datasets, everything from historical records and media metadata to large-scale web scrapes and image dumps. Some are polished and well-documented. Others are raw, messy, and idiosyncratic. But taken together, they offer a uniquely real-world glimpse into the kinds of data challenges you won’t always find in curated public repositories.\nA few ways I imagine (or have already started) putting this to use:\nEven if you don’t need anything from it today, it’s a good one to keep in your back pocket. Or just explore. Some of the uploads are unexpected, oddly delightful, or historically fascinating."
+  },
+  {
+    "objectID": "blogs/drafts/internet_archive.html#reflections",
+    "href": "blogs/drafts/internet_archive.html#reflections",
+    "title": "📌 Internet Archive: The Dataset Collection",
+    "section": "Reflections",
+    "text": "Reflections\nThis one doesn’t spark deep technical reflection so much as it grounds me in the bigger ecosystem of open data work. Not everything worth learning from comes from Kaggle or a polished API.\nThere’s value in getting familiar with weird formats. In downloading something that isn’t perfectly documented. In practicing the kind of judgment and troubleshooting that real-world work requires.\nIt’s a good reminder that open data isn’t always clean, and that’s where some of the best learning happens.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "blogs/data_rescue.html",
@@ -347,6 +375,6 @@
     "href": "bookmarkdive.html",
     "title": " The BookmarkDive blog",
     "section": "",
-    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 How to Build a Data Analyst Portfolio: Tips for Success\n\n\nAug 1, 2025\n\n\n\n\n📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit\n\n\nJul 31, 2025\n\n\n\n\n📌 Using AI Right Now: A Quick Guide\n\n\nJul 28, 2025\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 Awesome R Package Development Tools\n\n\n \n\n\n\n\n📌 Internet Archive: The Dataset Collection\n\n\nAug 8, 2025\n\n\n\n\n📌 How to Build a Data Analyst Portfolio: Tips for Success\n\n\nAug 1, 2025\n\n\n\n\n📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit\n\n\nJul 31, 2025\n\n\n\n\n📌 Using AI Right Now: A Quick Guide\n\n\nJul 28, 2025\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]
