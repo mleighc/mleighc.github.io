@@ -1,0 +1,33 @@
+---
+title: "📌 Deepwiki"
+date: "2025-08-11"
+description: "A surprisingly insightful tool for auto-generating high-level wiki-style documentation for any public GitHub repo. Great for clarifying your own projects or exploring others."
+categories:
+   - system architecture
+   - wiki
+   - github
+---
+
+Not totally sure where I first stumbled across this one, but it’s a tool I’ve bookmarked and revisited more than once, especially as I’ve been cleaning up and refining some of my own repos.
+
+📌 [Deepwiki](https://deepwiki.com/)
+
+> Auto-generates a structured wiki-style summary for any public GitHub repo, think dependencies, architecture, key components, and usage insights.
+
+## Reflections
+
+What stood out to me about Deepwiki is how much context it manages to surface from a repo without you having to dig through every file. I’ve run it on a few of my own personal projects recently and was genuinely impressed by how clearly it summarized the intent, layout, and dependencies in a way that made me rethink how I structure READMEs.
+
+It’s helpful for:
+
+- Auditing your own repos, making sure structure, naming, and purpose are legible to others.
+- Learning from unfamiliar codebases, seeing how other tools are organized before diving into the weeds.
+- Just exploring: their homepage is full of commonly-used open-source projects (like [VS Code](https://deepwiki.com/microsoft/vscode)) that are fun to browse through from a systems-thinking perspective.
+
+I’ve started using Deepwiki as a bit of a litmus test: does my repo make sense at a glance? Would someone new to the project understand what they’re looking at? And if not, what small tweaks would improve it?
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_deepwiki-ai-documentation-you-can-talk-activity-7360697608064950273-7jZT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7360697606232072192?collapsed=1" height="549" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
