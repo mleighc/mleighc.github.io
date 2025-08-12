@@ -15,10 +15,12 @@ Jenny’s writing and talks have shaped how I think about sustainable data work.
 
 Here are two resources created by Jenny that I revisited after the talk:
 
-🧶 [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)   
+🧶 [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)
+
 > This blog post lays out the value of structuring your project folder intentionally rather than relying on scripts alone. It’s a foundational idea for anyone working in R, but the underlying philosophy applies to data work in any language: make your work navigable, portable, and shareable.
 
-🗂️ [Naming things](https://www.youtube.com/watch?v=ES1LTlnpLMk)   
+🗂️ [Naming things](https://www.youtube.com/watch?v=ES1LTlnpLMk)
+
 > This talk is funny, honest, and practical, and it's a reminder that naming is not just a technical act, but a form of communication. Good names reduce mental overhead. Bad names accumulate as silent technical debt.
 
 ## Reflections
