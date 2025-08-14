@@ -29,5 +29,6 @@ I’ve been slowly building up my own library of snippets, templates, and patter
 
 ---
 
-This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_github-mcanouilawesome-quarto-a-curated-activity-7361829039281446913-9JWa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7361829038602027009?collapsed=1" height="554" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
