@@ -1,0 +1,33 @@
+---
+title: "📌 Awesome Quarto"
+date: "2025-08-14"
+description: "A curated collection of Quarto templates, extensions, and example projects, revisited now that Quarto is part of my regular workflow for both personal and team-facing documentation."
+categories:
+   - quarto
+   - technical writing
+   - documentation
+---
+
+Now that I’ve been using Quarto more regularly, both for my own portfolio and for my team’s open science site, I wanted to come back to this resource I saved early on but never really dug into until now.
+
+📌 [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
+
+> A curated list of templates, extensions, showcase sites, and documentation examples for the Quarto ecosystem.
+
+## Reflections
+
+When I first bookmarked this, Quarto still felt like a shiny new toy I hadn’t quite made space for. I skimmed it, bookmarked it, and figured I’d circle back eventually. Now that it’s become part of my real workflow, especially for publishing documentation and building out multi-page sites, I’m seeing this collection in a whole new light.
+
+There’s a lot here, but a few areas I’m especially interested in as I keep building:
+
+- **Multi-page layouts** that feel clean and navigable (especially for guides and internal documentation)
+- **Publishing workflows**, what people are automating, and how they’re doing it
+- **Embedded visualizations** and examples that go beyond static charts
+- How folks are structuring content for **collaboration and reuse**, something I’m thinking a lot about as I try to make my scripts and documents more legible to teammates
+
+I’ve been slowly building up my own library of snippets, templates, and patterns, and this repo is a good reminder that I don’t have to start from scratch, there’s already a growing community of folks figuring this out together.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there]().
+
