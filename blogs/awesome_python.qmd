@@ -1,0 +1,34 @@
+---
+title: "📌 Awesome Python"
+date: "2025-08-25"
+description: "A massive, well-organized catalog of Python libraries, useful both for expanding your toolset and orienting yourself in the broader ecosystem."
+categories:
+   - python
+   - developer tools
+   - reference
+   - resources
+---
+
+This is one of those classic GitHub resources I bookmarked a long time ago but only recently gave a proper look. I’ve been in the process of refining which tools I actually want in my workflow, and this list has been a great companion for that.
+
+📌 [Awesome Python](https://github.com/vinta/awesome-python)
+
+> A curated list of Python libraries and tools, organized by use case, from data science and web frameworks to testing, CLI apps, and DevOps.
+
+## Reflections
+
+What I appreciate about this list is how easy it makes it to **scan the landscape** without falling into a documentation spiral. When you're trying to compare tools or see what's out there beyond the defaults, it's incredibly useful to have a high-level reference like this.
+
+Why I keep coming back to it:
+
+- It’s **organized by category**, so you can zero in on what you’re actually trying to do (APIs, file handling, dashboards, testing, etc.). I think this helps a bit with the "drinking from a firehose feeling".
+- It surfaces **lesser-known but powerful libraries** that don’t always show up in Google or StackOverflow searches.
+- It’s a solid reminder of **how wide the Python ecosystem really is**, and how much already exists, especially when you’re tempted to write something from scratch.
+
+I plan to start looking back at this more frequently as I clean up my own Python stack, deciding what’s core, what’s project-specific, and what’s just good to know exists when the right use case comes up.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_github-vintaawesome-python-an-opinionated-activity-7365771029052305411-WLFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7365771028213415940?collapsed=1" height="588" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

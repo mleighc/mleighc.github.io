@@ -1,0 +1,37 @@
+---
+title: "📌 Setting up a FAIR and reproducible project"
+date: "2025-08-29"
+description: "A concise, flexible guide to structuring data projects for collaboration and reproducibility, balancing technical best practices with human-centered clarity."
+categories:
+   - reproducibility
+   - project setup
+   - collaboration
+   - documentation
+---
+
+I came across this one through the excellent [RDM Weekly](https://rdmweekly.substack.com/about) newsletter curated by Crystal Lewis and bookmarked it right away. It’s a quick, practical read on how to structure a project for clarity, collaboration, and long-term usability, all core to good research data management.
+
+📌 [Setting up a FAIR and reproducible project](https://heidiseibold.com/2024/03/08/setting-up-a-fair-and-reproducible-project.html)
+
+> A focused guide by Heidi Seibold on structuring research projects with FAIR (Findable, Accessible, Interoperable, Reusable) principles in mind.
+
+## Reflections
+
+What stood out to me was how well this guide **balances structure with flexibility**. It’s not about rigid templates, it’s about building habits that make your work legible to others (and to your future self). The suggestions are approachable, practical, and easy to adapt across tools and teams.
+
+A few highlights:
+
+- Clear, simple folder and file naming conventions that lower the barrier to entry.
+- Emphasis on project-level READMEs and contributor guides to make intent and roles transparent.
+- Encouragement to keep things **tool-agnostic** and lightweight when possible, use formats and workflows that reduce dependency headaches.
+- A reminder that **reproducibility isn’t just technical**, it’s about documentation, clarity, and making your work usable by people who weren’t there when it was built.
+
+This post aligns really closely with how I’ve been thinking about data work in collaborative research environments, where multiple people might touch the same pipeline (sometimes months apart). It’s also nudged me to revisit my own project templates and fill in some of the gaps I’ve been meaning to address.
+
+Definitely one I’ll return to as I keep refining what “good infrastructure” looks like in my own work.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_setting-up-a-fair-and-reproducible-project-activity-7367205491061489665-lPtS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7367205488138051587?collapsed=1" height="719" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

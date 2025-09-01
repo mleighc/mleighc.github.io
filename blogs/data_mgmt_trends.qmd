@@ -1,0 +1,33 @@
+---
+title: "📌 9 Trends Shaping the Future of Data Management in 2025"
+date: "2025-08-22"
+description: "A forward-looking take on where data infrastructure is headed, from observability to governance to platform thinking, and how those ideas are already showing up in my own work."
+categories:
+   - data infrastructure
+   - data strategy
+   - governance
+---
+
+I saved this post to get a broader view of where data management is heading, especially as more teams shift away from patchwork tools and toward cohesive, platform-style systems. Now that I'm deeper into building data infrastructure myself, it felt like the right time to circle back.
+
+📌 [6 Data Management Trends to Watch in 2025](https://www.montecarlodata.com/blog-data-management-trends)
+
+> A trends forecast from Monte Carlo on how data teams are evolving and what’s gaining traction across the industry.
+
+## Reflections
+
+What stood out to me wasn’t just the trends themselves, but how much of the framing echoed ideas I’ve been trying to bake into my own work, even if I wouldn’t have used the same language at the time.
+
+A few things that stuck:
+
+- **Data observability** is getting more sophisticated: it’s not just about detecting issues, but being able to trace them back to their source with confidence. That resonates with the kind of audit trails and validation steps I’ve been trying to build into our systems.
+- **Platform thinking** is on the rise: teams are moving away from isolated dashboards or tools and toward end-to-end coordination. That aligns with how I’ve been approaching our internal research systems: not as one-off solutions, but as interconnected parts of a broader flow.
+- The shift in **data governance** conversations: from rigid gatekeeping to embedded structure that supports collaboration. That one felt particularly relevant. We’re still figuring this out in practice, but I like the reframing: governance not as a blocker, but as scaffolding.
+
+Even though the article is targeted at large-scale teams and enterprise systems, there’s a lot that still applies when you're a smaller team trying to build with longevity and clarity in mind.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_9-trends-shaping-the-future-of-data-management-activity-7364683869914075136-XT47?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7364683867095531520?collapsed=1" height="654" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
