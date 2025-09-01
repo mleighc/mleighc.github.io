@@ -1,0 +1,36 @@
+---
+title: "📌 So you’ve got a dataset, here’s how you clean it!"
+date: "2025-08-18"
+description: "A practical, language-agnostic overview of data cleaning steps, useful not for its tooling, but for the clarity of thinking behind it."
+categories:
+   - data cleaning
+   - data practices
+   - workflow
+   - reusability
+---
+
+Came across this article again while skimming through my old bookmarks. I remembered liking it the first time around for how grounded and practical it was — and it still holds up.
+
+📌 [So You’ve Got a Dataset. Here’s How You Clean It.](https://towardsdatascience.com/so-youve-got-a-dataset-here-s-how-you-clean-it-5d0b04a2ed86)
+
+> A step-by-step mindset for approaching data cleaning, by Ang Li-Lian.
+
+## Reflections
+
+What I appreciate about this piece is that it’s not tied to a specific tool or language. You could apply the exact same process in R, Python, SQL, or Excel, the core ideas are all about intentional, structured thinking.
+
+Some solid reminders:
+
+- Start by actually looking at your dataset. Dimensions, types, nulls, duplicates, don’t skip the orientation.
+- Don’t treat missing data like an afterthought. Handle it with intention based on context.
+- Encode categorical variables early and deliberately. It’ll save you pain later.
+- Check your assumptions with basic summaries, sometimes the weirdness is obvious if you pause to look.
+- Modularize your cleaning steps. If you build them clearly, you can reuse them across projects.
+
+It’s not fancy, but that’s the point. There’s something satisfying about a clean, thoughtful approach that isn’t trying to be clever, just effective. I’ve found this kind of steady rhythm in cleaning always pays off, especially when I come back to a dataset weeks or months later and can still follow my own trail.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_so-youve-got-a-dataset-heres-how-you-clean-activity-7363234324986368000-LaM3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7363234324013371392?collapsed=1" height="671" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
