@@ -126,6 +126,20 @@
     "text": "Project Overview\nCompleted in the final capstone course for the Master of Science in Information, this project explores the relationship between education, demographics, and earnings, focusing on addressing questions about the stagnation of wages in the U.S. despite rising productivity. Initially aiming to investigate productivity growth, the project pivoted to examining the impact of education and demographics on earnings after realizing the complexity of the economics involved. The team built a public-facing dashboard to convey findings in an accessible and understandable way for the general public. The dashboard focuses on comparing wages based on education, gender, and race, while also exploring the potential impact of advanced degrees on underemployment.\n\n\nKey Accomplishments\n\nData Collection and Preprocessing:\n\nCollected data from the U.S. Bureau of Labor Statistics’ Current Population Survey (CPS), which contains responses from over 270,000 individuals annually.\nFiltered the data to focus on full-time workers aged 18 and older, adjusting earnings for inflation to 2022 dollars for consistency across years.\n\nDashboard Development:\n\nDeveloped an interactive dashboard using Streamlit, allowing users to explore how education and demographic factors affect wages over time.\nCreated visualizations in Altair to represent wage disparities across gender, race, and education levels.\n\nFocused Analysis:\n\nConducted an analysis of the gender wage gap and its relationship to educational attainment, highlighting persistent disparities in earnings between men and women, particularly for women of color.\nExamined the earning potential of different education levels, demonstrating how higher education can influence wage growth.\n\nEducational Impact:\n\nProvided insights on how educational attainment can reduce the chances of underemployment, and how union membership interacts with education to affect earnings.\n\nTarget Audience and Accessibility:\n\nDesigned the dashboard to cater to young professionals and students, particularly those considering further education, providing accessible data and visualizations to inform career and educational decisions.\n\n\n View the deployed site\n View the source code\n\n\n\n\n Back to top"
   },
   {
+    "objectID": "blogs/data_mgmt_trends.html",
+    "href": "blogs/data_mgmt_trends.html",
+    "title": "📌 9 Trends Shaping the Future of Data Management in 2025",
+    "section": "",
+    "text": "I saved this post to get a broader view of where data management is heading, especially as more teams shift away from patchwork tools and toward cohesive, platform-style systems. Now that I’m deeper into building data infrastructure myself, it felt like the right time to circle back.\n📌 6 Data Management Trends to Watch in 2025"
+  },
+  {
+    "objectID": "blogs/data_mgmt_trends.html#reflections",
+    "href": "blogs/data_mgmt_trends.html#reflections",
+    "title": "📌 9 Trends Shaping the Future of Data Management in 2025",
+    "section": "Reflections",
+    "text": "Reflections\nWhat stood out to me wasn’t just the trends themselves, but how much of the framing echoed ideas I’ve been trying to bake into my own work, even if I wouldn’t have used the same language at the time.\nA few things that stuck:\n\nData observability is getting more sophisticated: it’s not just about detecting issues, but being able to trace them back to their source with confidence. That resonates with the kind of audit trails and validation steps I’ve been trying to build into our systems.\nPlatform thinking is on the rise: teams are moving away from isolated dashboards or tools and toward end-to-end coordination. That aligns with how I’ve been approaching our internal research systems: not as one-off solutions, but as interconnected parts of a broader flow.\nThe shift in data governance conversations: from rigid gatekeeping to embedded structure that supports collaboration. That one felt particularly relevant. We’re still figuring this out in practice, but I like the reframing: governance not as a blocker, but as scaffolding.\n\nEven though the article is targeted at large-scale teams and enterprise systems, there’s a lot that still applies when you’re a smaller team trying to build with longevity and clarity in mind.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
     "objectID": "blogs/unlearning.html",
     "href": "blogs/unlearning.html",
     "title": "📌 10 Things to Unlearn to Truly Grow in Your Career",
@@ -140,46 +154,60 @@
     "text": "Reflections\nThis idea echoes something I’ve been thinking and writing about a lot lately: what it means to learn out loud. When we share our process, our questions, and even our uncertainty, we make it easier to move forward, and we signal to others that growth is a shared, ongoing practice.\nIt’s something I noticed in The Best Programmers I Know, too. The programmers and data analysts I admire most aren’t the ones who know everything, they’re the ones who keep learning in public, write things down, and create scaffolding for others. That’s the kind of professional I want to be.\nUnlearning perfectionism, self-effacement, and fear of being “too much” has changed how I show up in 1:1s, feedback sessions, peer reviews, and writing documentation. It’s helped me clarify my thinking, advocate for my growth, and contribute more meaningfully to the systems I work in.\nAnd that, I think, is what this piece gets so right: career growth doesn’t come from pretending to have it all figured out, rather it comes from making space to grow, out loud.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/document_everything.html",
-    "href": "blogs/document_everything.html",
-    "title": "📌 How to Document Everything at Work (Without Being Asked)",
+    "objectID": "blogs/awesome_python.html",
+    "href": "blogs/awesome_python.html",
+    "title": "📌 Awesome Python",
     "section": "",
-    "text": "I’m circling back to this Fairygodboss post that I saved several weeks back because it captures something most guides miss. The Smart Way to Document Everything at Work is one of those rare resources that applies equally well whether you’re in a technical or non-technical role.\nIt breaks down the why, when, and how of workplace documentation in a way that’s clear and non-preachy. There’s guidance on choosing the right format, understanding your audience, and avoiding the trap of writing for the sake of writing. It also validates the emotional labor that can come with documenting things that “should already be obvious.” But the biggest factor for me is how much it can reinforce your ability to self-advocate and understand your worth.\n🔗 Read “The Smart Way to Document Everything at Work”"
+    "text": "This is one of those classic GitHub resources I bookmarked a long time ago but only recently gave a proper look. I’ve been in the process of refining which tools I actually want in my workflow, and this list has been a great companion for that.\n📌 Awesome Python"
   },
   {
-    "objectID": "blogs/document_everything.html#reflections",
-    "href": "blogs/document_everything.html#reflections",
-    "title": "📌 How to Document Everything at Work (Without Being Asked)",
+    "objectID": "blogs/awesome_python.html#reflections",
+    "href": "blogs/awesome_python.html#reflections",
+    "title": "📌 Awesome Python",
     "section": "Reflections",
-    "text": "Reflections\nI think a lot about systems, how we build them, how we explain them, how we hand them off. Documentation is one of the most under-appreciated parts of that cycle. For me, it’s a chance to clarify my own thinking and build scaffolding for the people who come after me, and even future me when I return to a project months or years down the road.\nThis post reminded me that good documentation isn’t just about saving time. It’s about respect. It’s about reducing invisible friction. And sometimes, it’s about protecting the integrity of a system long after you’ve stepped away.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nWhat I appreciate about this list is how easy it makes it to scan the landscape without falling into a documentation spiral. When you’re trying to compare tools or see what’s out there beyond the defaults, it’s incredibly useful to have a high-level reference like this.\nWhy I keep coming back to it:\n\nIt’s organized by category, so you can zero in on what you’re actually trying to do (APIs, file handling, dashboards, testing, etc.). I think this helps a bit with the “drinking from a firehose feeling”.\nIt surfaces lesser-known but powerful libraries that don’t always show up in Google or StackOverflow searches.\nIt’s a solid reminder of how wide the Python ecosystem really is, and how much already exists, especially when you’re tempted to write something from scratch.\n\nI plan to start looking back at this more frequently as I clean up my own Python stack, deciding what’s core, what’s project-specific, and what’s just good to know exists when the right use case comes up.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/ai_guick_guide.html",
-    "href": "blogs/ai_guick_guide.html",
-    "title": "📌 Using AI Right Now: A Quick Guide",
+    "objectID": "blogs/jenny_workflows.html",
+    "href": "blogs/jenny_workflows.html",
+    "title": "📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit",
     "section": "",
-    "text": "We’re in this moment where everyone’s trying to figure out what AI means for their work. Some folks are exploring new tools, some are worried about what it might take away. Personally, I’ve found AI to be an enhancement, a way to:\nThis guide by Ethan Mollick is one I bookmarked for its clarity and practicality. It walks through how to use AI in your day-to-day work right now without hype or fearmongering.\n🔗 Read: Using AI Right Now – A Quick Guide"
+    "text": "I recently attended a Data Science Hangout hosted by Posit PBC featuring Jenny Bryan, a familiar name for anyone who’s spent time in the R or Posit (formerly RStudio) communities.\nJenny’s writing and talks have shaped how I think about sustainable data work. It’s not just about making your code run, it’s about setting up systems that are understandable, reusable, and respectful of future-you (or future collaborators).\nHere are two resources created by Jenny that I revisited after the talk:\n🧶 Project-oriented workflow\n🗂️ Naming things"
   },
   {
-    "objectID": "blogs/ai_guick_guide.html#reflections",
-    "href": "blogs/ai_guick_guide.html#reflections",
-    "title": "📌 Using AI Right Now: A Quick Guide",
+    "objectID": "blogs/jenny_workflows.html#reflections",
+    "href": "blogs/jenny_workflows.html#reflections",
+    "title": "📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit",
     "section": "Reflections",
-    "text": "Reflections\nOne of the key takeaways from the article is that prompting isn’t a party trick, it’s a skill to develop. The way you frame a question or structure a task can completely change the output you get. That’s been especially true in my own work, where I use AI tools not just to save time, but to think more clearly, draft early versions of tricky documentation, or get unstuck in a coding problem.\nMollick’s breakdown of where AI doesn’t add value is also refreshing. It’s not a replacement for domain expertise, and it can’t fix a broken process. But when used thoughtfully, it can act like a teammate, a second brain to bounce ideas off of or prototype something before it’s fully formed.\nFor me, the goal isn’t to use AI for everything. It’s to use it well, where it makes sense, and where it supports my broader intentions: clarity, creativity, and sustainable systems.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nWhat I appreciate most about Jenny Bryan’s work is her commitment to showing her thinking. Whether it’s how she names files or organizes projects, her approach reinforces a broader message: the craft of programming isn’t just about code, it’s about how we work with each other.\nHearing her speak live during the Hangout reminded me how powerful it is to see someone model that ethos in real time. Jenny brings a grounded, candid energy to technical topics that could otherwise feel dry or overwhelming. She shared moments from her own transitions, from academia to software engineering, and it was validating to hear how much she gravitated toward the building and tinkering aspects of her work. I relate to that deeply.\nShe also talked about visibility and community with a humility that stood out. For someone so recognizable in the Posit ecosystem, she spoke with clarity about knowing who she is and the kind of work she wants to be doing. That’s the kind of career clarity I aspire to, and the kind of example I appreciate as I carve out my own path.\nThis is something I’ve been reflecting on a lot lately, especially as I learn out loud and try to build systems that can grow with me. These resources reminded me that small decisions (like naming a file or setting up your folders) are not small at all. They shape your future ability to revisit, reuse, and explain your work.\nThey’re also part of how we show respect: for our teammates, for the community, and for ourselves.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/portfolios.html",
-    "href": "blogs/portfolios.html",
-    "title": "📌 How to Build a Data Analyst Portfolio: Tips for Success",
+    "objectID": "blogs/data_rescue.html",
+    "href": "blogs/data_rescue.html",
+    "title": "📌 The Data Rescue Project",
     "section": "",
-    "text": "I saved this article as I started thinking more seriously about how to not just build skills, but actually show the work I’m doing. That doesn’t come naturally to me. I’ve always been more comfortable behind the scenes: building systems, cleaning messy data, connecting dots. Not so much broadcasting the results.\nBut the more I grow in my career, the more I realize how important visibility is. Especially in data, where most of the work is invisible unless you choose to surface it.\nThis guide from Coursera is geared toward early-career analysts, but a few reminders really landed for me:\n🔗 Read: How to Build a Data Analyst Portfolio"
+    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
   },
   {
-    "objectID": "blogs/portfolios.html#reflections",
-    "href": "blogs/portfolios.html#reflections",
-    "title": "📌 How to Build a Data Analyst Portfolio: Tips for Success",
+    "objectID": "blogs/data_rescue.html#reflections",
+    "href": "blogs/data_rescue.html#reflections",
+    "title": "📌 The Data Rescue Project",
     "section": "Reflections",
-    "text": "Reflections\nThis piece gave me permission to loosen up a bit, to treat my portfolio less like a high-stakes project and more like documentation. Not just for hiring managers, but for myself. A living space to track how I think, what I’m building, and how I’m evolving.\nI’m still figuring out what that looks like in practice. But reframing it as a form of self-documentation, not self-promotion, is helping. Im creating a quiet archive of growth, that might just be useful to someone else down the line too. Check out the Projects page of this site to see where I’m at so far in my journey to document my work experience and learning process.\nAnd I’m starting to shape these reflections into something more structured, a beginner-friendly guide called “Zero to Quarto in 14 Days” for anyone who’s been stuck at “I should really make a portfolio” and wants to get one live on GitHub in just a couple weeks with some straightforward guides to help navigate the process. I’ll share it on the Learn with Me page once it’s ready.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
+    "objectID": "blogs/awesome_quarto.html",
+    "href": "blogs/awesome_quarto.html",
+    "title": "📌 Awesome Quarto",
+    "section": "",
+    "text": "Now that I’ve been using Quarto more regularly, both for my own portfolio and for my team’s open science site, I wanted to come back to this resource I saved early on but never really dug into until now.\n📌 Awesome Quarto"
+  },
+  {
+    "objectID": "blogs/awesome_quarto.html#reflections",
+    "href": "blogs/awesome_quarto.html#reflections",
+    "title": "📌 Awesome Quarto",
+    "section": "Reflections",
+    "text": "Reflections\nWhen I first bookmarked this, Quarto still felt like a shiny new toy I hadn’t quite made space for. I skimmed it, bookmarked it, and figured I’d circle back eventually. Now that it’s become part of my real workflow, especially for publishing documentation and building out multi-page sites, I’m seeing this collection in a whole new light.\nThere’s a lot here, but a few areas I’m especially interested in as I keep building:\n\nMulti-page layouts that feel clean and navigable (especially for guides and internal documentation)\nPublishing workflows, what people are automating, and how they’re doing it\nEmbedded visualizations and examples that go beyond static charts\nHow folks are structuring content for collaboration and reuse, something I’m thinking a lot about as I try to make my scripts and documents more legible to teammates\n\nI’ve been slowly building up my own library of snippets, templates, and patterns, and this repo is a good reminder that I don’t have to start from scratch, there’s already a growing community of folks figuring this out together.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "blogs/internet_archive.html",
@@ -224,46 +252,60 @@
     "text": "Reflections\nWhat stood out to me about Deepwiki is how much context it manages to surface from a repo without you having to dig through every file. I’ve run it on a few of my own personal projects recently and was genuinely impressed by how clearly it summarized the intent, layout, and dependencies in a way that made me rethink how I structure READMEs.\nIt’s helpful for:\n\nAuditing your own repos, making sure structure, naming, and purpose are legible to others.\nLearning from unfamiliar codebases, seeing how other tools are organized before diving into the weeds.\nJust exploring: their homepage is full of commonly-used open-source projects (like VS Code) that are fun to browse through from a systems-thinking perspective.\n\nI’ve started using Deepwiki as a bit of a litmus test: does my repo make sense at a glance? Would someone new to the project understand what they’re looking at? And if not, what small tweaks would improve it?\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/awesome_quarto.html",
-    "href": "blogs/awesome_quarto.html",
-    "title": "📌 Awesome Quarto",
+    "objectID": "blogs/clean_data.html",
+    "href": "blogs/clean_data.html",
+    "title": "📌 So you’ve got a dataset, here’s how you clean it!",
     "section": "",
-    "text": "Now that I’ve been using Quarto more regularly, both for my own portfolio and for my team’s open science site, I wanted to come back to this resource I saved early on but never really dug into until now.\n📌 Awesome Quarto"
+    "text": "Came across this article again while skimming through my old bookmarks. I remembered liking it the first time around for how grounded and practical it was — and it still holds up.\n📌 So You’ve Got a Dataset. Here’s How You Clean It."
   },
   {
-    "objectID": "blogs/awesome_quarto.html#reflections",
-    "href": "blogs/awesome_quarto.html#reflections",
-    "title": "📌 Awesome Quarto",
+    "objectID": "blogs/clean_data.html#reflections",
+    "href": "blogs/clean_data.html#reflections",
+    "title": "📌 So you’ve got a dataset, here’s how you clean it!",
     "section": "Reflections",
-    "text": "Reflections\nWhen I first bookmarked this, Quarto still felt like a shiny new toy I hadn’t quite made space for. I skimmed it, bookmarked it, and figured I’d circle back eventually. Now that it’s become part of my real workflow, especially for publishing documentation and building out multi-page sites, I’m seeing this collection in a whole new light.\nThere’s a lot here, but a few areas I’m especially interested in as I keep building:\n\nMulti-page layouts that feel clean and navigable (especially for guides and internal documentation)\nPublishing workflows, what people are automating, and how they’re doing it\nEmbedded visualizations and examples that go beyond static charts\nHow folks are structuring content for collaboration and reuse, something I’m thinking a lot about as I try to make my scripts and documents more legible to teammates\n\nI’ve been slowly building up my own library of snippets, templates, and patterns, and this repo is a good reminder that I don’t have to start from scratch, there’s already a growing community of folks figuring this out together.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nWhat I appreciate about this piece is that it’s not tied to a specific tool or language. You could apply the exact same process in R, Python, SQL, or Excel, the core ideas are all about intentional, structured thinking.\nSome solid reminders:\n\nStart by actually looking at your dataset. Dimensions, types, nulls, duplicates, don’t skip the orientation.\nDon’t treat missing data like an afterthought. Handle it with intention based on context.\nEncode categorical variables early and deliberately. It’ll save you pain later.\nCheck your assumptions with basic summaries, sometimes the weirdness is obvious if you pause to look.\nModularize your cleaning steps. If you build them clearly, you can reuse them across projects.\n\nIt’s not fancy, but that’s the point. There’s something satisfying about a clean, thoughtful approach that isn’t trying to be clever, just effective. I’ve found this kind of steady rhythm in cleaning always pays off, especially when I come back to a dataset weeks or months later and can still follow my own trail.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/data_rescue.html",
-    "href": "blogs/data_rescue.html",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/portfolios.html",
+    "href": "blogs/portfolios.html",
+    "title": "📌 How to Build a Data Analyst Portfolio: Tips for Success",
     "section": "",
-    "text": "There’s something quietly powerful about the Data Rescue Project, a cross-institutional initiative to preserve vulnerable government datasets, especially environmental and climate data.\nI found this resource page a few months back and returned to it again recently. It’s a mix of tools, guides, and write-ups that center the idea of “rescuing” public data before it disappears, either from neglect or intentional suppression. The whole project reminds me that data stewardship isn’t just about pipelines and dashboards. It’s about memory. And resistance.\nIf you’ve ever wondered:\nThis resource library is a thoughtful entry point.\n🔗 Explore the Data Rescue Resources"
+    "text": "I saved this article as I started thinking more seriously about how to not just build skills, but actually show the work I’m doing. That doesn’t come naturally to me. I’ve always been more comfortable behind the scenes: building systems, cleaning messy data, connecting dots. Not so much broadcasting the results.\nBut the more I grow in my career, the more I realize how important visibility is. Especially in data, where most of the work is invisible unless you choose to surface it.\nThis guide from Coursera is geared toward early-career analysts, but a few reminders really landed for me:\n🔗 Read: How to Build a Data Analyst Portfolio"
   },
   {
-    "objectID": "blogs/data_rescue.html#reflections",
-    "href": "blogs/data_rescue.html#reflections",
-    "title": "📌 The Data Rescue Project",
+    "objectID": "blogs/portfolios.html#reflections",
+    "href": "blogs/portfolios.html#reflections",
+    "title": "📌 How to Build a Data Analyst Portfolio: Tips for Success",
     "section": "Reflections",
-    "text": "Reflections\nAs someone who works in research data and builds systems for traceability and transparency, I think a lot about the ethics of data lifecycle management. This project reinforced for me that open science requires open infrastructure, and that includes rescue, reproducibility, and resilience.\nEven outside moments of crisis, the skills and practices behind data rescue (i.e. documentation, versioning, decentralized access, and reproducible infrastructure) are foundational. We shouldn’t need suppression or instability to remind us why long-term thinking about data matters.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nThis piece gave me permission to loosen up a bit, to treat my portfolio less like a high-stakes project and more like documentation. Not just for hiring managers, but for myself. A living space to track how I think, what I’m building, and how I’m evolving.\nI’m still figuring out what that looks like in practice. But reframing it as a form of self-documentation, not self-promotion, is helping. Im creating a quiet archive of growth, that might just be useful to someone else down the line too. Check out the Projects page of this site to see where I’m at so far in my journey to document my work experience and learning process.\nAnd I’m starting to shape these reflections into something more structured, a beginner-friendly guide called “Zero to Quarto in 14 Days” for anyone who’s been stuck at “I should really make a portfolio” and wants to get one live on GitHub in just a couple weeks with some straightforward guides to help navigate the process. I’ll share it on the Learn with Me page once it’s ready.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
-    "objectID": "blogs/jenny_workflows.html",
-    "href": "blogs/jenny_workflows.html",
-    "title": "📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit",
+    "objectID": "blogs/ai_guick_guide.html",
+    "href": "blogs/ai_guick_guide.html",
+    "title": "📌 Using AI Right Now: A Quick Guide",
     "section": "",
-    "text": "I recently attended a Data Science Hangout hosted by Posit PBC featuring Jenny Bryan, a familiar name for anyone who’s spent time in the R or Posit (formerly RStudio) communities.\nJenny’s writing and talks have shaped how I think about sustainable data work. It’s not just about making your code run, it’s about setting up systems that are understandable, reusable, and respectful of future-you (or future collaborators).\nHere are two resources created by Jenny that I revisited after the talk:\n🧶 Project-oriented workflow\n🗂️ Naming things"
+    "text": "We’re in this moment where everyone’s trying to figure out what AI means for their work. Some folks are exploring new tools, some are worried about what it might take away. Personally, I’ve found AI to be an enhancement, a way to:\nThis guide by Ethan Mollick is one I bookmarked for its clarity and practicality. It walks through how to use AI in your day-to-day work right now without hype or fearmongering.\n🔗 Read: Using AI Right Now – A Quick Guide"
   },
   {
-    "objectID": "blogs/jenny_workflows.html#reflections",
-    "href": "blogs/jenny_workflows.html#reflections",
-    "title": "📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit",
+    "objectID": "blogs/ai_guick_guide.html#reflections",
+    "href": "blogs/ai_guick_guide.html#reflections",
+    "title": "📌 Using AI Right Now: A Quick Guide",
     "section": "Reflections",
-    "text": "Reflections\nWhat I appreciate most about Jenny Bryan’s work is her commitment to showing her thinking. Whether it’s how she names files or organizes projects, her approach reinforces a broader message: the craft of programming isn’t just about code, it’s about how we work with each other.\nHearing her speak live during the Hangout reminded me how powerful it is to see someone model that ethos in real time. Jenny brings a grounded, candid energy to technical topics that could otherwise feel dry or overwhelming. She shared moments from her own transitions, from academia to software engineering, and it was validating to hear how much she gravitated toward the building and tinkering aspects of her work. I relate to that deeply.\nShe also talked about visibility and community with a humility that stood out. For someone so recognizable in the Posit ecosystem, she spoke with clarity about knowing who she is and the kind of work she wants to be doing. That’s the kind of career clarity I aspire to, and the kind of example I appreciate as I carve out my own path.\nThis is something I’ve been reflecting on a lot lately, especially as I learn out loud and try to build systems that can grow with me. These resources reminded me that small decisions (like naming a file or setting up your folders) are not small at all. They shape your future ability to revisit, reuse, and explain your work.\nThey’re also part of how we show respect: for our teammates, for the community, and for ourselves.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+    "text": "Reflections\nOne of the key takeaways from the article is that prompting isn’t a party trick, it’s a skill to develop. The way you frame a question or structure a task can completely change the output you get. That’s been especially true in my own work, where I use AI tools not just to save time, but to think more clearly, draft early versions of tricky documentation, or get unstuck in a coding problem.\nMollick’s breakdown of where AI doesn’t add value is also refreshing. It’s not a replacement for domain expertise, and it can’t fix a broken process. But when used thoughtfully, it can act like a teammate, a second brain to bounce ideas off of or prototype something before it’s fully formed.\nFor me, the goal isn’t to use AI for everything. It’s to use it well, where it makes sense, and where it supports my broader intentions: clarity, creativity, and sustainable systems.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
+  },
+  {
+    "objectID": "blogs/document_everything.html",
+    "href": "blogs/document_everything.html",
+    "title": "📌 How to Document Everything at Work (Without Being Asked)",
+    "section": "",
+    "text": "I’m circling back to this Fairygodboss post that I saved several weeks back because it captures something most guides miss. The Smart Way to Document Everything at Work is one of those rare resources that applies equally well whether you’re in a technical or non-technical role.\nIt breaks down the why, when, and how of workplace documentation in a way that’s clear and non-preachy. There’s guidance on choosing the right format, understanding your audience, and avoiding the trap of writing for the sake of writing. It also validates the emotional labor that can come with documenting things that “should already be obvious.” But the biggest factor for me is how much it can reinforce your ability to self-advocate and understand your worth.\n🔗 Read “The Smart Way to Document Everything at Work”"
+  },
+  {
+    "objectID": "blogs/document_everything.html#reflections",
+    "href": "blogs/document_everything.html#reflections",
+    "title": "📌 How to Document Everything at Work (Without Being Asked)",
+    "section": "Reflections",
+    "text": "Reflections\nI think a lot about systems, how we build them, how we explain them, how we hand them off. Documentation is one of the most under-appreciated parts of that cycle. For me, it’s a chance to clarify my own thinking and build scaffolding for the people who come after me, and even future me when I return to a project months or years down the road.\nThis post reminded me that good documentation isn’t just about saving time. It’s about respect. It’s about reducing invisible friction. And sometimes, it’s about protecting the integrity of a system long after you’ve stepped away.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "blogs/best_programmers.html",
@@ -278,6 +320,20 @@
     "title": "📌 The Best Programmers I Know",
     "section": "Reflections",
     "text": "Reflections\nThis post reminded me how often we confuse “smart” with fast, or “experienced” with unteachable. The folks I admire most aren’t just great coders, they’re rigorous thinkers, generous explainers, and quiet stewards of institutional knowledge.\nIt also validates the time I spend on things that might not “look” technical, like documentation, onboarding guides, or just drawing out a messy diagram to make sense of something complex. That work matters. It compounds.\n\nThis post builds on a LinkedIn #BookmarkDive reflection. You can join the conversation here."
+  },
+  {
+    "objectID": "blogs/fair_project.html",
+    "href": "blogs/fair_project.html",
+    "title": "📌 Setting up a FAIR and reproducible project",
+    "section": "",
+    "text": "I came across this one through the excellent RDM Weekly newsletter curated by Crystal Lewis and bookmarked it right away. It’s a quick, practical read on how to structure a project for clarity, collaboration, and long-term usability, all core to good research data management.\n📌 Setting up a FAIR and reproducible project"
+  },
+  {
+    "objectID": "blogs/fair_project.html#reflections",
+    "href": "blogs/fair_project.html#reflections",
+    "title": "📌 Setting up a FAIR and reproducible project",
+    "section": "Reflections",
+    "text": "Reflections\nWhat stood out to me was how well this guide balances structure with flexibility. It’s not about rigid templates, it’s about building habits that make your work legible to others (and to your future self). The suggestions are approachable, practical, and easy to adapt across tools and teams.\nA few highlights:\n\nClear, simple folder and file naming conventions that lower the barrier to entry.\nEmphasis on project-level READMEs and contributor guides to make intent and roles transparent.\nEncouragement to keep things tool-agnostic and lightweight when possible, use formats and workflows that reduce dependency headaches.\nA reminder that reproducibility isn’t just technical, it’s about documentation, clarity, and making your work usable by people who weren’t there when it was built.\n\nThis post aligns really closely with how I’ve been thinking about data work in collaborative research environments, where multiple people might touch the same pipeline (sometimes months apart). It’s also nudged me to revisit my own project templates and fill in some of the gaps I’ve been meaning to address.\nDefinitely one I’ll return to as I keep refining what “good infrastructure” looks like in my own work.\n\nThis post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation there."
   },
   {
     "objectID": "projects/chicken_soup.html",
@@ -389,6 +445,6 @@
     "href": "bookmarkdive.html",
     "title": " The BookmarkDive blog",
     "section": "",
-    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 Awesome Quarto\n\n\nAug 14, 2025\n\n\n\n\n📌 Deepwiki\n\n\nAug 11, 2025\n\n\n\n\n📌 Internet Archive: The Dataset Collection\n\n\nAug 8, 2025\n\n\n\n\n📌 How to Build a Data Analyst Portfolio: Tips for Success\n\n\nAug 1, 2025\n\n\n\n\n📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit\n\n\nJul 31, 2025\n\n\n\n\n📌 Using AI Right Now: A Quick Guide\n\n\nJul 28, 2025\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "The BookmarkDive blog\nA curated trail of the resources, tools, and reflections shaping how I think about data, systems, and building things that last.\nEvery post starts with something I’ve saved (a newsletter, a code snippet, a talk, a blog post) and ends with a short reflection on why it resonated, what I took away, or how I might use it. This series helps me stay grounded in my learning and make space for slow, intentional exploration, even when life and work move fast.\nSome entries are technical. Some are reflective. All of them mark a breadcrumb in my journey toward better data practice, deeper thinking, and more sustainable growth.\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Entry\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nEntry\n\n\nDate\n\n\n\n\n\n\n📌 Setting up a FAIR and reproducible project\n\n\nAug 29, 2025\n\n\n\n\n📌 Awesome Python\n\n\nAug 25, 2025\n\n\n\n\n📌 9 Trends Shaping the Future of Data Management in 2025\n\n\nAug 22, 2025\n\n\n\n\n📌 So you’ve got a dataset, here’s how you clean it!\n\n\nAug 18, 2025\n\n\n\n\n📌 Awesome Quarto\n\n\nAug 14, 2025\n\n\n\n\n📌 Deepwiki\n\n\nAug 11, 2025\n\n\n\n\n📌 Internet Archive: The Dataset Collection\n\n\nAug 8, 2025\n\n\n\n\n📌 How to Build a Data Analyst Portfolio: Tips for Success\n\n\nAug 1, 2025\n\n\n\n\n📌 Data Science Hangout with Jenny Bryan, Senior Software Engineer at Posit\n\n\nJul 31, 2025\n\n\n\n\n📌 Using AI Right Now: A Quick Guide\n\n\nJul 28, 2025\n\n\n\n\n📌 10 Things to Unlearn to Truly Grow in Your Career\n\n\nJul 23, 2025\n\n\n\n\n📌 Git Stash for Newbies\n\n\nJul 16, 2025\n\n\n\n\n📌 The Data Rescue Project\n\n\nJul 9, 2025\n\n\n\n\n📌 How to Document Everything at Work (Without Being Asked)\n\n\nJul 2, 2025\n\n\n\n\n📌 The Best Programmers I Know\n\n\nJun 25, 2025\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]

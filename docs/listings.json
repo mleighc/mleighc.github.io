@@ -19,6 +19,10 @@
   {
     "listing": "/bookmarkdive.html",
     "items": [
+      "/blogs/fair_project.html",
+      "/blogs/awesome_python.html",
+      "/blogs/data_mgmt_trends.html",
+      "/blogs/clean_data.html",
       "/blogs/awesome_quarto.html",
       "/blogs/deepwiki.html",
       "/blogs/internet_archive.html",
