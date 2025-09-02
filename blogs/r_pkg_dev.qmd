@@ -1,0 +1,38 @@
+---
+title: "📌 Awesome R Package Development Tools"
+date: "2025-09-01"
+description: "A curated collection of tools, workflows, and best practices for building R packages, perfect for making the leap from analyst scripts to reusable infrastructure."
+categories:
+   - r
+   - package development
+   - workflow
+   - automation
+---
+
+Every now and then I come across a resource I saved way back that still feels incredibly relevant, and this one definitely fits that category.
+
+📌 [Awesome R Package Development Tools](https://indrajeetpatil.github.io/awesome-r-pkgtools/)
+
+> A curated collection of tools, workflows, and best practices for building R packages.
+
+I bookmarked this ages ago when I first started dreaming about turning our in-house MADC functions into a proper package. I still have a barebones repo sitting quietly in a corner of GitLab, mostly utility functions I use daily to pull and wrangle research data, but this site has stayed in the back of my mind as one of those *“when I’m ready to level this up”* references.
+
+Even though I’m not actively building a package yet, revisiting this reminded me that there's a whole ecosystem out there built to support that leap. It’s not just about having the right tools, it's about seeing the path forward, even if you're coming from an analyst background.
+
+What I like about this collection is that it doesn’t just list libraries, it actually walks you through how to **think like a package developer**, with guidance on structure, testing, documentation, and deployment.
+
+A few tools that stood out:
+
+- **{usethis}** for scaffolding structure and setup, a lifesaver for project hygiene.
+- **{testthat}** for building tests as I go (aspirational, but I’m trying).
+- **{pkgdown}** for instantly making docs more shareable and browsable.
+- **{fledge}** to automate changelogs and version bumps without the fuss.
+- **GitHub Actions templates** for keeping tests and builds running smoothly behind the scenes.
+
+Coming back to this list was a good reminder that if and when I do move forward with turning our internal scripts into something more formal and reusable, I won’t have to start from scratch. From scaffolding to polish to automation, it's all here when I’m ready.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_awesome-r-package-development-tools-activity-7368309675768958976-xhB1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7368309674833629185?collapsed=1" height="719" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
