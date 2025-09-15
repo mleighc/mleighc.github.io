@@ -1,0 +1,36 @@
+---
+title: "📌 R Workflow"
+date: ""
+description: "Reflections on an opinionated but timeless overview of how to structure R-based statistical projects for clarity, reproducibility, and long-term collaboration."
+categories:
+   - r
+   - reproducibility
+   - workflow
+   - research
+---
+
+I always love stumbling across a bookmark I completely forgot about, the kind that makes you feel oddly grateful to past-you for spotting something useful before you even knew you'd need it.
+
+📌 [R Workflow by Frank E Harrell Jr](https://hbiostat.org/rflow/)
+
+> A concise, mindset-first guide to structuring R-based statistical analysis projects, with a focus on reproducibility, sustainability, and clear communication.
+
+## Reflections
+
+This isn’t a how-to or tutorial, it’s a focused, opinionated take on how to *think* about analytical projects in R, especially when working in collaborative or research-driven contexts. What I appreciated most was how it made me pause and reevaluate some of the defaults I’ve accumulated over time.
+
+A few things that stood out:
+
+- **Script-first workflows**: no hidden logic in interactive consoles or notebooks. If it matters, it should be in the script.
+- **Project structure is part of reproducibility**, not an afterthought. Folder organization, file naming, and code modularity all impact how easily others (and future-you) can navigate the work.
+- **Communication isn’t extra**: comments, documentation, audit trails, they *are* the work. Especially in long-term or handoff-heavy settings.
+
+I’m not following this workflow to the letter (yet), but it resonated with some practices I’ve already started to build around logging, commenting, and structuring code for clarity. It gave me a few nudges to go further and a bit of validation that I’m heading in the right direction, slowly, but intentionally.
+
+Definitely one I’ll return to as I keep shaping my own standards for what “well-structured” means in practice.
+
+---
+
+This post builds on a recent LinkedIn #BookmarkDive reflection, feel free to join the conversation [there](https://www.linkedin.com/posts/mirandaleigh_r-workflow-activity-7370853177430261760-bSxR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAlIdLkBFtiJzHRZxK10HWpjPNqHsthrMgg).
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7370853176767463424?collapsed=1" height="719" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

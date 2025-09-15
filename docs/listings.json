@@ -19,6 +19,7 @@
   {
     "listing": "/bookmarkdive.html",
     "items": [
+      "/blogs/r_workflow.html",
       "/blogs/r_pkg_dev.html",
       "/blogs/fair_project.html",
       "/blogs/awesome_python.html",
